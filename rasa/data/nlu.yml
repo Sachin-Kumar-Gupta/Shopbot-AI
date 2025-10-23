@@ -1,0 +1,195 @@
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: user_login
+  examples: |
+    - login sachin 1234
+    - login john password123
+
+- intent: search_product
+  examples: |
+    - show me [books](product_name)
+    - I want [books](product_name)
+    - find [books](product_name)
+    - do you have [books](product_name)
+    - looking for [books](product_name)
+    - I want to buy [poetry collection](product_name)
+    - show me [grocery](product_name)
+    - show me [fitness band](product_name)
+    - show me [books](category)
+    - [books](category)
+    - show me phones under 12000
+    - phones below 20000
+    - laptops above 50000
+    - TVs over 30000
+    - shoes between 2000 and 4000
+    - under 200
+    - below 1500
+    - over 999
+    - between 1000 and 2000
+    - find coats under 3000
+    - buy earbuds below 1500
+
+- intent: ask_price
+  examples: |
+    - how much is the [smartphone](product_name)
+    - price of [wireless earbuds](product_name)
+    - what's the cost of [laptop](product_name)
+
+- intent: track_order
+  examples: |
+    - track my order [ORD1001](order_id)
+    - where is order [ORD1002](order_id)
+    - status of order [ORD123](order_id)
+    
+- intent: check_stock
+  examples: |
+    - Is [smartphone](product_name) in stock?
+    - Do you have [blender](product_name)?
+    - Is [laptop backpack](product_name) available?
+
+- intent: ask_shipping
+  examples: |
+    - how long does delivery take
+    - shipping time
+    - when will my order arrive
+    
+- intent: add_to_cart
+  examples: |
+    - add [iPhone](product) to my cart
+    - put [shoes](product) in the cart
+    - I want to buy [laptop](product)
+    - add [Samsung Galaxy](product)
+    - can you add [headphones](product) to cart
+
+- intent: show_cart
+  examples: |
+    - show my cart
+    - what’s in my cart
+    - view cart
+    - show cart items
+    - display my shopping cart
+
+- intent: remove_from_cart
+  examples: |
+    - remove [laptop](product) from my cart
+    - delete [shoes](product) from cart
+    - take out [iPhone](product)
+    - remove item from cart
+    - clear [tablet](product)
+
+- intent: checkout
+  examples: |
+    - checkout my cart
+    - proceed to checkout
+    - place my order
+    - buy now
+    - finish my purchase
+
+- intent: out_of_scope
+  examples: |
+    - tell me a joke
+    - who won the match
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    
+- regex: price_phrase
+  examples: |
+    - under [0-9]+
+    - below [0-9]+
+    - over [0-9]+
+    - above [0-9]+
+    - between [0-9]+ and [0-9]+
+
+- intent: inform_price_filter
+  examples: |
+    - under 200 
+    - below 1500
+    - between 1000 and 2000
+    - over 999
+    - above 499
