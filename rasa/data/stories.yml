@@ -1,0 +1,68 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: product search by name
+  steps:
+  - intent: search_product
+    entities:
+      - product_name: "headphones"
+  - action: action_search_products
+
+- story: track order happy path
+  steps:
+  - intent: track_order
+    entities:
+      - order_id: "ORD1001"
+  - action: action_track_order
+  
+- story: check stock flow
+  steps:
+  - intent: check_stock
+  - action: action_check_stock
+  
+- story: add and view cart
+  steps:
+  - intent: add_to_cart
+  - action: action_add_to_cart
+  - intent: show_cart
+  - action: action_show_cart
+
+- story: remove item
+  steps:
+  - intent: remove_from_cart
+  - action: action_remove_from_cart
+  - intent: show_cart
+  - action: action_show_cart
+
+- story: checkout
+  steps:
+  - intent: checkout
+  - action: action_checkout
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye

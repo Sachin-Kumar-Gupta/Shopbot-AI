@@ -1,0 +1,63 @@
+version: "3.1"
+
+rules:
+
+- rule: Handle user login
+  steps:
+    - intent: user_login
+    - action: action_user_login
+
+- rule: ask for order id when tracking
+  steps:
+  - intent: track_order
+  - action: action_track_order
+
+- rule: Search for product
+  steps:
+  - intent: search_product
+  - action: action_search_products
+
+- rule: Clear last category memory
+  steps:
+  - intent: clear_category
+  - action: action_clear_category
+
+- rule: Add to cart rule
+  steps:
+  - intent: add_to_cart
+  - action: action_add_to_cart
+
+- rule: Show cart rule
+  steps:
+  - intent: show_cart
+  - action: action_show_cart
+
+- rule: Remove from cart rule
+  steps:
+  - intent: remove_from_cart
+  - action: action_remove_from_cart
+
+- rule: Apply price filter on last search
+  steps:
+  - intent: inform_price_filter
+  - action: action_search_products
+
+- rule: Checkout rule
+  steps:
+  - intent: checkout
+  - action: action_checkout
+
+- rule: fallback to default message
+  steps:
+  - intent: out_of_scope
+  - action: utter_default
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
