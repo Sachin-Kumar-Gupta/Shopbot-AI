@@ -1,0 +1,110 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - search_product
+  - check_stock
+  - track_order
+  - ask_price
+  - ask_shipping
+  - inform
+  - out_of_scope
+  - clear_category
+  - add_to_cart
+  - show_cart
+  - remove_from_cart
+  - checkout
+
+entities:
+  - product_name
+  - category
+  - order_id
+  
+slots:
+  product_name:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: product_name
+        
+  category:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: category
+
+  order_id:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: order_id
+        
+  last_category:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  cart:
+    type: list
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+
+responses:
+  utter_greet:
+  - text: "Hello! I'm ShopBot 🤖. I can help you find products or check orders. How can I help?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Goodbye! If you need more help, I'll be here."
+
+  utter_ask_product:
+  - text: "Which product or category are you looking for?"
+  
+  utter_ask_order_id:
+  - text: "Please provide your order ID (e.g., ORD12345)."
+  
+  utter_no_results:
+  - text: "I couldn't find any matching products. Try another keyword or category."
+  
+  utter_default:
+  - text: "Sorry, I didn't understand. Can you rephrase?"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+  
+  utter_clear_category:
+    - text: "✅ I've cleared your last search. What would you like to search for next?"
+    
+actions:
+  - action_search_products
+  - action_check_stock
+  - action_track_order
+  - action_clear_category
+  - action_add_to_cart
+  - action_show_cart
+  - action_remove_from_cart
+  - action_checkout
+  - action_user_login
+
+
+session_config:
+  session_expiration_time: 120
+  carry_over_slots_to_new_session: true
