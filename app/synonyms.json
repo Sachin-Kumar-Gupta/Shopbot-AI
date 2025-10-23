@@ -1,0 +1,8 @@
+{
+    "books": ["novel", "literature", "story", "book", "comics"],
+    "electronics": ["gadgets", "devices", "tech"],
+    "clothing": ["dress", "tshirt", "shirt", "jeans","jacket","jackets", "apparel"],
+    "shoes": ["sneakers", "footwear", "boots"],
+    "grocery": ["food", "vegetables", "fruits"],
+    "automotive": ["car accessories", "bike parts", "vehicle items"]
+}

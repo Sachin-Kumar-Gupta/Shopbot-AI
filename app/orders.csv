@@ -1,0 +1,2001 @@
+order_id,product_id,product_name,status,expected_delivery,order_date,customer_name,city
+ORD443,P00126,AutoCare Coffee,Shipped,2025-09-24,2025-09-10,Nikhil,Lucknow
+ORD398,P00707,PlayTime Cage,Shipped,2025-09-23,2025-09-04,Aryan,Bangalore
+ORD1026,P00856,ReadWell Food Bowl,Delivered,,2025-09-06,Kartik,Kalyan-Dombivli
+ORD1811,P00121,TechPro Coffee Maker,Delivered,,2025-09-02,Arya,Gwalior
+ORD067,P00025,HomeEssentials Moisturizer,Processing,2025-09-22,2025-08-28,Vedika,Agra
+ORD592,P00578,TechPro Face Cream,Out for Delivery,2025-09-21,2025-08-28,Kabir,Ludhiana
+ORD763,P00382,SportsFit Belt,Delivered,,2025-09-15,Neha,Pune
+ORD1538,P00479,SportsFit Art Kit,Delivered,,2025-09-02,Tanya,Rajkot
+ORD1027,P00665,StyleMax Air Freshener,Delivered,,2025-08-21,Jiya,Ahmedabad
+ORD506,P00288,PlayTime Pet Bed,Shipped,2025-09-23,2025-09-03,Nikhil,Mumbai
+ORD767,P00089,SportsFit Tablet,Delivered,,2025-09-01,Divya,Mumbai
+ORD137,P00030,SportsFit Pasta,Processing,2025-09-23,2025-09-03,Kavya,Dhanbad
+ORD1255,P00200,HomeEssentials Sneakers,Delivered,,2025-09-17,Pooja,Navi Mumbai
+ORD697,P00418,FreshChoice Dress,Out for Delivery,2025-09-23,2025-09-03,Sachin,Vadodara
+ORD249,P00139,TechPro Cage,Shipped,2025-09-24,2025-09-06,Sneha,Allahabad
+ORD1616,P00936,AutoCare Pet Toy,Delivered,,2025-09-16,Zara,Amritsar
+ORD071,P00595,SportsFit Lipstick,Processing,2025-09-21,2025-09-10,Ashish,Jabalpur
+ORD1580,P00338,BeautyBliss Cricket Bat,Delivered,,2025-09-02,Vikas,Navi Mumbai
+ORD111,P00942,AutoCare Smartwatch,Processing,2025-09-25,2025-09-14,Tanya,Delhi
+ORD1727,P00572,StyleMax Charger,Delivered,,2025-09-03,Tanya,Bhopal
+ORD1852,P00686,ReadWell Video Game,Delivered,,2025-09-09,Ishaan,Srinagar
+ORD314,P00971,ReadWell Coffee Maker,Shipped,2025-09-25,2025-09-06,Anushka,Rajkot
+ORD1458,P00953,HomeEssentials Novel,Delivered,,2025-08-22,Ayush,Bhopal
+ORD1902,P00125,PlayTime Sneakers,Cancelled,,2025-08-20,Aditi,Rajkot
+ORD187,P00892,TechPro Plates Set,Processing,2025-09-24,2025-09-04,Akshay,Indore
+ORD1772,P00181,SportsFit Seat Covers,Delivered,,2025-09-01,Akash,Meerut
+ORD1944,P00167,AutoCare Nuts,Cancelled,,2025-08-31,Amit,Lucknow
+ORD920,P00418,FreshChoice Dress,Delivered,,2025-08-20,Vikas,Dhanbad
+ORD035,P00052,StyleMax Wireless Earbuds,Processing,2025-09-24,2025-08-31,Neha,Navi Mumbai
+ORD565,P00937,PetLove GPS,Out for Delivery,2025-09-23,2025-09-12,Ruchi,Kalyan-Dombivli
+ORD010,P00541,SportsFit Coffee Maker,Processing,2025-09-25,2025-08-22,Vivek,Thane
+ORD1288,P00816,HomeEssentials Cereals,Delivered,,2025-09-07,Ruchi,Dhanbad
+ORD339,P00084,TechPro Tablet,Shipped,2025-09-26,2025-08-31,Diya,Nashik
+ORD1238,P00774,ReadWell Tablet,Delivered,,2025-09-12,Vikas,Ranchi
+ORD272,P00330,ReadWell Backpack,Shipped,2025-09-22,2025-08-30,Ananya,Jaipur
+ORD396,P00329,TechPro Dumbbells,Shipped,2025-09-21,2025-09-15,Sachin,Vadodara
+ORD260,P00808,FreshChoice Perfume,Shipped,2025-09-25,2025-08-21,Aadhya,Patna
+ORD982,P00776,AutoCare Blender,Delivered,,2025-08-23,Siddharth,Indore
+ORD119,P00773,AutoCare Sunscreen,Processing,2025-09-22,2025-09-18,Krishna,Delhi
+ORD1206,P00645,StyleMax Cushions,Delivered,,2025-09-02,Akash,Howrah
+ORD741,P00163,FreshChoice Dress,Delivered,,2025-09-09,Yash,Visakhapatnam
+ORD1581,P00215,HomeEssentials Gym Bag,Delivered,,2025-08-27,Lakshmi,Gwalior
+ORD1222,P00249,AutoCare Science Book,Delivered,,2025-09-16,Kartik,Jaipur
+ORD1041,P00659,PetLove Cap,Delivered,,2025-08-20,Ishaan,Amritsar
+ORD1375,P00273,ReadWell Honey,Delivered,,2025-08-25,Varun,Chennai
+ORD548,P00570,BeautyBliss Keyboard,Out for Delivery,2025-09-21,2025-09-03,Shreya,Meerut
+ORD507,P00268,BeautyBliss Sunscreen,Shipped,2025-09-22,2025-09-06,Aryan,Patna
+ORD556,P00053,StyleMax Biography,Out for Delivery,2025-09-24,2025-09-10,Akash,Chennai
+ORD880,P00380,ReadWell Knife Set,Delivered,,2025-08-21,Suresh,Faridabad
+ORD1543,P00171,TechPro History Book,Delivered,,2025-09-05,Ravi,Gwalior
+ORD021,P00100,ReadWell Cricket Bat,Processing,2025-09-24,2025-08-28,Shubham,Vasai-Virar
+ORD1735,P00277,PlayTime Moisturizer,Delivered,,2025-09-10,Arya,Pimpri-Chinchwad
+ORD369,P00006,SportsFit Dog Food,Shipped,2025-09-21,2025-08-21,Abhinav,Pimpri-Chinchwad
+ORD182,P00357,ReadWell Nail Polish,Processing,2025-09-23,2025-09-05,Sachin,Kolkata
+ORD1691,P00566,StyleMax GPS,Delivered,,2025-08-23,Aryan,Meerut
+ORD1250,P00039,FreshChoice Hoodie,Delivered,,2025-08-26,Tanvi,Rajkot
+ORD078,P00317,SportsFit Comic Book,Processing,2025-09-24,2025-08-28,Sachin,Rajkot
+ORD659,P00687,SportsFit Sneakers,Out for Delivery,2025-09-24,2025-08-22,Siddharth,Ludhiana
+ORD954,P00398,BeautyBliss Curtains,Delivered,,2025-08-26,Aditya,Coimbatore
+ORD742,P00159,PlayTime Action Figure,Delivered,,2025-09-11,Arjun,Vasai-Virar
+ORD1276,P00529,ReadWell Socks,Delivered,,2025-09-01,Aarav,Pimpri-Chinchwad
+ORD081,P00583,StyleMax Cap,Processing,2025-09-24,2025-09-09,Aadhya,Ghaziabad
+ORD223,P00683,FreshChoice Art Book,Processing,2025-09-24,2025-09-18,Raj,Allahabad
+ORD564,P00206,SportsFit Toaster,Out for Delivery,2025-09-26,2025-08-24,Isha,Ludhiana
+ORD1493,P00398,BeautyBliss Curtains,Delivered,,2025-08-28,Priya,Faridabad
+ORD1044,P00458,BeautyBliss Lamp,Delivered,,2025-09-08,Rahul,Pune
+ORD1134,P00493,SportsFit GPS,Delivered,,2025-09-01,Ankit,Howrah
+ORD110,P00685,HomeEssentials Art Book,Processing,2025-09-24,2025-08-28,Jiya,Srinagar
+ORD479,P00790,StyleMax Yoga Mat,Shipped,2025-09-26,2025-09-09,Lakshmi,Dhanbad
+ORD1672,P00584,TechPro Leash,Delivered,,2025-08-24,Rohan,Vasai-Virar
+ORD585,P00308,StyleMax Art Kit,Out for Delivery,2025-09-21,2025-08-28,Aditya,Hyderabad
+ORD278,P00409,StyleMax Wireless Earbuds,Shipped,2025-09-26,2025-09-05,Arya,Ludhiana
+ORD1390,P00123,BeautyBliss Grooming Kit,Delivered,,2025-09-06,Nikhil,Mumbai
+ORD1051,P00563,FreshChoice Oil,Delivered,,2025-09-18,Arjun,Jabalpur
+ORD1827,P00385,HomeEssentials Running Shoes,Delivered,,2025-08-21,Maya,Chennai
+ORD1393,P00162,FreshChoice Poetry,Delivered,,2025-09-03,Arjun,Gwalior
+ORD1905,P00994,PlayTime Blender,Cancelled,,2025-08-26,Uday,Amritsar
+ORD1808,P00709,PetLove Gym Bag,Delivered,,2025-09-17,Kavya,Dhanbad
+ORD1863,P00114,FreshChoice Building Blocks,Delivered,,2025-09-06,Simran,Srinagar
+ORD1598,P00406,ReadWell Bluetooth Speaker,Delivered,,2025-08-26,Aditi,Nagpur
+ORD079,P00714,HomeEssentials Honey,Processing,2025-09-25,2025-09-09,Deepika,Indore
+ORD843,P00665,StyleMax Air Freshener,Delivered,,2025-09-08,Kabir,Ranchi
+ORD1483,P00949,StyleMax Football,Delivered,,2025-09-14,Raj,Mumbai
+ORD082,P00294,TechPro Dog Food,Processing,2025-09-24,2025-09-12,Sachin,Srinagar
+ORD1292,P00539,HomeEssentials Headphones,Delivered,,2025-08-24,Vivek,Aurangabad
+ORD1982,P00733,SportsFit Chocolate,Cancelled,,2025-09-12,Raj,Kanpur
+ORD1090,P00700,PlayTime Candles,Delivered,,2025-09-10,Diya,Pune
+ORD1382,P00682,PlayTime Honey,Delivered,,2025-09-12,Isha,Meerut
+ORD1599,P00199,BeautyBliss Sneakers,Delivered,,2025-09-08,Sanya,Aurangabad
+ORD330,P00931,PetLove Coffee,Shipped,2025-09-25,2025-08-24,Kiran,Ludhiana
+ORD456,P00697,BeautyBliss Cushions,Shipped,2025-09-21,2025-08-30,Deepika,Kolkata
+ORD213,P00642,StyleMax Doll,Processing,2025-09-24,2025-08-27,Uday,Bangalore
+ORD1938,P00184,SportsFit Tool Kit,Cancelled,,2025-09-03,Nikhil,Delhi
+ORD1082,P00944,SportsFit Bicycle,Delivered,,2025-08-28,Deepika,Nagpur
+ORD1036,P00742,PetLove Novel,Delivered,,2025-08-31,Maya,Agra
+ORD224,P00162,FreshChoice Poetry,Processing,2025-09-24,2025-09-16,Shreya,Coimbatore
+ORD458,P00407,HomeEssentials Self-Help Book,Shipped,2025-09-25,2025-08-30,Vedika,Amritsar
+ORD538,P00785,StyleMax Art Kit,Shipped,2025-09-21,2025-08-20,Naina,Thane
+ORD1396,P00811,SportsFit Puzzle,Delivered,,2025-09-15,Deepika,Dhanbad
+ORD1703,P00055,AutoCare Running Shoes,Delivered,,2025-08-21,Sanya,Allahabad
+ORD840,P00383,HomeEssentials Science Book,Delivered,,2025-08-27,Varun,Coimbatore
+ORD1777,P00738,BeautyBliss Poetry,Delivered,,2025-08-31,Naina,Dhanbad
+ORD637,P00674,PlayTime Backpack,Out for Delivery,2025-09-23,2025-08-28,Jiya,Gwalior
+ORD106,P00007,PlayTime Plates Set,Processing,2025-09-23,2025-09-07,Tanvi,Kalyan-Dombivli
+ORD1671,P00211,ReadWell Educational Toy,Delivered,,2025-08-28,Ruchi,Ghaziabad
+ORD245,P00906,PetLove Chocolate,Shipped,2025-09-23,2025-09-01,Maya,Chennai
+ORD1338,P00317,SportsFit Comic Book,Delivered,,2025-09-11,Nikhil,Vadodara
+ORD1174,P00833,HomeEssentials Perfume,Delivered,,2025-08-31,Vedika,Coimbatore
+ORD1279,P00568,PetLove Car Mats,Delivered,,2025-08-20,Kabir,Aurangabad
+ORD1158,P00203,SportsFit Football,Delivered,,2025-08-26,Kiara,Agra
+ORD286,P00213,SportsFit Keyboard,Shipped,2025-09-25,2025-08-31,Manish,Lucknow
+ORD500,P00280,StyleMax Biography,Shipped,2025-09-21,2025-09-12,Samar,Kanpur
+ORD1681,P00446,ReadWell History Book,Delivered,,2025-09-01,Manish,Nagpur
+ORD1901,P00553,SportsFit Art Book,Cancelled,,2025-09-13,Tanya,Ghaziabad
+ORD402,P00147,HomeEssentials Art Kit,Shipped,2025-09-25,2025-08-22,Zara,Bangalore
+ORD1422,P00821,PetLove Blender,Delivered,,2025-08-29,Amit,Faridabad
+ORD301,P00114,FreshChoice Building Blocks,Shipped,2025-09-26,2025-09-09,Kiara,Navi Mumbai
+ORD1127,P00995,StyleMax Pet Bed,Delivered,,2025-08-25,Tanya,Allahabad
+ORD1602,P00918,PlayTime Football,Delivered,,2025-09-08,Harsh,Kalyan-Dombivli
+ORD1561,P00921,TechPro Video Game,Delivered,,2025-09-14,Krishna,Mumbai
+ORD1866,P00727,StyleMax Action Figure,Delivered,,2025-08-25,Lakshmi,Jaipur
+ORD495,P00904,PetLove Car Charger,Shipped,2025-09-22,2025-08-23,Aditya,Rajkot
+ORD1221,P00975,PlayTime Car Mats,Delivered,,2025-09-17,Tanya,Amritsar
+ORD1125,P00045,FreshChoice Leash,Delivered,,2025-09-09,Kiran,Ludhiana
+ORD1949,P00527,PlayTime Cereals,Cancelled,,2025-09-12,Kavya,Kolkata
+ORD627,P00955,PetLove Keyboard,Out for Delivery,2025-09-22,2025-08-31,Uday,Nagpur
+ORD1916,P00694,AutoCare Cookbook,Cancelled,,2025-08-28,Arjun,Amritsar
+ORD1984,P00997,FreshChoice Running Shoes,Cancelled,,2025-08-26,Arya,Thane
+ORD1043,P00077,FreshChoice Seat Covers,Delivered,,2025-08-25,Kiara,Ludhiana
+ORD1004,P00851,TechPro Football,Delivered,,2025-08-21,Ashish,Amritsar
+ORD701,P00952,TechPro Sunscreen,Out for Delivery,2025-09-22,2025-08-22,Zara,Srinagar
+ORD1455,P00658,TechPro Jeans,Delivered,,2025-09-09,Aditya,Howrah
+ORD1097,P00397,FreshChoice Musical Toy,Delivered,,2025-09-05,Ruchi,Ranchi
+ORD073,P00621,TechPro T-Shirt,Processing,2025-09-21,2025-09-02,Tanvi,Howrah
+ORD1062,P00842,TechPro Curtains,Delivered,,2025-08-27,Vikas,Kolkata
+ORD1848,P00508,FreshChoice Nuts,Delivered,,2025-09-11,Anushka,Ranchi
+ORD702,P00001,TechPro Jacket,Out for Delivery,2025-09-22,2025-09-05,Deepika,Ghaziabad
+ORD1936,P00269,StyleMax Coffee Maker,Cancelled,,2025-09-09,Isha,Ahmedabad
+ORD214,P00633,StyleMax Headphones,Processing,2025-09-22,2025-09-16,Raj,Bhopal
+ORD769,P00804,SportsFit Backpack,Delivered,,2025-09-09,Nikhil,Srinagar
+ORD1738,P00346,FreshChoice Moisturizer,Delivered,,2025-08-28,Kavya,Ludhiana
+ORD226,P00866,SportsFit Comic Book,Processing,2025-09-22,2025-09-09,Tanvi,Aurangabad
+ORD1133,P00090,ReadWell Laptop,Delivered,,2025-09-16,Akshay,Nagpur
+ORD1849,P00772,BeautyBliss Charger,Delivered,,2025-09-18,Vikas,Thane
+ORD1687,P00999,BeautyBliss Car Vacuum,Delivered,,2025-09-14,Anushka,Jaipur
+ORD008,P00750,AutoCare Lamp,Processing,2025-09-21,2025-09-03,Tanya,Jaipur
+ORD1906,P00340,AutoCare Treats,Cancelled,,2025-08-29,Ravi,Aurangabad
+ORD1403,P00622,StyleMax Lipstick,Delivered,,2025-08-26,Harsh,Patna
+ORD452,P00495,PlayTime Comic Book,Shipped,2025-09-23,2025-08-26,Vedika,Faridabad
+ORD1150,P00900,SportsFit Sunscreen,Delivered,,2025-09-16,Rohit,Thane
+ORD1855,P00190,SportsFit Collar,Delivered,,2025-08-24,Sneha,Srinagar
+ORD1609,P00585,AutoCare Action Figure,Delivered,,2025-08-30,Tanvi,Nagpur
+ORD103,P00339,StyleMax Doll,Processing,2025-09-24,2025-09-01,Vikram,Pune
+ORD644,P00426,HomeEssentials Dash Cam,Out for Delivery,2025-09-21,2025-08-20,Avani,Lucknow
+ORD097,P00813,SportsFit Blender,Processing,2025-09-23,2025-09-04,Nikhil,Patna
+ORD628,P00699,BeautyBliss Tire Pump,Out for Delivery,2025-09-25,2025-08-25,Aditi,Srinagar
+ORD256,P00203,SportsFit Football,Shipped,2025-09-22,2025-08-28,Abhinav,Pune
+ORD1952,P00278,TechPro Doll,Cancelled,,2025-08-28,Simran,Kolkata
+ORD691,P00502,PetLove Moisturizer,Out for Delivery,2025-09-25,2025-09-14,Priya,Kalyan-Dombivli
+ORD1409,P00878,PlayTime Charger,Delivered,,2025-09-07,Naina,Ludhiana
+ORD1395,P00365,FreshChoice Cookbook,Delivered,,2025-08-29,Gaurav,Allahabad
+ORD1843,P00228,FreshChoice Headphones,Delivered,,2025-08-21,Gaurav,Howrah
+ORD1220,P00099,ReadWell Doll,Delivered,,2025-09-13,Isha,Gwalior
+ORD1316,P00369,AutoCare Keyboard,Delivered,,2025-09-01,Nisha,Nashik
+ORD1323,P00294,TechPro Dog Food,Delivered,,2025-09-04,Diya,Kanpur
+ORD1436,P00547,HomeEssentials Yoga Mat,Delivered,,2025-08-30,Zara,Nashik
+ORD1654,P00570,BeautyBliss Keyboard,Delivered,,2025-08-29,Ankit,Ghaziabad
+ORD1265,P00589,BeautyBliss Cereals,Delivered,,2025-09-18,Prachi,Nagpur
+ORD319,P00458,BeautyBliss Lamp,Shipped,2025-09-22,2025-09-15,Nisha,Indore
+ORD1035,P00583,StyleMax Cap,Delivered,,2025-09-18,Siddharth,Howrah
+ORD1718,P00802,HomeEssentials Laptop,Delivered,,2025-08-27,Naina,Dhanbad
+ORD1802,P00901,StyleMax Dress,Delivered,,2025-09-03,Anushka,Mumbai
+ORD624,P00753,SportsFit Cookbook,Out for Delivery,2025-09-26,2025-08-27,Kiara,Howrah
+ORD1615,P00384,FreshChoice Remote Car,Delivered,,2025-08-24,Aditya,Indore
+ORD1124,P00823,FreshChoice Dress,Delivered,,2025-09-02,Aryan,Dhanbad
+ORD149,P00197,SportsFit Tool Kit,Processing,2025-09-26,2025-09-12,Kartik,Patna
+ORD940,P00020,PlayTime Textbook,Delivered,,2025-09-11,Nisha,Jabalpur
+ORD1231,P00264,PetLove Remote Car,Delivered,,2025-09-12,Aadhya,Mumbai
+ORD1760,P00020,PlayTime Textbook,Delivered,,2025-08-21,Mohit,Lucknow
+ORD1872,P00498,FreshChoice Seat Covers,Delivered,,2025-09-02,Siddharth,Ahmedabad
+ORD178,P00094,HomeEssentials Tablet,Processing,2025-09-26,2025-09-11,Abhinav,Patna
+ORD759,P00320,HomeEssentials Science Book,Delivered,,2025-09-13,Aditya,Ranchi
+ORD1109,P00809,TechPro Action Figure,Delivered,,2025-08-31,Shubham,Chennai
+ORD981,P00749,TechPro Phone Mount,Delivered,,2025-09-07,Aarav,Ludhiana
+ORD618,P00632,SportsFit Shampoo,Out for Delivery,2025-09-24,2025-09-12,Ashish,Jaipur
+ORD1476,P00357,ReadWell Nail Polish,Delivered,,2025-09-12,Sachin,Nashik
+ORD1743,P00198,PetLove Gym Bag,Delivered,,2025-09-17,Aditi,Gwalior
+ORD261,P00880,FreshChoice Poetry,Shipped,2025-09-22,2025-09-14,Uday,Pimpri-Chinchwad
+ORD478,P00286,FreshChoice Poetry,Shipped,2025-09-23,2025-09-01,Maya,Ghaziabad
+ORD051,P00289,BeautyBliss History Book,Processing,2025-09-22,2025-08-30,Sanya,Thane
+ORD593,P00031,HomeEssentials Art Kit,Out for Delivery,2025-09-25,2025-09-12,Diya,Rajkot
+ORD1649,P00781,StyleMax Tennis Racket,Delivered,,2025-09-03,Aditi,Chennai
+ORD1487,P00209,PlayTime Tennis Racket,Delivered,,2025-09-01,Riya,Pimpri-Chinchwad
+ORD390,P00366,TechPro Car Mats,Shipped,2025-09-21,2025-08-22,Samar,Patna
+ORD438,P00465,HomeEssentials Science Book,Shipped,2025-09-26,2025-09-16,Amit,Kanpur
+ORD988,P00467,StyleMax Mouse,Delivered,,2025-08-26,Riya,Jabalpur
+ORD900,P00334,ReadWell Gym Bag,Delivered,,2025-08-22,Rahul,Navi Mumbai
+ORD210,P00320,HomeEssentials Science Book,Processing,2025-09-24,2025-09-16,Prachi,Agra
+ORD258,P00211,ReadWell Educational Toy,Shipped,2025-09-25,2025-09-16,Lakshmi,Coimbatore
+ORD1317,P00031,HomeEssentials Art Kit,Delivered,,2025-09-05,Ayush,Nashik
+ORD1308,P00826,PetLove Yoga Mat,Delivered,,2025-09-18,Kabir,Kalyan-Dombivli
+ORD255,P00408,HomeEssentials Car Vacuum,Shipped,2025-09-22,2025-09-10,Ayush,Srinagar
+ORD1749,P00479,SportsFit Art Kit,Delivered,,2025-08-28,Ankit,Srinagar
+ORD734,P00221,FreshChoice Building Blocks,Delivered,,2025-09-17,Amit,Rajkot
+ORD075,P00533,BeautyBliss Oil,Processing,2025-09-25,2025-08-20,Krishna,Faridabad
+ORD375,P00248,ReadWell Belt,Shipped,2025-09-22,2025-08-27,Ravi,Vasai-Virar
+ORD1159,P00366,TechPro Car Mats,Delivered,,2025-09-14,Naina,Kolkata
+ORD1331,P00363,HomeEssentials History Book,Delivered,,2025-08-22,Abhinav,Jaipur
+ORD1531,P00182,BeautyBliss Dress,Delivered,,2025-08-20,Zara,Gwalior
+ORD947,P00213,SportsFit Keyboard,Delivered,,2025-09-03,Ananya,Agra
+ORD1702,P00818,BeautyBliss Knife Set,Delivered,,2025-08-31,Rohit,Gwalior
+ORD421,P00421,TechPro Tire Pump,Shipped,2025-09-24,2025-08-25,Ankit,Jaipur
+ORD139,P00902,PetLove Action Figure,Processing,2025-09-26,2025-08-30,Rahul,Ranchi
+ORD1247,P00844,AutoCare Coffee,Delivered,,2025-09-14,Isha,Jabalpur
+ORD275,P00620,FreshChoice Wireless Earbuds,Shipped,2025-09-21,2025-09-05,Avani,Ranchi
+ORD1740,P00013,TechPro Sneakers,Delivered,,2025-09-05,Arya,Navi Mumbai
+ORD1860,P00814,FreshChoice Foundation,Delivered,,2025-09-12,Anushka,Gwalior
+ORD709,P00009,ReadWell Dress,Out for Delivery,2025-09-23,2025-08-27,Ayush,Vasai-Virar
+ORD1667,P00223,ReadWell Chocolate,Delivered,,2025-08-23,Dev,Coimbatore
+ORD1310,P00583,StyleMax Cap,Delivered,,2025-08-24,Kiara,Ghaziabad
+ORD1350,P00160,StyleMax Face Mask,Delivered,,2025-09-09,Aarav,Mumbai
+ORD727,P00396,AutoCare Collar,Delivered,,2025-09-15,Naina,Dhanbad
+ORD1315,P00763,PetLove Smartwatch,Delivered,,2025-09-08,Prachi,Faridabad
+ORD984,P00232,AutoCare Moisturizer,Delivered,,2025-08-27,Shreya,Ghaziabad
+ORD847,P00182,BeautyBliss Dress,Delivered,,2025-08-26,Aadhya,Howrah
+ORD1779,P00512,PetLove Leash,Delivered,,2025-09-01,Aryan,Delhi
+ORD656,P00286,FreshChoice Poetry,Out for Delivery,2025-09-26,2025-08-25,Ananya,Howrah
+ORD1880,P00155,AutoCare Face Mask,Delivered,,2025-08-22,Lakshmi,Navi Mumbai
+ORD991,P00769,PetLove Cage,Delivered,,2025-09-12,Jiya,Rajkot
+ORD1064,P00124,HomeEssentials Face Cream,Delivered,,2025-08-20,Varun,Thane
+ORD159,P00153,TechPro Sunscreen,Processing,2025-09-25,2025-08-24,Rohan,Hyderabad
+ORD860,P00816,HomeEssentials Cereals,Delivered,,2025-08-24,Maya,Kanpur
+ORD557,P00193,PetLove T-Shirt,Out for Delivery,2025-09-25,2025-08-24,Manish,Aurangabad
+ORD836,P00349,ReadWell Cap,Delivered,,2025-08-27,Kabir,Ludhiana
+ORD638,P00046,StyleMax Wireless Earbuds,Out for Delivery,2025-09-26,2025-08-31,Vedika,Agra
+ORD1472,P00631,AutoCare Educational Toy,Delivered,,2025-08-26,Siddharth,Visakhapatnam
+ORD1728,P00389,TechPro Pasta,Delivered,,2025-08-28,Tanvi,Aurangabad
+ORD1986,P00715,HomeEssentials Dumbbells,Cancelled,,2025-08-31,Kavya,Varanasi
+ORD1784,P00759,HomeEssentials Art Kit,Delivered,,2025-08-31,Meera,Chennai
+ORD673,P00501,FreshChoice Comic Book,Out for Delivery,2025-09-21,2025-09-13,Aditi,Bhopal
+ORD468,P00598,BeautyBliss Backpack,Shipped,2025-09-22,2025-09-03,Siddharth,Gwalior
+ORD1619,P00751,BeautyBliss Board Game,Delivered,,2025-08-22,Siddharth,Ghaziabad
+ORD1377,P00918,PlayTime Football,Delivered,,2025-08-23,Nisha,Meerut
+ORD1991,P00140,ReadWell Phone Case,Cancelled,,2025-09-03,Simran,Vadodara
+ORD152,P00184,SportsFit Tool Kit,Processing,2025-09-21,2025-09-09,Tanya,Jaipur
+ORD284,P00721,BeautyBliss Phone Case,Shipped,2025-09-26,2025-09-07,Vivek,Pune
+ORD1535,P00404,TechPro Video Game,Delivered,,2025-08-30,Tanya,Navi Mumbai
+ORD641,P00572,StyleMax Charger,Out for Delivery,2025-09-26,2025-08-31,Maya,Varanasi
+ORD678,P00779,PlayTime Cereals,Out for Delivery,2025-09-24,2025-08-26,Uday,Thane
+ORD1465,P00228,FreshChoice Headphones,Delivered,,2025-09-05,Ravi,Rajkot
+ORD295,P00465,HomeEssentials Science Book,Shipped,2025-09-22,2025-09-08,Sneha,Ghaziabad
+ORD654,P00756,BeautyBliss Charger,Out for Delivery,2025-09-22,2025-08-30,Aryan,Coimbatore
+ORD270,P00868,FreshChoice Curtains,Shipped,2025-09-24,2025-09-06,Ashish,Dhanbad
+ORD1983,P00924,SportsFit Tennis Racket,Cancelled,,2025-08-25,Tanya,Mumbai
+ORD360,P00292,BeautyBliss Water Bottle,Shipped,2025-09-22,2025-09-16,Priya,Varanasi
+ORD1840,P00883,StyleMax Water Bottle,Delivered,,2025-09-12,Isha,Srinagar
+ORD014,P00426,HomeEssentials Dash Cam,Processing,2025-09-23,2025-09-16,Abhinav,Coimbatore
+ORD1958,P00852,BeautyBliss Pet Toy,Cancelled,,2025-09-12,Siddharth,Allahabad
+ORD1207,P00291,FreshChoice Comic Book,Delivered,,2025-09-17,Jiya,Pimpri-Chinchwad
+ORD1959,P00730,BeautyBliss Sunscreen,Cancelled,,2025-09-01,Avani,Kalyan-Dombivli
+ORD1301,P00624,AutoCare Collar,Delivered,,2025-09-07,Kavya,Dhanbad
+ORD1814,P00136,HomeEssentials Action Figure,Delivered,,2025-09-12,Avani,Lucknow
+ORD1831,P00397,FreshChoice Musical Toy,Delivered,,2025-09-07,Dev,Srinagar
+ORD1762,P00681,AutoCare Cage,Delivered,,2025-09-06,Priya,Lucknow
+ORD1737,P00752,HomeEssentials Tennis Racket,Delivered,,2025-08-28,Kiran,Navi Mumbai
+ORD605,P00758,TechPro Tablet,Out for Delivery,2025-09-23,2025-09-06,Simran,Kolkata
+ORD1551,P00093,HomeEssentials Lipstick,Delivered,,2025-09-10,Sachin,Kanpur
+ORD1605,P00549,PlayTime Musical Toy,Delivered,,2025-09-18,Lakshmi,Howrah
+ORD1372,P00320,HomeEssentials Science Book,Delivered,,2025-08-24,Mohit,Faridabad
+ORD850,P00107,FreshChoice Mouse,Delivered,,2025-08-20,Mohit,Lucknow
+ORD1768,P00342,TechPro Laptop,Delivered,,2025-08-28,Rohan,Rajkot
+ORD1117,P00929,FreshChoice Smartwatch,Delivered,,2025-08-23,Aarav,Ahmedabad
+ORD053,P00095,BeautyBliss Doll,Processing,2025-09-24,2025-08-29,Rahul,Bangalore
+ORD281,P00094,HomeEssentials Tablet,Shipped,2025-09-21,2025-08-23,Arjun,Vasai-Virar
+ORD1100,P00971,ReadWell Coffee Maker,Delivered,,2025-09-01,Krishna,Indore
+ORD1067,P00949,StyleMax Football,Delivered,,2025-08-29,Ayush,Varanasi
+ORD1268,P00970,StyleMax Lamp,Delivered,,2025-09-15,Pooja,Pimpri-Chinchwad
+ORD1474,P00332,StyleMax Mouse,Delivered,,2025-08-28,Arjun,Ahmedabad
+ORD446,P00739,SportsFit Grooming Kit,Shipped,2025-09-22,2025-09-08,Ishaan,Dhanbad
+ORD1400,P00108,ReadWell Foundation,Delivered,,2025-09-03,Zara,Ranchi
+ORD1340,P00540,TechPro Candles,Delivered,,2025-08-23,Jiya,Delhi
+ORD1246,P00399,TechPro Football,Delivered,,2025-08-29,Aadhya,Hyderabad
+ORD1766,P00232,AutoCare Moisturizer,Delivered,,2025-09-18,Tanvi,Aurangabad
+ORD018,P00527,PlayTime Cereals,Processing,2025-09-23,2025-09-11,Kiara,Thane
+ORD032,P00714,HomeEssentials Honey,Processing,2025-09-25,2025-08-26,Kiara,Lucknow
+ORD1552,P00736,TechPro Doll,Delivered,,2025-08-26,Ayush,Hyderabad
+ORD1011,P00816,HomeEssentials Cereals,Delivered,,2025-09-08,Naina,Mumbai
+ORD229,P00541,SportsFit Coffee Maker,Processing,2025-09-25,2025-09-18,Akshay,Jabalpur
+ORD1995,P00232,AutoCare Moisturizer,Cancelled,,2025-09-01,Vikas,Vadodara
+ORD1871,P00163,FreshChoice Dress,Delivered,,2025-09-07,Shreya,Varanasi
+ORD1481,P00776,AutoCare Blender,Delivered,,2025-08-26,Anushka,Ahmedabad
+ORD1807,P00422,TechPro Backpack,Delivered,,2025-09-11,Kabir,Gwalior
+ORD1836,P00429,PlayTime Honey,Delivered,,2025-09-13,Sanya,Bhopal
+ORD1296,P00324,PetLove Belt,Delivered,,2025-08-27,Aarav,Mumbai
+ORD568,P00157,HomeEssentials Jacket,Out for Delivery,2025-09-23,2025-09-12,Meera,Meerut
+ORD1967,P00315,PlayTime Nail Polish,Cancelled,,2025-09-14,Lakshmi,Jaipur
+ORD1682,P00487,ReadWell Curtains,Delivered,,2025-09-14,Kiran,Ranchi
+ORD798,P00975,PlayTime Car Mats,Delivered,,2025-09-06,Aryan,Ranchi
+ORD1833,P00208,SportsFit Collar,Delivered,,2025-09-08,Deepika,Bangalore
+ORD623,P00322,ReadWell Video Game,Out for Delivery,2025-09-24,2025-09-13,Ruchi,Vadodara
+ORD1177,P00670,HomeEssentials Pet Bed,Delivered,,2025-08-25,Gaurav,Faridabad
+ORD1449,P00142,AutoCare Perfume,Delivered,,2025-09-10,Simran,Coimbatore
+ORD1306,P00824,AutoCare Face Mask,Delivered,,2025-09-11,Yash,Meerut
+ORD1893,P00362,PetLove Food Bowl,Delivered,,2025-09-09,Divya,Kanpur
+ORD1002,P00309,StyleMax Phone Mount,Delivered,,2025-09-05,Arya,Navi Mumbai
+ORD015,P00568,PetLove Car Mats,Processing,2025-09-25,2025-09-11,Maya,Mumbai
+ORD669,P00192,StyleMax Phone Mount,Out for Delivery,2025-09-24,2025-09-08,Akshay,Nashik
+ORD1029,P00107,FreshChoice Mouse,Delivered,,2025-09-05,Kartik,Howrah
+ORD160,P00255,FreshChoice Foundation,Processing,2025-09-25,2025-09-15,Vikram,Jabalpur
+ORD459,P00042,SportsFit Foundation,Shipped,2025-09-21,2025-09-17,Dev,Agra
+ORD1886,P00855,ReadWell Board Game,Delivered,,2025-09-02,Samar,Kalyan-Dombivli
+ORD1374,P00083,StyleMax Headphones,Delivered,,2025-08-23,Diya,Pune
+ORD777,P00504,AutoCare Science Book,Delivered,,2025-09-17,Diya,Patna
+ORD1068,P00469,ReadWell Moisturizer,Delivered,,2025-08-28,Neha,Jaipur
+ORD217,P00048,AutoCare Running Shoes,Processing,2025-09-21,2025-09-08,Ravi,Nashik
+ORD1821,P00181,SportsFit Seat Covers,Delivered,,2025-09-13,Aditi,Dhanbad
+ORD013,P00922,BeautyBliss Novel,Processing,2025-09-24,2025-09-02,Ayush,Visakhapatnam
+ORD1668,P00925,BeautyBliss Hoodie,Delivered,,2025-08-25,Aadhya,Lucknow
+ORD1577,P00920,PetLove Curtains,Delivered,,2025-09-06,Ananya,Vasai-Virar
+ORD1920,P00379,HomeEssentials Food Bowl,Cancelled,,2025-09-06,Sneha,Mumbai
+ORD935,P00167,AutoCare Nuts,Delivered,,2025-08-22,Manish,Bhopal
+ORD1782,P00827,HomeEssentials Cookbook,Delivered,,2025-08-29,Riya,Srinagar
+ORD713,P00793,TechPro History Book,Delivered,,2025-08-23,Dev,Lucknow
+ORD162,P00648,PlayTime Food Bowl,Processing,2025-09-24,2025-09-04,Rohan,Coimbatore
+ORD998,P00670,HomeEssentials Pet Bed,Delivered,,2025-08-23,Abhinav,Pune
+ORD351,P00330,ReadWell Backpack,Shipped,2025-09-24,2025-08-26,Akash,Kalyan-Dombivli
+ORD216,P00455,FreshChoice Belt,Processing,2025-09-26,2025-09-13,Rohan,Delhi
+ORD864,P00165,AutoCare Self-Help Book,Delivered,,2025-08-26,Ankit,Ranchi
+ORD1054,P00373,BeautyBliss Charger,Delivered,,2025-08-23,Akshay,Bhopal
+ORD1571,P00859,AutoCare Coffee Maker,Delivered,,2025-08-30,Rohan,Agra
+ORD023,P00063,TechPro Sunscreen,Processing,2025-09-26,2025-09-06,Sanya,Kolkata
+ORD1282,P00755,PlayTime Shampoo,Delivered,,2025-09-12,Naina,Visakhapatnam
+ORD1464,P00771,BeautyBliss Cereals,Delivered,,2025-08-30,Neha,Hyderabad
+ORD748,P00640,HomeEssentials Tablet,Delivered,,2025-09-14,Priya,Ahmedabad
+ORD1252,P00729,AutoCare Jeans,Delivered,,2025-08-30,Amit,Nagpur
+ORD785,P00718,FreshChoice Musical Toy,Delivered,,2025-08-23,Sachin,Ludhiana
+ORD613,P00534,ReadWell Art Kit,Out for Delivery,2025-09-26,2025-09-13,Suresh,Kanpur
+ORD1459,P00766,StyleMax Curtains,Delivered,,2025-08-29,Aarav,Meerut
+ORD527,P00555,StyleMax Charger,Shipped,2025-09-21,2025-09-17,Isha,Bangalore
+ORD1024,P00835,TechPro Jeans,Delivered,,2025-09-08,Kavya,Ahmedabad
+ORD166,P00566,StyleMax GPS,Processing,2025-09-22,2025-09-16,Aadhya,Kalyan-Dombivli
+ORD027,P00101,ReadWell Coffee,Processing,2025-09-26,2025-09-17,Uday,Mumbai
+ORD1697,P00116,AutoCare History Book,Delivered,,2025-08-31,Kartik,Hyderabad
+ORD717,P00631,AutoCare Educational Toy,Delivered,,2025-08-28,Zara,Thane
+ORD810,P00177,AutoCare Car Mats,Delivered,,2025-09-07,Manish,Nagpur
+ORD631,P00143,TechPro Tire Pump,Out for Delivery,2025-09-23,2025-08-29,Naina,Pimpri-Chinchwad
+ORD1810,P00429,PlayTime Honey,Delivered,,2025-09-18,Naina,Indore
+ORD1664,P00316,PlayTime Puzzle,Delivered,,2025-09-06,Ananya,Jabalpur
+ORD1199,P00217,ReadWell Cookbook,Delivered,,2025-09-14,Kavya,Kanpur
+ORD399,P00745,AutoCare Face Mask,Shipped,2025-09-23,2025-08-22,Yash,Patna
+ORD914,P00838,HomeEssentials Keyboard,Delivered,,2025-08-24,Rohan,Ghaziabad
+ORD1089,P00274,HomeEssentials Tennis Racket,Delivered,,2025-08-25,Ishaan,Vadodara
+ORD1541,P00299,HomeEssentials Cushions,Delivered,,2025-09-04,Varun,Ghaziabad
+ORD1516,P00571,ReadWell Puzzle,Delivered,,2025-09-01,Ayush,Nagpur
+ORD401,P00373,BeautyBliss Charger,Shipped,2025-09-26,2025-09-02,Ishaan,Delhi
+ORD141,P00738,BeautyBliss Poetry,Processing,2025-09-24,2025-09-05,Naina,Aurangabad
+ORD1596,P00519,HomeEssentials Mouse,Delivered,,2025-09-01,Sachin,Mumbai
+ORD1262,P00937,PetLove GPS,Delivered,,2025-08-31,Shreya,Nashik
+ORD378,P00999,BeautyBliss Car Vacuum,Shipped,2025-09-21,2025-09-07,Siddharth,Allahabad
+ORD703,P00163,FreshChoice Dress,Out for Delivery,2025-09-23,2025-08-22,Arjun,Faridabad
+ORD1909,P00706,FreshChoice Air Freshener,Cancelled,,2025-09-15,Kartik,Bangalore
+ORD1689,P00916,StyleMax Cap,Delivered,,2025-08-24,Vivek,Gwalior
+ORD1988,P00389,TechPro Pasta,Cancelled,,2025-09-05,Manish,Amritsar
+ORD676,P00524,SportsFit Running Shoes,Out for Delivery,2025-09-25,2025-09-15,Avani,Patna
+ORD1799,P00169,SportsFit Socks,Delivered,,2025-09-04,Nikhil,Coimbatore
+ORD1249,P00228,FreshChoice Headphones,Delivered,,2025-09-07,Anushka,Jabalpur
+ORD888,P00429,PlayTime Honey,Delivered,,2025-09-01,Isha,Howrah
+ORD823,P00367,StyleMax Water Bottle,Delivered,,2025-08-25,Meera,Kanpur
+ORD474,P00532,PetLove Leash,Shipped,2025-09-25,2025-09-12,Sachin,Aurangabad
+ORD1202,P00494,PlayTime Hoodie,Delivered,,2025-08-28,Kartik,Aurangabad
+ORD290,P00952,TechPro Sunscreen,Shipped,2025-09-26,2025-08-28,Priya,Delhi
+ORD1517,P00583,StyleMax Cap,Delivered,,2025-08-23,Diya,Delhi
+ORD1243,P00458,BeautyBliss Lamp,Delivered,,2025-08-24,Ishaan,Kolkata
+ORD283,P00570,BeautyBliss Keyboard,Shipped,2025-09-25,2025-09-17,Samar,Ahmedabad
+ORD648,P00069,StyleMax Grooming Kit,Out for Delivery,2025-09-21,2025-09-09,Avani,Delhi
+ORD406,P00588,BeautyBliss Textbook,Shipped,2025-09-25,2025-09-14,Simran,Rajkot
+ORD1707,P00984,TechPro Action Figure,Delivered,,2025-08-24,Ravi,Vadodara
+ORD757,P00880,FreshChoice Poetry,Delivered,,2025-08-22,Aarav,Visakhapatnam
+ORD143,P00203,SportsFit Football,Processing,2025-09-22,2025-09-09,Vedika,Visakhapatnam
+ORD1491,P00206,SportsFit Toaster,Delivered,,2025-08-24,Priya,Pune
+ORD490,P00103,TechPro Water Bottle,Shipped,2025-09-22,2025-08-28,Aadhya,Ranchi
+ORD1638,P00483,ReadWell Cushions,Delivered,,2025-08-21,Akshay,Kolkata
+ORD740,P00550,StyleMax Board Game,Delivered,,2025-09-08,Varun,Coimbatore
+ORD004,P00553,SportsFit Art Book,Processing,2025-09-25,2025-08-25,Aadhya,Jabalpur
+ORD462,P00954,SportsFit Bicycle,Shipped,2025-09-23,2025-08-30,Ishaan,Rajkot
+ORD859,P00360,HomeEssentials Socks,Delivered,,2025-09-01,Suresh,Kolkata
+ORD362,P00970,StyleMax Lamp,Shipped,2025-09-22,2025-08-20,Aryan,Nashik
+ORD444,P00100,ReadWell Cricket Bat,Shipped,2025-09-23,2025-09-17,Tanvi,Gwalior
+ORD393,P00509,AutoCare Yoga Mat,Shipped,2025-09-24,2025-08-27,Sneha,Navi Mumbai
+ORD635,P00038,StyleMax Cat Litter,Out for Delivery,2025-09-23,2025-08-24,Tanya,Jabalpur
+ORD1914,P00540,TechPro Candles,Cancelled,,2025-09-11,Rahul,Indore
+ORD1559,P00430,BeautyBliss Phone Case,Delivered,,2025-09-09,Rohit,Varanasi
+ORD1151,P00767,PlayTime Comic Book,Delivered,,2025-08-26,Shreya,Thane
+ORD120,P00637,BeautyBliss Laptop,Processing,2025-09-22,2025-09-14,Deepika,Aurangabad
+ORD1031,P00389,TechPro Pasta,Delivered,,2025-08-25,Shubham,Gwalior
+ORD1950,P00614,ReadWell Perfume,Cancelled,,2025-08-25,Jiya,Allahabad
+ORD1298,P00104,ReadWell Poetry,Delivered,,2025-09-08,Simran,Gwalior
+ORD1773,P00677,BeautyBliss Car Vacuum,Delivered,,2025-09-12,Rohan,Meerut
+ORD574,P00968,ReadWell Foundation,Out for Delivery,2025-09-26,2025-08-23,Akshay,Mumbai
+ORD792,P00873,StyleMax Collar,Delivered,,2025-09-15,Arjun,Kanpur
+ORD598,P00448,SportsFit Biography,Out for Delivery,2025-09-21,2025-09-11,Sanya,Jabalpur
+ORD1457,P00357,ReadWell Nail Polish,Delivered,,2025-08-21,Yash,Kalyan-Dombivli
+ORD1960,P00472,FreshChoice Cat Litter,Cancelled,,2025-08-20,Ankit,Ahmedabad
+ORD1818,P00446,ReadWell History Book,Delivered,,2025-09-10,Samar,Gwalior
+ORD1933,P00843,SportsFit Eye Shadow,Cancelled,,2025-08-23,Rohan,Coimbatore
+ORD389,P00485,BeautyBliss Dash Cam,Shipped,2025-09-21,2025-09-10,Kiran,Vadodara
+ORD1878,P00982,PlayTime Self-Help Book,Delivered,,2025-09-16,Ashish,Kanpur
+ORD680,P00896,PlayTime Football,Out for Delivery,2025-09-24,2025-09-17,Prachi,Nashik
+ORD1406,P00840,HomeEssentials Remote Car,Delivered,,2025-09-10,Uday,Faridabad
+ORD664,P00121,TechPro Coffee Maker,Out for Delivery,2025-09-23,2025-09-11,Avani,Nagpur
+ORD1110,P00803,PlayTime Bluetooth Speaker,Delivered,,2025-08-27,Ruchi,Navi Mumbai
+ORD099,P00282,StyleMax Eye Shadow,Processing,2025-09-21,2025-09-04,Raj,Visakhapatnam
+ORD1235,P00437,ReadWell Jacket,Delivered,,2025-08-29,Nisha,Pimpri-Chinchwad
+ORD237,P00544,FreshChoice Nuts,Processing,2025-09-23,2025-09-02,Jiya,Pimpri-Chinchwad
+ORD1253,P00656,HomeEssentials Jeans,Delivered,,2025-09-03,Zara,Mumbai
+ORD482,P00918,PlayTime Football,Shipped,2025-09-23,2025-09-06,Diya,Vadodara
+ORD872,P00563,FreshChoice Oil,Delivered,,2025-08-23,Kiara,Lucknow
+ORD416,P00813,SportsFit Blender,Shipped,2025-09-25,2025-09-07,Maya,Ahmedabad
+ORD1053,P00576,HomeEssentials Pasta,Delivered,,2025-09-12,Divya,Agra
+ORD629,P00966,StyleMax Cereals,Out for Delivery,2025-09-22,2025-08-27,Zara,Vadodara
+ORD199,P00832,StyleMax Coffee Maker,Processing,2025-09-21,2025-09-10,Raj,Ghaziabad
+ORD1341,P00036,StyleMax Tablet,Delivered,,2025-08-28,Shubham,Ludhiana
+ORD1652,P00787,TechPro Toaster,Delivered,,2025-09-07,Deepika,Amritsar
+ORD193,P00231,PlayTime Football,Processing,2025-09-21,2025-08-23,Harsh,Ahmedabad
+ORD531,P00670,HomeEssentials Pet Bed,Shipped,2025-09-23,2025-08-22,Ayush,Nagpur
+ORD181,P00447,HomeEssentials Treats,Processing,2025-09-24,2025-08-29,Arjun,Aurangabad
+ORD911,P00406,ReadWell Bluetooth Speaker,Delivered,,2025-08-21,Samar,Visakhapatnam
+ORD1562,P00638,AutoCare Pet Bed,Delivered,,2025-08-25,Nisha,Mumbai
+ORD228,P00303,FreshChoice Puzzle,Processing,2025-09-23,2025-08-27,Abhinav,Rajkot
+ORD344,P00371,AutoCare Bluetooth Speaker,Shipped,2025-09-23,2025-09-18,Rohit,Nagpur
+ORD977,P00783,StyleMax Pet Bed,Delivered,,2025-09-13,Kiara,Hyderabad
+ORD710,P00711,HomeEssentials Dress,Out for Delivery,2025-09-24,2025-09-14,Ankit,Bhopal
+ORD016,P00073,TechPro Socks,Processing,2025-09-26,2025-08-27,Amit,Bhopal
+ORD1184,P00962,PlayTime Backpack,Delivered,,2025-09-07,Akash,Bhopal
+ORD040,P00674,PlayTime Backpack,Processing,2025-09-25,2025-08-31,Riya,Ludhiana
+ORD570,P00624,AutoCare Collar,Out for Delivery,2025-09-24,2025-09-10,Kiara,Srinagar
+ORD333,P00662,PlayTime Toaster,Shipped,2025-09-21,2025-09-13,Nikhil,Varanasi
+ORD404,P00393,AutoCare Sunscreen,Shipped,2025-09-21,2025-08-31,Gaurav,Varanasi
+ORD1083,P00516,BeautyBliss T-Shirt,Delivered,,2025-09-01,Sachin,Ahmedabad
+ORD756,P00759,HomeEssentials Art Kit,Delivered,,2025-09-02,Aadhya,Bangalore
+ORD202,P00566,StyleMax GPS,Processing,2025-09-25,2025-08-25,Suresh,Srinagar
+ORD1864,P00634,AutoCare Coffee,Delivered,,2025-09-17,Simran,Faridabad
+ORD1592,P00047,ReadWell Bluetooth Speaker,Delivered,,2025-09-08,Shreya,Ranchi
+ORD1629,P00284,SportsFit Charger,Delivered,,2025-09-01,Ruchi,Varanasi
+ORD357,P00429,PlayTime Honey,Shipped,2025-09-22,2025-09-13,Dev,Pimpri-Chinchwad
+ORD1583,P00496,PetLove Mouse,Delivered,,2025-08-26,Raj,Vasai-Virar
+ORD212,P00873,StyleMax Collar,Processing,2025-09-25,2025-08-28,Suresh,Ludhiana
+ORD089,P00750,AutoCare Lamp,Processing,2025-09-26,2025-08-21,Kiran,Meerut
+ORD1440,P00385,HomeEssentials Running Shoes,Delivered,,2025-08-25,Nisha,Faridabad
+ORD005,P00332,StyleMax Mouse,Processing,2025-09-21,2025-09-03,Avani,Faridabad
+ORD936,P00663,SportsFit Football,Delivered,,2025-09-11,Lakshmi,Patna
+ORD1898,P00267,BeautyBliss Gym Bag,Cancelled,,2025-09-07,Kavya,Thane
+ORD1822,P00528,SportsFit Coffee Maker,Delivered,,2025-09-15,Ankit,Visakhapatnam
+ORD1891,P00809,TechPro Action Figure,Delivered,,2025-09-10,Meera,Aurangabad
+ORD1796,P00608,SportsFit Textbook,Delivered,,2025-09-13,Samar,Chennai
+ORD069,P00657,FreshChoice GPS,Processing,2025-09-24,2025-09-02,Tanya,Agra
+ORD1157,P00688,FreshChoice Chocolate,Delivered,,2025-09-16,Nisha,Kolkata
+ORD1797,P00124,HomeEssentials Face Cream,Delivered,,2025-09-10,Diya,Kalyan-Dombivli
+ORD1385,P00534,ReadWell Art Kit,Delivered,,2025-09-15,Nisha,Aurangabad
+ORD1289,P00920,PetLove Curtains,Delivered,,2025-08-21,Rahul,Dhanbad
+ORD236,P00180,PlayTime Science Book,Processing,2025-09-22,2025-09-12,Uday,Faridabad
+ORD480,P00325,BeautyBliss Phone Mount,Shipped,2025-09-23,2025-09-03,Rahul,Vadodara
+ORD175,P00966,StyleMax Cereals,Processing,2025-09-25,2025-09-10,Uday,Dhanbad
+ORD1513,P00317,SportsFit Comic Book,Delivered,,2025-08-27,Siddharth,Jaipur
+ORD340,P00318,StyleMax Phone Mount,Shipped,2025-09-26,2025-08-29,Varun,Jaipur
+ORD1550,P00919,TechPro Dash Cam,Delivered,,2025-08-27,Krishna,Srinagar
+ORD1940,P00994,PlayTime Blender,Cancelled,,2025-09-16,Simran,Coimbatore
+ORD1566,P00420,FreshChoice Coffee,Delivered,,2025-09-04,Anushka,Jabalpur
+ORD1963,P00837,StyleMax Novel,Cancelled,,2025-09-04,Riya,Agra
+ORD1112,P00806,SportsFit Cage,Delivered,,2025-09-02,Ishaan,Kalyan-Dombivli
+ORD861,P00463,StyleMax Pet Toy,Delivered,,2025-09-16,Aditya,Vadodara
+ORD1859,P00715,HomeEssentials Dumbbells,Delivered,,2025-08-30,Uday,Howrah
+ORD1293,P00963,SportsFit Collar,Delivered,,2025-09-01,Aditya,Amritsar
+ORD1471,P00685,HomeEssentials Art Book,Delivered,,2025-08-29,Krishna,Ranchi
+ORD831,P00972,BeautyBliss Dumbbells,Delivered,,2025-09-12,Mohit,Allahabad
+ORD1060,P00535,TechPro Cushions,Delivered,,2025-09-07,Ashish,Bangalore
+ORD1680,P00729,AutoCare Jeans,Delivered,,2025-09-06,Vedika,Meerut
+ORD259,P00222,AutoCare Cereals,Shipped,2025-09-22,2025-08-23,Samar,Lucknow
+ORD1655,P00546,ReadWell Hoodie,Delivered,,2025-09-04,Vedika,Coimbatore
+ORD1679,P00443,TechPro Dash Cam,Delivered,,2025-08-27,Varun,Ludhiana
+ORD1954,P00020,PlayTime Textbook,Cancelled,,2025-09-14,Riya,Vadodara
+ORD1248,P00759,HomeEssentials Art Kit,Delivered,,2025-09-16,Ananya,Pimpri-Chinchwad
+ORD752,P00467,StyleMax Mouse,Delivered,,2025-09-02,Simran,Pune
+ORD630,P00852,BeautyBliss Pet Toy,Out for Delivery,2025-09-21,2025-08-27,Vikas,Dhanbad
+ORD372,P00125,PlayTime Sneakers,Shipped,2025-09-22,2025-09-17,Vikram,Gwalior
+ORD1176,P00267,BeautyBliss Gym Bag,Delivered,,2025-09-01,Uday,Aurangabad
+ORD927,P00468,HomeEssentials Plates Set,Delivered,,2025-09-17,Simran,Indore
+ORD1411,P00195,FreshChoice Shorts,Delivered,,2025-09-02,Mohit,Ranchi
+ORD838,P00722,FreshChoice Face Mask,Delivered,,2025-08-20,Diya,Ahmedabad
+ORD1713,P00079,HomeEssentials Jacket,Delivered,,2025-08-22,Rahul,Pimpri-Chinchwad
+ORD658,P00334,ReadWell Gym Bag,Out for Delivery,2025-09-24,2025-09-12,Avani,Pimpri-Chinchwad
+ORD154,P00654,ReadWell Cookbook,Processing,2025-09-24,2025-08-22,Ashish,Mumbai
+ORD036,P00162,FreshChoice Poetry,Processing,2025-09-25,2025-09-17,Anushka,Nagpur
+ORD289,P00588,BeautyBliss Textbook,Shipped,2025-09-24,2025-09-11,Aditi,Jabalpur
+ORD987,P00844,AutoCare Coffee,Delivered,,2025-09-17,Rohan,Vadodara
+ORD687,P00587,PetLove Nail Polish,Out for Delivery,2025-09-25,2025-09-10,Arya,Jaipur
+ORD1278,P00690,FreshChoice Pet Toy,Delivered,,2025-08-26,Sanya,Chennai
+ORD1394,P00624,AutoCare Collar,Delivered,,2025-08-20,Amit,Pune
+ORD1934,P00312,FreshChoice Pet Bed,Cancelled,,2025-09-03,Harsh,Bhopal
+ORD577,P00467,StyleMax Mouse,Out for Delivery,2025-09-21,2025-09-07,Kartik,Dhanbad
+ORD1744,P00095,BeautyBliss Doll,Delivered,,2025-09-17,Manish,Jabalpur
+ORD946,P00575,PlayTime Puzzle,Delivered,,2025-08-29,Raj,Ghaziabad
+ORD967,P00888,ReadWell Sneakers,Delivered,,2025-08-29,Ankit,Aurangabad
+ORD1473,P00249,AutoCare Science Book,Delivered,,2025-09-16,Priya,Vasai-Virar
+ORD1496,P00926,ReadWell Seat Covers,Delivered,,2025-09-08,Kiara,Jabalpur
+ORD1119,P00927,StyleMax Leash,Delivered,,2025-08-29,Nikhil,Bangalore
+ORD1739,P00561,StyleMax Treats,Delivered,,2025-09-18,Aarav,Chennai
+ORD722,P00567,AutoCare Smartwatch,Delivered,,2025-08-30,Raj,Delhi
+ORD856,P00806,SportsFit Cage,Delivered,,2025-09-15,Aadhya,Pune
+ORD749,P00790,StyleMax Yoga Mat,Delivered,,2025-08-21,Aditi,Agra
+ORD1379,P00395,BeautyBliss Air Freshener,Delivered,,2025-08-25,Zara,Visakhapatnam
+ORD1636,P00319,PlayTime Jeans,Delivered,,2025-08-30,Sanya,Allahabad
+ORD494,P00757,BeautyBliss Treats,Shipped,2025-09-21,2025-08-26,Kabir,Kalyan-Dombivli
+ORD787,P00967,TechPro Board Game,Delivered,,2025-09-12,Dev,Coimbatore
+ORD001,P00737,HomeEssentials Pan Set,Processing,2025-09-25,2025-09-10,Kabir,Amritsar
+ORD1918,P00618,HomeEssentials Self-Help Book,Cancelled,,2025-08-30,Pooja,Pune
+ORD685,P00584,TechPro Leash,Out for Delivery,2025-09-25,2025-09-07,Rahul,Jabalpur
+ORD1752,P00159,PlayTime Action Figure,Delivered,,2025-09-06,Tanvi,Agra
+ORD002,P00935,TechPro Sneakers,Processing,2025-09-26,2025-09-15,Rohan,Amritsar
+ORD1693,P00620,FreshChoice Wireless Earbuds,Delivered,,2025-09-18,Mohit,Visakhapatnam
+ORD1746,P00877,SportsFit Cookbook,Delivered,,2025-08-30,Deepika,Meerut
+ORD714,P00071,ReadWell Perfume,Delivered,,2025-09-02,Aarav,Gwalior
+ORD1456,P00391,HomeEssentials Curtains,Delivered,,2025-09-16,Amit,Agra
+ORD581,P00110,SportsFit Belt,Out for Delivery,2025-09-21,2025-08-20,Siddharth,Lucknow
+ORD1700,P00912,FreshChoice Football,Delivered,,2025-08-30,Arjun,Visakhapatnam
+ORD1514,P00441,StyleMax Headphones,Delivered,,2025-08-20,Diya,Howrah
+ORD1998,P00184,SportsFit Tool Kit,Cancelled,,2025-09-18,Kiara,Kolkata
+ORD513,P00227,BeautyBliss Pet Toy,Shipped,2025-09-22,2025-09-11,Kartik,Lucknow
+ORD086,P00839,AutoCare Building Blocks,Processing,2025-09-22,2025-08-25,Rohit,Bhopal
+ORD1685,P00012,ReadWell Cage,Delivered,,2025-09-16,Abhinav,Lucknow
+ORD1488,P00562,StyleMax Art Book,Delivered,,2025-09-03,Diya,Delhi
+ORD794,P00042,SportsFit Foundation,Delivered,,2025-09-12,Sachin,Lucknow
+ORD129,P00678,PlayTime Socks,Processing,2025-09-21,2025-09-07,Neha,Agra
+ORD253,P00456,HomeEssentials Dumbbells,Shipped,2025-09-23,2025-09-11,Arya,Faridabad
+ORD104,P00212,BeautyBliss Cap,Processing,2025-09-24,2025-08-23,Tanvi,Coimbatore
+ORD600,P00031,HomeEssentials Art Kit,Out for Delivery,2025-09-23,2025-08-29,Aryan,Dhanbad
+ORD1899,P00576,HomeEssentials Pasta,Cancelled,,2025-08-27,Aditya,Ludhiana
+ORD1696,P00039,FreshChoice Hoodie,Delivered,,2025-08-31,Kartik,Faridabad
+ORD1604,P00307,TechPro Charger,Delivered,,2025-08-31,Ruchi,Ranchi
+ORD030,P00169,SportsFit Socks,Processing,2025-09-21,2025-09-06,Tanvi,Pimpri-Chinchwad
+ORD1107,P00158,SportsFit Keyboard,Delivered,,2025-08-20,Sachin,Jabalpur
+ORD1889,P00773,AutoCare Sunscreen,Delivered,,2025-09-04,Rohan,Howrah
+ORD1413,P00420,FreshChoice Coffee,Delivered,,2025-08-29,Sachin,Ahmedabad
+ORD1049,P00122,PetLove Phone Mount,Delivered,,2025-09-03,Abhinav,Kolkata
+ORD326,P00520,AutoCare Science Book,Shipped,2025-09-23,2025-09-16,Harsh,Varanasi
+ORD1783,P00963,SportsFit Collar,Delivered,,2025-08-28,Tanya,Lucknow
+ORD1877,P00083,StyleMax Headphones,Delivered,,2025-09-06,Kabir,Vadodara
+ORD1178,P00402,HomeEssentials Cereals,Delivered,,2025-09-11,Ravi,Jaipur
+ORD395,P00441,StyleMax Headphones,Shipped,2025-09-22,2025-08-30,Uday,Vadodara
+ORD908,P00624,AutoCare Collar,Delivered,,2025-09-03,Aditya,Nagpur
+ORD1956,P00349,ReadWell Cap,Cancelled,,2025-08-20,Ishaan,Kolkata
+ORD1271,P00776,AutoCare Blender,Delivered,,2025-09-08,Divya,Srinagar
+ORD1545,P00475,TechPro Dog Food,Delivered,,2025-08-23,Aryan,Hyderabad
+ORD246,P00651,PlayTime Cat Litter,Shipped,2025-09-24,2025-08-23,Rohan,Kalyan-Dombivli
+ORD208,P00896,PlayTime Football,Processing,2025-09-24,2025-08-22,Arya,Navi Mumbai
+ORD1267,P00198,PetLove Gym Bag,Delivered,,2025-09-02,Ravi,Agra
+ORD1452,P00940,BeautyBliss Perfume,Delivered,,2025-09-12,Ankit,Ludhiana
+ORD385,P00713,PlayTime Grooming Kit,Shipped,2025-09-26,2025-09-03,Kavya,Jaipur
+ORD1225,P00431,ReadWell Phone Case,Delivered,,2025-09-07,Akash,Navi Mumbai
+ORD1857,P00395,BeautyBliss Air Freshener,Delivered,,2025-08-21,Samar,Navi Mumbai
+ORD423,P00478,SportsFit Spices,Shipped,2025-09-25,2025-08-28,Shreya,Jaipur
+ORD672,P00419,FreshChoice Honey,Out for Delivery,2025-09-24,2025-08-28,Vikram,Varanasi
+ORD328,P00203,SportsFit Football,Shipped,2025-09-25,2025-08-30,Neha,Meerut
+ORD1391,P00993,SportsFit Chocolate,Delivered,,2025-09-17,Isha,Jabalpur
+ORD818,P00892,TechPro Plates Set,Delivered,,2025-08-24,Kiara,Nashik
+ORD779,P00721,BeautyBliss Phone Case,Delivered,,2025-08-27,Sneha,Srinagar
+ORD1795,P00622,StyleMax Lipstick,Delivered,,2025-08-23,Manish,Bangalore
+ORD1171,P00913,PetLove Keyboard,Delivered,,2025-09-01,Krishna,Pimpri-Chinchwad
+ORD186,P00994,PlayTime Blender,Processing,2025-09-24,2025-08-25,Pooja,Mumbai
+ORD835,P00001,TechPro Jacket,Delivered,,2025-09-08,Krishna,Jaipur
+ORD1945,P00328,PetLove Treats,Cancelled,,2025-09-04,Dev,Nashik
+ORD1813,P00426,HomeEssentials Dash Cam,Delivered,,2025-09-04,Lakshmi,Patna
+ORD1479,P00291,FreshChoice Comic Book,Delivered,,2025-09-04,Akash,Bhopal
+ORD1695,P00949,StyleMax Football,Delivered,,2025-09-01,Simran,Bangalore
+ORD937,P00668,ReadWell Educational Toy,Delivered,,2025-09-05,Pooja,Delhi
+ORD639,P00989,TechPro T-Shirt,Out for Delivery,2025-09-24,2025-08-24,Ashish,Mumbai
+ORD1179,P00476,SportsFit Leash,Delivered,,2025-09-02,Pooja,Hyderabad
+ORD1318,P00889,FreshChoice Musical Toy,Delivered,,2025-08-28,Krishna,Howrah
+ORD708,P00232,AutoCare Moisturizer,Out for Delivery,2025-09-26,2025-09-02,Zara,Mumbai
+ORD293,P00700,PlayTime Candles,Shipped,2025-09-22,2025-09-16,Aditi,Hyderabad
+ORD1453,P00812,PlayTime Eye Shadow,Delivered,,2025-09-03,Kabir,Dhanbad
+ORD1507,P00090,ReadWell Laptop,Delivered,,2025-08-26,Suresh,Navi Mumbai
+ORD1997,P00917,FreshChoice Backpack,Cancelled,,2025-08-23,Isha,Faridabad
+ORD118,P00975,PlayTime Car Mats,Processing,2025-09-22,2025-09-07,Ananya,Bangalore
+ORD1362,P00665,StyleMax Air Freshener,Delivered,,2025-08-26,Tanya,Patna
+ORD264,P00179,ReadWell Collar,Shipped,2025-09-21,2025-09-10,Deepika,Kalyan-Dombivli
+ORD392,P00762,HomeEssentials Blender,Shipped,2025-09-24,2025-09-04,Sanya,Nagpur
+ORD325,P00647,ReadWell Cap,Shipped,2025-09-23,2025-09-09,Amit,Nashik
+ORD1045,P00520,AutoCare Science Book,Delivered,,2025-09-11,Suresh,Rajkot
+ORD025,P00144,HomeEssentials Art Kit,Processing,2025-09-22,2025-09-05,Rahul,Srinagar
+ORD910,P00624,AutoCare Collar,Delivered,,2025-08-28,Vedika,Bangalore
+ORD608,P00192,StyleMax Phone Mount,Out for Delivery,2025-09-24,2025-09-05,Pooja,Kalyan-Dombivli
+ORD448,P00031,HomeEssentials Art Kit,Shipped,2025-09-24,2025-09-16,Neha,Srinagar
+ORD1690,P00185,PetLove Spices,Delivered,,2025-09-04,Pooja,Vasai-Virar
+ORD1283,P00894,TechPro Sneakers,Delivered,,2025-09-10,Lakshmi,Bhopal
+ORD504,P00877,SportsFit Cookbook,Shipped,2025-09-24,2025-08-29,Vivek,Amritsar
+ORD1553,P00117,FreshChoice Eye Shadow,Delivered,,2025-08-27,Aryan,Faridabad
+ORD1443,P00975,PlayTime Car Mats,Delivered,,2025-09-18,Riya,Jaipur
+ORD1504,P00900,SportsFit Sunscreen,Delivered,,2025-09-06,Aditi,Ranchi
+ORD762,P00278,TechPro Doll,Delivered,,2025-08-23,Ankit,Howrah
+ORD897,P00855,ReadWell Board Game,Delivered,,2025-08-30,Prachi,Ludhiana
+ORD455,P00462,FreshChoice Tire Pump,Shipped,2025-09-25,2025-08-25,Rahul,Gwalior
+ORD594,P00952,TechPro Sunscreen,Out for Delivery,2025-09-23,2025-09-16,Ishaan,Howrah
+ORD906,P00889,FreshChoice Musical Toy,Delivered,,2025-09-01,Shreya,Kalyan-Dombivli
+ORD1397,P00443,TechPro Dash Cam,Delivered,,2025-09-08,Shreya,Varanasi
+ORD282,P00099,ReadWell Doll,Shipped,2025-09-26,2025-08-26,Sneha,Jaipur
+ORD1894,P00634,AutoCare Coffee,Cancelled,,2025-08-20,Ishaan,Allahabad
+ORD1203,P00216,StyleMax Car Vacuum,Delivered,,2025-08-31,Ishaan,Kalyan-Dombivli
+ORD545,P00310,StyleMax Toaster,Shipped,2025-09-22,2025-08-21,Riya,Bhopal
+ORD688,P00986,StyleMax Plates Set,Out for Delivery,2025-09-24,2025-08-25,Amit,Patna
+ORD020,P00804,SportsFit Backpack,Processing,2025-09-24,2025-09-03,Kiran,Kolkata
+ORD1712,P00497,SportsFit Tea,Delivered,,2025-09-16,Deepika,Amritsar
+ORD1966,P00132,FreshChoice Football,Cancelled,,2025-08-22,Diya,Bhopal
+ORD1163,P00581,BeautyBliss Water Bottle,Delivered,,2025-09-07,Ruchi,Vasai-Virar
+ORD1502,P00641,PetLove Lipstick,Delivered,,2025-09-09,Naina,Amritsar
+ORD1223,P00924,SportsFit Tennis Racket,Delivered,,2025-08-30,Uday,Mumbai
+ORD1910,P00143,TechPro Tire Pump,Cancelled,,2025-08-28,Avani,Ghaziabad
+ORD591,P00048,AutoCare Running Shoes,Out for Delivery,2025-09-21,2025-08-20,Rahul,Allahabad
+ORD555,P00868,FreshChoice Curtains,Out for Delivery,2025-09-21,2025-09-07,Tanya,Indore
+ORD1429,P00195,FreshChoice Shorts,Delivered,,2025-09-12,Siddharth,Visakhapatnam
+ORD915,P00288,PlayTime Pet Bed,Delivered,,2025-08-23,Kiara,Kolkata
+ORD725,P00766,StyleMax Curtains,Delivered,,2025-09-06,Ravi,Pune
+ORD1126,P00527,PlayTime Cereals,Delivered,,2025-09-16,Arya,Kanpur
+ORD575,P00423,BeautyBliss Cookbook,Out for Delivery,2025-09-26,2025-09-14,Meera,Chennai
+ORD317,P00649,AutoCare Football,Shipped,2025-09-25,2025-09-15,Pooja,Indore
+ORD1699,P00791,SportsFit Musical Toy,Delivered,,2025-09-02,Anushka,Navi Mumbai
+ORD026,P00256,HomeEssentials Toaster,Processing,2025-09-21,2025-08-22,Zara,Ranchi
+ORD170,P00678,PlayTime Socks,Processing,2025-09-22,2025-08-24,Vivek,Ahmedabad
+ORD1333,P00216,StyleMax Car Vacuum,Delivered,,2025-09-13,Varun,Kolkata
+ORD285,P00992,SportsFit Headphones,Shipped,2025-09-25,2025-09-09,Rohit,Nashik
+ORD1218,P00017,FreshChoice Pan Set,Delivered,,2025-09-12,Riya,Amritsar
+ORD047,P00162,FreshChoice Poetry,Processing,2025-09-25,2025-09-04,Rohan,Gwalior
+ORD812,P00036,StyleMax Tablet,Delivered,,2025-08-30,Nikhil,Vadodara
+ORD770,P00378,SportsFit Doll,Delivered,,2025-08-31,Mohit,Indore
+ORD719,P00771,BeautyBliss Cereals,Delivered,,2025-09-15,Tanvi,Nashik
+ORD1585,P00539,HomeEssentials Headphones,Delivered,,2025-08-31,Shubham,Jaipur
+ORD397,P00314,FreshChoice Sneakers,Shipped,2025-09-25,2025-09-04,Vivek,Kanpur
+ORD1057,P00734,SportsFit Textbook,Delivered,,2025-09-04,Avani,Kolkata
+ORD092,P00181,SportsFit Seat Covers,Processing,2025-09-26,2025-08-24,Riya,Srinagar
+ORD1363,P00423,BeautyBliss Cookbook,Delivered,,2025-09-12,Ananya,Nagpur
+ORD153,P00281,FreshChoice Food Bowl,Processing,2025-09-21,2025-09-17,Ravi,Jaipur
+ORD1085,P00585,AutoCare Action Figure,Delivered,,2025-08-28,Vikram,Allahabad
+ORD461,P00621,TechPro T-Shirt,Shipped,2025-09-25,2025-08-21,Dev,Ludhiana
+ORD472,P00423,BeautyBliss Cookbook,Shipped,2025-09-22,2025-08-27,Vikas,Amritsar
+ORD517,P00458,BeautyBliss Lamp,Shipped,2025-09-26,2025-09-02,Simran,Chennai
+ORD1212,P00225,SportsFit Lamp,Delivered,,2025-08-23,Vikas,Jabalpur
+ORD1500,P00342,TechPro Laptop,Delivered,,2025-09-03,Varun,Kanpur
+ORD1123,P00934,FreshChoice Tire Pump,Delivered,,2025-09-02,Sneha,Amritsar
+ORD487,P00759,HomeEssentials Art Kit,Shipped,2025-09-22,2025-08-31,Nikhil,Pune
+ORD1463,P00052,StyleMax Wireless Earbuds,Delivered,,2025-08-28,Varun,Varanasi
+ORD1847,P00830,AutoCare Musical Toy,Delivered,,2025-08-24,Arya,Varanasi
+ORD464,P00849,SportsFit Board Game,Shipped,2025-09-25,2025-09-02,Kiara,Howrah
+ORD1263,P00987,PlayTime Phone Case,Delivered,,2025-08-23,Rahul,Bhopal
+ORD1191,P00593,PlayTime Board Game,Delivered,,2025-09-01,Kabir,Meerut
+ORD1425,P00273,ReadWell Honey,Delivered,,2025-09-02,Akash,Chennai
+ORD1676,P00379,HomeEssentials Food Bowl,Delivered,,2025-08-21,Akshay,Mumbai
+ORD428,P00917,FreshChoice Backpack,Shipped,2025-09-21,2025-09-09,Nisha,Indore
+ORD1789,P00841,SportsFit Knife Set,Delivered,,2025-08-24,Arya,Srinagar
+ORD1548,P00685,HomeEssentials Art Book,Delivered,,2025-09-05,Sachin,Varanasi
+ORD358,P00054,AutoCare Rice,Shipped,2025-09-24,2025-08-29,Sneha,Ranchi
+ORD561,P00938,SportsFit Blender,Out for Delivery,2025-09-25,2025-09-11,Sachin,Vadodara
+ORD931,P00457,BeautyBliss Tea,Delivered,,2025-09-13,Isha,Coimbatore
+ORD003,P00624,AutoCare Collar,Processing,2025-09-22,2025-09-12,Sneha,Kanpur
+ORD1819,P00825,StyleMax Hoodie,Delivered,,2025-08-21,Divya,Bangalore
+ORD188,P00531,FreshChoice Tennis Racket,Processing,2025-09-25,2025-09-07,Mohit,Varanasi
+ORD1167,P00899,SportsFit Charger,Delivered,,2025-09-03,Harsh,Varanasi
+ORD811,P00541,SportsFit Coffee Maker,Delivered,,2025-09-10,Aryan,Lucknow
+ORD679,P00436,FreshChoice Knife Set,Out for Delivery,2025-09-26,2025-09-15,Nikhil,Ghaziabad
+ORD050,P00271,StyleMax Knife Set,Processing,2025-09-21,2025-09-15,Gaurav,Patna
+ORD1575,P00949,StyleMax Football,Delivered,,2025-09-07,Aditya,Hyderabad
+ORD1086,P00293,StyleMax Car Charger,Delivered,,2025-08-21,Vivek,Mumbai
+ORD146,P00339,StyleMax Doll,Processing,2025-09-26,2025-09-07,Divya,Patna
+ORD147,P00581,BeautyBliss Water Bottle,Processing,2025-09-22,2025-09-10,Ayush,Indore
+ORD1586,P00630,SportsFit Poetry,Delivered,,2025-08-31,Mohit,Navi Mumbai
+ORD498,P00292,BeautyBliss Water Bottle,Shipped,2025-09-26,2025-09-04,Uday,Navi Mumbai
+ORD1957,P00224,TechPro Car Charger,Cancelled,,2025-09-14,Neha,Bhopal
+ORD311,P00118,StyleMax Knife Set,Shipped,2025-09-21,2025-09-06,Sachin,Kanpur
+ORD1371,P00506,ReadWell Pet Toy,Delivered,,2025-09-12,Sanya,Kalyan-Dombivli
+ORD1094,P00929,FreshChoice Smartwatch,Delivered,,2025-08-22,Maya,Ranchi
+ORD381,P00260,SportsFit GPS,Shipped,2025-09-21,2025-08-26,Shubham,Chennai
+ORD1142,P00784,TechPro Perfume,Delivered,,2025-08-20,Zara,Meerut
+ORD1606,P00702,TechPro Action Figure,Delivered,,2025-09-08,Shubham,Chennai
+ORD1911,P00026,StyleMax Smartwatch,Cancelled,,2025-09-06,Maya,Varanasi
+ORD1793,P00831,StyleMax Eye Shadow,Delivered,,2025-08-23,Vedika,Ludhiana
+ORD1558,P00890,SportsFit Running Shoes,Delivered,,2025-09-14,Kabir,Pune
+ORD586,P00416,PlayTime Yoga Mat,Out for Delivery,2025-09-24,2025-09-06,Isha,Pune
+ORD693,P00528,SportsFit Coffee Maker,Out for Delivery,2025-09-23,2025-08-26,Sneha,Srinagar
+ORD1071,P00495,PlayTime Comic Book,Delivered,,2025-08-20,Pooja,Nagpur
+ORD113,P00659,PetLove Cap,Processing,2025-09-22,2025-09-05,Harsh,Nagpur
+ORD419,P00823,FreshChoice Dress,Shipped,2025-09-22,2025-09-01,Arjun,Chennai
+ORD1102,P00192,StyleMax Phone Mount,Delivered,,2025-09-13,Pooja,Ahmedabad
+ORD122,P00717,AutoCare Smartwatch,Processing,2025-09-23,2025-09-10,Jiya,Jabalpur
+ORD945,P00105,StyleMax Cereals,Delivered,,2025-09-18,Pooja,Faridabad
+ORD1499,P00254,ReadWell Backpack,Delivered,,2025-08-20,Siddharth,Ghaziabad
+ORD1790,P00626,SportsFit Honey,Delivered,,2025-09-13,Ananya,Kolkata
+ORD1156,P00473,PetLove Curtains,Delivered,,2025-08-29,Ankit,Vadodara
+ORD1532,P00502,PetLove Moisturizer,Delivered,,2025-08-27,Sachin,Srinagar
+ORD467,P00975,PlayTime Car Mats,Shipped,2025-09-23,2025-09-03,Meera,Pune
+ORD1136,P00398,BeautyBliss Curtains,Delivered,,2025-09-04,Vedika,Vasai-Virar
+ORD953,P00303,FreshChoice Puzzle,Delivered,,2025-09-10,Vikram,Rajkot
+ORD542,P00892,TechPro Plates Set,Shipped,2025-09-21,2025-09-12,Dev,Amritsar
+ORD1659,P00581,BeautyBliss Water Bottle,Delivered,,2025-08-24,Sanya,Allahabad
+ORD1993,P00622,StyleMax Lipstick,Cancelled,,2025-09-03,Avani,Meerut
+ORD1099,P00773,AutoCare Sunscreen,Delivered,,2025-08-23,Maya,Faridabad
+ORD1732,P00100,ReadWell Cricket Bat,Delivered,,2025-08-20,Tanya,Nashik
+ORD1922,P00457,BeautyBliss Tea,Cancelled,,2025-08-22,Arjun,Thane
+ORD790,P00124,HomeEssentials Face Cream,Delivered,,2025-09-01,Shubham,Thane
+ORD148,P00324,PetLove Belt,Processing,2025-09-26,2025-09-15,Tanya,Nagpur
+ORD1257,P00369,AutoCare Keyboard,Delivered,,2025-09-11,Aadhya,Kanpur
+ORD1227,P00359,HomeEssentials Sunscreen,Delivered,,2025-08-31,Arya,Vasai-Virar
+ORD502,P00020,PlayTime Textbook,Shipped,2025-09-23,2025-08-26,Ravi,Howrah
+ORD706,P00672,ReadWell Doll,Out for Delivery,2025-09-26,2025-09-16,Arya,Mumbai
+ORD451,P00550,StyleMax Board Game,Shipped,2025-09-21,2025-09-18,Yash,Jaipur
+ORD434,P00972,BeautyBliss Dumbbells,Shipped,2025-09-25,2025-08-29,Prachi,Thane
+ORD652,P00238,ReadWell Air Freshener,Out for Delivery,2025-09-24,2025-08-24,Kavya,Nagpur
+ORD941,P00581,BeautyBliss Water Bottle,Delivered,,2025-08-27,Rahul,Vasai-Virar
+ORD599,P00788,FreshChoice Science Book,Out for Delivery,2025-09-25,2025-08-30,Varun,Ludhiana
+ORD1342,P00885,ReadWell Cap,Delivered,,2025-09-03,Harsh,Allahabad
+ORD405,P00972,BeautyBliss Dumbbells,Shipped,2025-09-23,2025-09-07,Zara,Chennai
+ORD1137,P00324,PetLove Belt,Delivered,,2025-09-18,Tanvi,Ahmedabad
+ORD573,P00658,TechPro Jeans,Out for Delivery,2025-09-25,2025-09-17,Aditya,Chennai
+ORD603,P00791,SportsFit Musical Toy,Out for Delivery,2025-09-23,2025-08-30,Nikhil,Chennai
+ORD1339,P00454,StyleMax Air Freshener,Delivered,,2025-08-29,Deepika,Jaipur
+ORD539,P00163,FreshChoice Dress,Shipped,2025-09-25,2025-09-15,Aditya,Varanasi
+ORD1190,P00721,BeautyBliss Phone Case,Delivered,,2025-09-02,Rahul,Pimpri-Chinchwad
+ORD379,P00520,AutoCare Science Book,Shipped,2025-09-25,2025-08-24,Abhinav,Meerut
+ORD080,P00431,ReadWell Phone Case,Processing,2025-09-24,2025-08-28,Kabir,Gwalior
+ORD1101,P00302,SportsFit Coffee Maker,Delivered,,2025-09-04,Kabir,Chennai
+ORD220,P00180,PlayTime Science Book,Processing,2025-09-25,2025-09-16,Suresh,Gwalior
+ORD1594,P00656,HomeEssentials Jeans,Delivered,,2025-09-12,Raj,Pimpri-Chinchwad
+ORD134,P00447,HomeEssentials Treats,Processing,2025-09-26,2025-08-23,Priya,Ludhiana
+ORD816,P00646,TechPro Cookbook,Delivered,,2025-08-24,Uday,Delhi
+ORD064,P00164,AutoCare Puzzle,Processing,2025-09-26,2025-08-24,Ashish,Meerut
+ORD095,P00610,ReadWell Car Charger,Processing,2025-09-24,2025-09-08,Neha,Vasai-Virar
+ORD1666,P00507,SportsFit Cage,Delivered,,2025-08-29,Amit,Hyderabad
+ORD1776,P00144,HomeEssentials Art Kit,Delivered,,2025-09-17,Kiran,Delhi
+ORD436,P00892,TechPro Plates Set,Shipped,2025-09-26,2025-09-09,Rohan,Aurangabad
+ORD729,P00370,PetLove History Book,Delivered,,2025-08-20,Ruchi,Jaipur
+ORD842,P00140,ReadWell Phone Case,Delivered,,2025-09-13,Yash,Dhanbad
+ORD101,P00142,AutoCare Perfume,Processing,2025-09-22,2025-09-14,Tanvi,Lucknow
+ORD466,P00690,FreshChoice Pet Toy,Shipped,2025-09-24,2025-09-15,Rohit,Delhi
+ORD1485,P00461,SportsFit Shorts,Delivered,,2025-09-03,Abhinav,Agra
+ORD1927,P00213,SportsFit Keyboard,Cancelled,,2025-09-09,Isha,Navi Mumbai
+ORD597,P00513,AutoCare Pet Toy,Out for Delivery,2025-09-23,2025-08-26,Akshay,Kolkata
+ORD891,P00941,PlayTime Cricket Bat,Delivered,,2025-08-21,Riya,Howrah
+ORD336,P00794,ReadWell Toaster,Shipped,2025-09-26,2025-09-08,Akshay,Agra
+ORD956,P00744,PlayTime Oil,Delivered,,2025-08-27,Maya,Allahabad
+ORD1290,P00188,TechPro Mouse,Delivered,,2025-08-25,Pooja,Patna
+ORD1611,P00727,StyleMax Action Figure,Delivered,,2025-09-17,Priya,Kalyan-Dombivli
+ORD1312,P00102,HomeEssentials Gym Bag,Delivered,,2025-08-27,Ishaan,Pune
+ORD765,P00977,BeautyBliss Coffee,Delivered,,2025-09-06,Ananya,Srinagar
+ORD144,P00314,FreshChoice Sneakers,Processing,2025-09-25,2025-08-28,Sneha,Aurangabad
+ORD1775,P00202,AutoCare Pet Bed,Delivered,,2025-08-21,Zara,Indore
+ORD1556,P00787,TechPro Toaster,Delivered,,2025-09-13,Samar,Howrah
+ORD1976,P00687,SportsFit Sneakers,Cancelled,,2025-09-07,Aditi,Hyderabad
+ORD683,P00706,FreshChoice Air Freshener,Out for Delivery,2025-09-26,2025-09-07,Vivek,Kanpur
+ORD292,P00360,HomeEssentials Socks,Shipped,2025-09-22,2025-09-18,Diya,Howrah
+ORD307,P00513,AutoCare Pet Toy,Shipped,2025-09-26,2025-09-01,Shubham,Chennai
+ORD1578,P00864,StyleMax Cushions,Delivered,,2025-09-01,Ananya,Vadodara
+ORD1061,P00919,TechPro Dash Cam,Delivered,,2025-09-13,Mohit,Jaipur
+ORD1644,P00135,StyleMax Rice,Delivered,,2025-09-16,Harsh,Kolkata
+ORD1663,P00569,TechPro Bicycle,Delivered,,2025-09-15,Zara,Nagpur
+ORD1368,P00191,HomeEssentials Novel,Delivered,,2025-09-15,Raj,Patna
+ORD1935,P00028,AutoCare Treats,Cancelled,,2025-08-24,Aadhya,Lucknow
+ORD1824,P00204,SportsFit Sunscreen,Delivered,,2025-08-26,Sachin,Bhopal
+ORD1364,P00140,ReadWell Phone Case,Delivered,,2025-09-09,Avani,Srinagar
+ORD1420,P00953,HomeEssentials Novel,Delivered,,2025-08-20,Lakshmi,Dhanbad
+ORD764,P00184,SportsFit Tool Kit,Delivered,,2025-09-11,Riya,Bangalore
+ORD242,P00550,StyleMax Board Game,Processing,2025-09-24,2025-09-15,Sneha,Pimpri-Chinchwad
+ORD1759,P00075,SportsFit Rice,Delivered,,2025-09-16,Nisha,Varanasi
+ORD465,P00307,TechPro Charger,Shipped,2025-09-21,2025-09-03,Sneha,Agra
+ORD006,P00900,SportsFit Sunscreen,Processing,2025-09-23,2025-08-23,Naina,Pune
+ORD1201,P00425,HomeEssentials History Book,Delivered,,2025-08-24,Samar,Ahmedabad
+ORD587,P00653,PlayTime Toaster,Out for Delivery,2025-09-26,2025-09-18,Jiya,Hyderabad
+ORD1427,P00984,TechPro Action Figure,Delivered,,2025-09-02,Arya,Kolkata
+ORD1975,P00211,ReadWell Educational Toy,Cancelled,,2025-08-31,Krishna,Nagpur
+ORD128,P00802,HomeEssentials Laptop,Processing,2025-09-23,2025-09-17,Tanya,Vasai-Virar
+ORD667,P00191,HomeEssentials Novel,Out for Delivery,2025-09-26,2025-09-03,Tanya,Nagpur
+ORD775,P00870,HomeEssentials Dumbbells,Delivered,,2025-08-26,Rohit,Kolkata
+ORD1358,P00733,SportsFit Chocolate,Delivered,,2025-08-26,Tanvi,Meerut
+ORD127,P00714,HomeEssentials Honey,Processing,2025-09-23,2025-08-25,Ayush,Howrah
+ORD1888,P00608,SportsFit Textbook,Delivered,,2025-08-28,Siddharth,Ranchi
+ORD1303,P00374,FreshChoice Chocolate,Delivered,,2025-08-22,Vedika,Patna
+ORD1867,P00343,HomeEssentials Face Mask,Delivered,,2025-09-11,Uday,Ahmedabad
+ORD266,P00460,HomeEssentials Chocolate,Shipped,2025-09-23,2025-08-25,Pooja,Coimbatore
+ORD1209,P00614,ReadWell Perfume,Delivered,,2025-08-31,Abhinav,Vadodara
+ORD062,P00721,BeautyBliss Phone Case,Processing,2025-09-22,2025-09-18,Samar,Kalyan-Dombivli
+ORD750,P00827,HomeEssentials Cookbook,Delivered,,2025-09-05,Priya,Navi Mumbai
+ORD1039,P00355,BeautyBliss Comic Book,Delivered,,2025-08-28,Tanvi,Lucknow
+ORD917,P00308,StyleMax Art Kit,Delivered,,2025-08-26,Zara,Ludhiana
+ORD1140,P00951,BeautyBliss Dumbbells,Delivered,,2025-09-02,Ashish,Vadodara
+ORD1536,P00657,FreshChoice GPS,Delivered,,2025-08-21,Aditya,Navi Mumbai
+ORD851,P00340,AutoCare Treats,Delivered,,2025-08-26,Ankit,Visakhapatnam
+ORD793,P00827,HomeEssentials Cookbook,Delivered,,2025-08-28,Rohan,Jabalpur
+ORD1919,P00638,AutoCare Pet Bed,Cancelled,,2025-09-06,Diya,Vasai-Virar
+ORD1073,P00107,FreshChoice Mouse,Delivered,,2025-09-06,Sachin,Amritsar
+ORD607,P00780,FreshChoice Belt,Out for Delivery,2025-09-21,2025-09-10,Deepika,Hyderabad
+ORD553,P00929,FreshChoice Smartwatch,Out for Delivery,2025-09-22,2025-09-02,Tanvi,Visakhapatnam
+ORD1116,P00974,PlayTime Video Game,Delivered,,2025-08-25,Siddharth,Aurangabad
+ORD024,P00479,SportsFit Art Kit,Processing,2025-09-22,2025-09-12,Tanya,Varanasi
+ORD164,P00206,SportsFit Toaster,Processing,2025-09-22,2025-08-25,Manish,Pimpri-Chinchwad
+ORD651,P00566,StyleMax GPS,Out for Delivery,2025-09-23,2025-09-13,Vivek,Srinagar
+ORD776,P00414,PetLove GPS,Delivered,,2025-09-02,Naina,Kalyan-Dombivli
+ORD1645,P00467,StyleMax Mouse,Delivered,,2025-09-09,Harsh,Aurangabad
+ORD1336,P00784,TechPro Perfume,Delivered,,2025-09-16,Ashish,Pimpri-Chinchwad
+ORD320,P00178,PlayTime Perfume,Shipped,2025-09-22,2025-08-30,Ankit,Nagpur
+ORD566,P00047,ReadWell Bluetooth Speaker,Out for Delivery,2025-09-22,2025-08-31,Diya,Delhi
+ORD1527,P00486,PlayTime Gym Bag,Delivered,,2025-09-14,Ishaan,Indore
+ORD096,P00851,TechPro Football,Processing,2025-09-25,2025-08-20,Aryan,Kanpur
+ORD1579,P00483,ReadWell Cushions,Delivered,,2025-09-14,Ayush,Patna
+ORD1337,P00633,StyleMax Headphones,Delivered,,2025-09-14,Anushka,Meerut
+ORD554,P00262,SportsFit Art Kit,Out for Delivery,2025-09-23,2025-09-12,Anushka,Varanasi
+ORD858,P00906,PetLove Chocolate,Delivered,,2025-09-05,Mohit,Meerut
+ORD130,P00013,TechPro Sneakers,Processing,2025-09-24,2025-08-22,Kiara,Kolkata
+ORD1388,P00242,PlayTime Board Game,Delivered,,2025-08-29,Yash,Ludhiana
+ORD737,P00656,HomeEssentials Jeans,Delivered,,2025-09-01,Tanya,Gwalior
+ORD743,P00119,ReadWell Cat Litter,Delivered,,2025-09-04,Amit,Ghaziabad
+ORD400,P00655,AutoCare Backpack,Shipped,2025-09-21,2025-08-24,Ankit,Rajkot
+ORD934,P00292,BeautyBliss Water Bottle,Delivered,,2025-09-18,Tanvi,Pune
+ORD551,P00485,BeautyBliss Dash Cam,Out for Delivery,2025-09-22,2025-09-11,Rohan,Lucknow
+ORD1563,P00470,SportsFit Sneakers,Delivered,,2025-09-03,Mohit,Allahabad
+ORD878,P00813,SportsFit Blender,Delivered,,2025-09-03,Prachi,Hyderabad
+ORD1675,P00868,FreshChoice Curtains,Delivered,,2025-09-14,Ravi,Pune
+ORD203,P00956,BeautyBliss Science Book,Processing,2025-09-22,2025-09-08,Naina,Howrah
+ORD1921,P00292,BeautyBliss Water Bottle,Cancelled,,2025-09-07,Shreya,Ghaziabad
+ORD415,P00556,FreshChoice Doll,Shipped,2025-09-23,2025-09-09,Ishaan,Nagpur
+ORD665,P00640,HomeEssentials Tablet,Out for Delivery,2025-09-22,2025-08-27,Pooja,Meerut
+ORD1862,P00969,HomeEssentials Air Freshener,Delivered,,2025-08-20,Simran,Pune
+ORD354,P00547,HomeEssentials Yoga Mat,Shipped,2025-09-23,2025-09-11,Isha,Indore
+ORD1837,P00908,HomeEssentials Face Cream,Delivered,,2025-09-09,Ishaan,Gwalior
+ORD1801,P00386,BeautyBliss Car Charger,Delivered,,2025-08-25,Ishaan,Delhi
+ORD1900,P00353,BeautyBliss Shorts,Cancelled,,2025-09-14,Sneha,Varanasi
+ORD1539,P00753,SportsFit Cookbook,Delivered,,2025-09-17,Tanvi,Navi Mumbai
+ORD1850,P00136,HomeEssentials Action Figure,Delivered,,2025-09-07,Ravi,Visakhapatnam
+ORD1815,P00702,TechPro Action Figure,Delivered,,2025-08-22,Isha,Dhanbad
+ORD558,P00214,AutoCare Cushions,Out for Delivery,2025-09-23,2025-08-22,Rohan,Mumbai
+ORD1646,P00238,ReadWell Air Freshener,Delivered,,2025-09-11,Diya,Gwalior
+ORD660,P00612,TechPro Knife Set,Out for Delivery,2025-09-25,2025-09-06,Varun,Coimbatore
+ORD457,P00404,TechPro Video Game,Shipped,2025-09-23,2025-09-07,Simran,Lucknow
+ORD1639,P00393,AutoCare Sunscreen,Delivered,,2025-09-17,Arjun,Vasai-Virar
+ORD1148,P00567,AutoCare Smartwatch,Delivered,,2025-08-22,Diya,Ahmedabad
+ORD151,P00853,SportsFit Moisturizer,Processing,2025-09-23,2025-09-12,Meera,Faridabad
+ORD1964,P00177,AutoCare Car Mats,Cancelled,,2025-08-27,Rohan,Delhi
+ORD1661,P00758,TechPro Tablet,Delivered,,2025-08-20,Kiara,Ahmedabad
+ORD287,P00673,PetLove Car Charger,Shipped,2025-09-22,2025-09-03,Ashish,Nashik
+ORD1928,P00344,TechPro Socks,Cancelled,,2025-09-16,Suresh,Hyderabad
+ORD353,P00626,SportsFit Honey,Shipped,2025-09-26,2025-09-09,Aryan,Bhopal
+ORD322,P00773,AutoCare Sunscreen,Shipped,2025-09-25,2025-08-31,Aryan,Howrah
+ORD761,P00330,ReadWell Backpack,Delivered,,2025-09-11,Vikram,Ludhiana
+ORD1495,P00443,TechPro Dash Cam,Delivered,,2025-09-06,Pooja,Kolkata
+ORD312,P00821,PetLove Blender,Shipped,2025-09-24,2025-08-30,Simran,Hyderabad
+ORD567,P00268,BeautyBliss Sunscreen,Out for Delivery,2025-09-25,2025-09-01,Vikram,Vadodara
+ORD718,P00089,SportsFit Tablet,Delivered,,2025-08-21,Arya,Jaipur
+ORD698,P00346,FreshChoice Moisturizer,Out for Delivery,2025-09-25,2025-09-01,Deepika,Howrah
+ORD1730,P00013,TechPro Sneakers,Delivered,,2025-09-09,Aryan,Meerut
+ORD1741,P00107,FreshChoice Mouse,Delivered,,2025-08-28,Aryan,Nashik
+ORD1677,P00721,BeautyBliss Phone Case,Delivered,,2025-09-01,Shubham,Ahmedabad
+ORD1305,P00703,PetLove Jeans,Delivered,,2025-09-11,Arya,Patna
+ORD1204,P00023,FreshChoice Moisturizer,Delivered,,2025-09-11,Akash,Jaipur
+ORD972,P00584,TechPro Leash,Delivered,,2025-08-21,Divya,Lucknow
+ORD1297,P00691,AutoCare Bluetooth Speaker,Delivered,,2025-09-12,Suresh,Coimbatore
+ORD1066,P00111,ReadWell Video Game,Delivered,,2025-08-25,Vikram,Bangalore
+ORD1258,P00089,SportsFit Tablet,Delivered,,2025-09-10,Vedika,Nashik
+ORD1753,P00062,AutoCare Rice,Delivered,,2025-09-10,Prachi,Nagpur
+ORD985,P00133,AutoCare Water Bottle,Delivered,,2025-09-15,Tanvi,Amritsar
+ORD1845,P00042,SportsFit Foundation,Delivered,,2025-09-03,Neha,Bangalore
+ORD677,P00794,ReadWell Toaster,Out for Delivery,2025-09-23,2025-09-01,Uday,Bangalore
+ORD038,P00123,BeautyBliss Grooming Kit,Processing,2025-09-25,2025-08-21,Nikhil,Coimbatore
+ORD778,P00203,SportsFit Football,Delivered,,2025-09-17,Meera,Navi Mumbai
+ORD403,P00130,AutoCare Rice,Shipped,2025-09-22,2025-09-16,Simran,Faridabad
+ORD063,P00822,AutoCare Lamp,Processing,2025-09-26,2025-08-28,Nikhil,Patna
+ORD445,P00429,PlayTime Honey,Shipped,2025-09-22,2025-09-11,Sachin,Howrah
+ORD1475,P00688,FreshChoice Chocolate,Delivered,,2025-09-05,Vivek,Faridabad
+ORD791,P00463,StyleMax Pet Toy,Delivered,,2025-09-09,Harsh,Pimpri-Chinchwad
+ORD412,P00126,AutoCare Coffee,Shipped,2025-09-21,2025-09-14,Aryan,Nagpur
+ORD323,P00659,PetLove Cap,Shipped,2025-09-25,2025-08-29,Sachin,Ludhiana
+ORD347,P00865,ReadWell Shorts,Shipped,2025-09-21,2025-08-24,Neha,Allahabad
+ORD1627,P00592,PlayTime Science Book,Delivered,,2025-08-25,Rohit,Thane
+ORD1972,P00061,SportsFit Tire Pump,Cancelled,,2025-09-03,Ayush,Pimpri-Chinchwad
+ORD1634,P00327,BeautyBliss Grooming Kit,Delivered,,2025-09-10,Diya,Vadodara
+ORD826,P00590,FreshChoice Keyboard,Delivered,,2025-08-22,Tanvi,Nashik
+ORD735,P00519,HomeEssentials Mouse,Delivered,,2025-09-09,Neha,Kalyan-Dombivli
+ORD1601,P00494,PlayTime Hoodie,Delivered,,2025-09-14,Divya,Allahabad
+ORD990,P00351,ReadWell Smartwatch,Delivered,,2025-08-21,Kiara,Nashik
+ORD1373,P00791,SportsFit Musical Toy,Delivered,,2025-08-27,Aditya,Agra
+ORD454,P00567,AutoCare Smartwatch,Shipped,2025-09-21,2025-09-09,Tanvi,Amritsar
+ORD031,P00949,StyleMax Football,Processing,2025-09-24,2025-08-24,Raj,Vasai-Virar
+ORD1861,P00902,PetLove Action Figure,Delivered,,2025-09-08,Amit,Amritsar
+ORD1829,P00912,FreshChoice Football,Delivered,,2025-09-05,Diya,Thane
+ORD814,P00090,ReadWell Laptop,Delivered,,2025-09-10,Tanvi,Jaipur
+ORD529,P00384,FreshChoice Remote Car,Shipped,2025-09-24,2025-08-21,Aryan,Meerut
+ORD1198,P00443,TechPro Dash Cam,Delivered,,2025-09-16,Pooja,Patna
+ORD470,P00066,StyleMax Rice,Shipped,2025-09-26,2025-08-31,Avani,Indore
+ORD420,P00317,SportsFit Comic Book,Shipped,2025-09-26,2025-09-06,Kartik,Navi Mumbai
+ORD1555,P00328,PetLove Treats,Delivered,,2025-09-06,Suresh,Bangalore
+ORD440,P00349,ReadWell Cap,Shipped,2025-09-22,2025-08-30,Ruchi,Ludhiana
+ORD1432,P00785,StyleMax Art Kit,Delivered,,2025-08-29,Shubham,Srinagar
+ORD1145,P00765,BeautyBliss Phone Mount,Delivered,,2025-09-06,Uday,Vadodara
+ORD1155,P00186,SportsFit Perfume,Delivered,,2025-08-28,Akshay,Ranchi
+ORD807,P00044,BeautyBliss Shampoo,Delivered,,2025-09-04,Akshay,Kanpur
+ORD432,P00738,BeautyBliss Poetry,Shipped,2025-09-25,2025-08-21,Sanya,Howrah
+ORD1143,P00405,PlayTime Shampoo,Delivered,,2025-08-23,Aditi,Aurangabad
+ORD904,P00603,ReadWell Face Mask,Delivered,,2025-08-31,Arya,Kolkata
+ORD772,P00155,AutoCare Face Mask,Delivered,,2025-09-18,Vikas,Delhi
+ORD156,P00349,ReadWell Cap,Processing,2025-09-21,2025-09-13,Nisha,Aurangabad
+ORD923,P00319,PlayTime Jeans,Delivered,,2025-08-27,Neha,Rajkot
+ORD681,P00883,StyleMax Water Bottle,Out for Delivery,2025-09-21,2025-08-23,Zara,Ahmedabad
+ORD1996,P00876,BeautyBliss Running Shoes,Cancelled,,2025-09-05,Kiran,Chennai
+ORD1929,P00007,PlayTime Plates Set,Cancelled,,2025-09-05,Priya,Kalyan-Dombivli
+ORD1501,P00019,TechPro Biography,Delivered,,2025-09-07,Shubham,Nashik
+ORD1448,P00039,FreshChoice Hoodie,Delivered,,2025-09-04,Shubham,Lucknow
+ORD733,P00602,PetLove Moisturizer,Delivered,,2025-09-16,Aarav,Pimpri-Chinchwad
+ORD1711,P00829,SportsFit Dumbbells,Delivered,,2025-08-26,Aditi,Vadodara
+ORD1381,P00753,SportsFit Cookbook,Delivered,,2025-08-25,Arya,Navi Mumbai
+ORD088,P00251,PlayTime Jeans,Processing,2025-09-25,2025-09-03,Ankit,Srinagar
+ORD1384,P00645,StyleMax Cushions,Delivered,,2025-08-26,Akash,Ranchi
+ORD518,P00940,BeautyBliss Perfume,Shipped,2025-09-21,2025-08-31,Amit,Ranchi
+ORD294,P00765,BeautyBliss Phone Mount,Shipped,2025-09-22,2025-09-02,Suresh,Kalyan-Dombivli
+ORD350,P00386,BeautyBliss Car Charger,Shipped,2025-09-22,2025-09-14,Kavya,Gwalior
+ORD486,P00713,PlayTime Grooming Kit,Shipped,2025-09-22,2025-09-10,Ashish,Gwalior
+ORD1961,P00256,HomeEssentials Toaster,Cancelled,,2025-08-20,Abhinav,Aurangabad
+ORD1063,P00261,ReadWell Tool Kit,Delivered,,2025-08-30,Krishna,Indore
+ORD1985,P00943,TechPro Leash,Cancelled,,2025-09-02,Isha,Faridabad
+ORD1482,P00758,TechPro Tablet,Delivered,,2025-09-17,Nikhil,Gwalior
+ORD926,P00858,BeautyBliss Collar,Delivered,,2025-09-17,Nikhil,Bangalore
+ORD992,P00020,PlayTime Textbook,Delivered,,2025-09-11,Maya,Jaipur
+ORD426,P00157,HomeEssentials Jacket,Shipped,2025-09-22,2025-09-09,Ishaan,Ludhiana
+ORD1047,P00455,FreshChoice Belt,Delivered,,2025-08-24,Aryan,Hyderabad
+ORD1028,P00136,HomeEssentials Action Figure,Delivered,,2025-08-27,Amit,Kanpur
+ORD869,P00420,FreshChoice Coffee,Delivered,,2025-08-27,Uday,Pimpri-Chinchwad
+ORD1844,P00920,PetLove Curtains,Delivered,,2025-09-18,Vikram,Bangalore
+ORD142,P00662,PlayTime Toaster,Processing,2025-09-24,2025-08-27,Aryan,Delhi
+ORD839,P00867,PlayTime Lamp,Delivered,,2025-09-02,Simran,Chennai
+ORD343,P00096,PlayTime T-Shirt,Shipped,2025-09-26,2025-08-29,Vivek,Amritsar
+ORD1450,P00256,HomeEssentials Toaster,Delivered,,2025-09-11,Nisha,Ghaziabad
+ORD1767,P00125,PlayTime Sneakers,Delivered,,2025-08-31,Tanya,Nashik
+ORD1272,P00919,TechPro Dash Cam,Delivered,,2025-08-31,Aditi,Aurangabad
+ORD1771,P00862,HomeEssentials Nail Polish,Delivered,,2025-09-04,Ravi,Indore
+ORD1423,P00572,StyleMax Charger,Delivered,,2025-08-26,Vikram,Faridabad
+ORD1838,P00928,AutoCare Musical Toy,Delivered,,2025-09-13,Meera,Hyderabad
+ORD511,P00416,PlayTime Yoga Mat,Shipped,2025-09-25,2025-08-28,Rohit,Ahmedabad
+ORD1734,P00941,PlayTime Cricket Bat,Delivered,,2025-08-29,Priya,Agra
+ORD1547,P00798,HomeEssentials Board Game,Delivered,,2025-08-31,Uday,Jaipur
+ORD453,P00047,ReadWell Bluetooth Speaker,Shipped,2025-09-21,2025-09-06,Kiran,Faridabad
+ORD1365,P00633,StyleMax Headphones,Delivered,,2025-09-04,Priya,Gwalior
+ORD300,P00774,ReadWell Tablet,Shipped,2025-09-21,2025-09-02,Shreya,Vasai-Virar
+ORD746,P00168,SportsFit Food Bowl,Delivered,,2025-09-03,Shreya,Navi Mumbai
+ORD1138,P00548,PetLove Running Shoes,Delivered,,2025-09-18,Ananya,Coimbatore
+ORD371,P00114,FreshChoice Building Blocks,Shipped,2025-09-23,2025-08-25,Naina,Ghaziabad
+ORD933,P00858,BeautyBliss Collar,Delivered,,2025-08-21,Prachi,Hyderabad
+ORD1081,P00640,HomeEssentials Tablet,Delivered,,2025-08-27,Ravi,Nashik
+ORD1419,P00376,PetLove Novel,Delivered,,2025-09-11,Ankit,Mumbai
+ORD1370,P00239,PlayTime Nuts,Delivered,,2025-09-16,Gaurav,Mumbai
+ORD646,P00534,ReadWell Art Kit,Out for Delivery,2025-09-23,2025-09-03,Isha,Kolkata
+ORD1187,P00685,HomeEssentials Art Book,Delivered,,2025-09-12,Riya,Faridabad
+ORD108,P00920,PetLove Curtains,Processing,2025-09-24,2025-09-11,Maya,Patna
+ORD1360,P00641,PetLove Lipstick,Delivered,,2025-09-11,Riya,Gwalior
+ORD1710,P00174,FreshChoice Yoga Mat,Delivered,,2025-08-31,Akshay,Vadodara
+ORD1188,P00398,BeautyBliss Curtains,Delivered,,2025-09-03,Divya,Bangalore
+ORD1823,P00739,SportsFit Grooming Kit,Delivered,,2025-09-04,Sachin,Kalyan-Dombivli
+ORD1084,P00630,SportsFit Poetry,Delivered,,2025-09-01,Kartik,Coimbatore
+ORD1430,P00932,TechPro Perfume,Delivered,,2025-08-29,Kabir,Ranchi
+ORD1091,P00708,AutoCare Art Book,Delivered,,2025-08-24,Ravi,Thane
+ORD1809,P00627,FreshChoice Headphones,Delivered,,2025-09-16,Rohan,Nashik
+ORD1478,P00174,FreshChoice Yoga Mat,Delivered,,2025-09-07,Zara,Gwalior
+ORD801,P00013,TechPro Sneakers,Delivered,,2025-09-17,Maya,Jaipur
+ORD1610,P00610,ReadWell Car Charger,Delivered,,2025-09-15,Rohit,Ludhiana
+ORD1240,P00380,ReadWell Knife Set,Delivered,,2025-09-01,Kartik,Pimpri-Chinchwad
+ORD1787,P00047,ReadWell Bluetooth Speaker,Delivered,,2025-09-11,Deepika,Mumbai
+ORD1498,P00513,AutoCare Pet Toy,Delivered,,2025-09-04,Abhinav,Bangalore
+ORD1439,P00624,AutoCare Collar,Delivered,,2025-09-11,Uday,Thane
+ORD1074,P00903,FreshChoice Video Game,Delivered,,2025-09-06,Vikram,Jabalpur
+ORD449,P00990,AutoCare Video Game,Shipped,2025-09-22,2025-09-11,Shubham,Pune
+ORD969,P00889,FreshChoice Musical Toy,Delivered,,2025-08-28,Suresh,Navi Mumbai
+ORD949,P00268,BeautyBliss Sunscreen,Delivered,,2025-08-29,Rohan,Indore
+ORD052,P00495,PlayTime Comic Book,Processing,2025-09-24,2025-09-02,Nisha,Pune
+ORD724,P00531,FreshChoice Tennis Racket,Delivered,,2025-08-30,Pooja,Indore
+ORD1369,P00129,PetLove GPS,Delivered,,2025-08-27,Zara,Mumbai
+ORD686,P00552,BeautyBliss Art Kit,Out for Delivery,2025-09-23,2025-09-13,Ravi,Vadodara
+ORD1723,P00677,BeautyBliss Car Vacuum,Delivered,,2025-09-04,Jiya,Thane
+ORD528,P00294,TechPro Dog Food,Shipped,2025-09-22,2025-09-05,Dev,Kalyan-Dombivli
+ORD895,P00130,AutoCare Rice,Delivered,,2025-09-17,Vivek,Hyderabad
+ORD1825,P00798,HomeEssentials Board Game,Delivered,,2025-09-15,Sachin,Bhopal
+ORD874,P00090,ReadWell Laptop,Delivered,,2025-09-09,Kartik,Indore
+ORD1758,P00733,SportsFit Chocolate,Delivered,,2025-09-10,Ashish,Bangalore
+ORD918,P00276,StyleMax Dash Cam,Delivered,,2025-08-26,Vikram,Jabalpur
+ORD1461,P00327,BeautyBliss Grooming Kit,Delivered,,2025-09-01,Gaurav,Ludhiana
+ORD1022,P00337,AutoCare Educational Toy,Delivered,,2025-09-07,Zara,Gwalior
+ORD1835,P00140,ReadWell Phone Case,Delivered,,2025-09-15,Harsh,Srinagar
+ORD789,P00776,AutoCare Blender,Delivered,,2025-09-04,Ruchi,Kalyan-Dombivli
+ORD1444,P00912,FreshChoice Football,Delivered,,2025-09-09,Aadhya,Ghaziabad
+ORD1923,P00746,ReadWell Cricket Bat,Cancelled,,2025-08-21,Zara,Kalyan-Dombivli
+ORD364,P00515,TechPro Sunscreen,Shipped,2025-09-22,2025-09-07,Tanvi,Hyderabad
+ORD804,P00601,PetLove Dog Food,Delivered,,2025-09-10,Ankit,Delhi
+ORD1492,P00477,PetLove Building Blocks,Delivered,,2025-08-29,Aarav,Chennai
+ORD1033,P00943,TechPro Leash,Delivered,,2025-09-03,Avani,Kalyan-Dombivli
+ORD499,P00506,ReadWell Pet Toy,Shipped,2025-09-22,2025-08-21,Neha,Srinagar
+ORD1114,P00358,BeautyBliss Blender,Delivered,,2025-09-11,Manish,Agra
+ORD1469,P00514,PlayTime Pet Toy,Delivered,,2025-09-05,Deepika,Jaipur
+ORD124,P00988,TechPro Cage,Processing,2025-09-21,2025-09-09,Aditi,Ghaziabad
+ORD1653,P00213,SportsFit Keyboard,Delivered,,2025-09-06,Ashish,Ludhiana
+ORD633,P00076,BeautyBliss Dress,Out for Delivery,2025-09-25,2025-09-04,Kartik,Coimbatore
+ORD117,P00482,ReadWell Comic Book,Processing,2025-09-26,2025-09-18,Uday,Pune
+ORD441,P00625,FreshChoice Cereals,Shipped,2025-09-22,2025-09-06,Sneha,Amritsar
+ORD1434,P00171,TechPro History Book,Delivered,,2025-08-24,Kavya,Ranchi
+ORD066,P00781,StyleMax Tennis Racket,Processing,2025-09-23,2025-09-07,Meera,Bhopal
+ORD827,P00958,FreshChoice Toaster,Delivered,,2025-08-23,Kabir,Nagpur
+ORD1113,P00557,ReadWell Gym Bag,Delivered,,2025-09-01,Vedika,Hyderabad
+ORD1884,P00756,BeautyBliss Charger,Delivered,,2025-08-29,Abhinav,Vadodara
+ORD916,P00996,AutoCare Sneakers,Delivered,,2025-08-22,Meera,Jaipur
+ORD1816,P00181,SportsFit Seat Covers,Delivered,,2025-09-13,Akash,Pune
+ORD848,P00401,StyleMax Dumbbells,Delivered,,2025-08-22,Aditya,Nagpur
+ORD179,P00941,PlayTime Cricket Bat,Processing,2025-09-22,2025-09-17,Isha,Navi Mumbai
+ORD1183,P00932,TechPro Perfume,Delivered,,2025-08-31,Diya,Aurangabad
+ORD1990,P00127,AutoCare Hoodie,Cancelled,,2025-09-04,Avani,Navi Mumbai
+ORD366,P00860,PetLove Perfume,Shipped,2025-09-26,2025-08-27,Samar,Lucknow
+ORD268,P00045,FreshChoice Leash,Shipped,2025-09-26,2025-08-26,Riya,Ghaziabad
+ORD903,P00425,HomeEssentials History Book,Delivered,,2025-09-14,Diya,Howrah
+ORD1153,P00165,AutoCare Self-Help Book,Delivered,,2025-09-13,Maya,Gwalior
+ORD019,P00553,SportsFit Art Book,Processing,2025-09-26,2025-09-14,Isha,Visakhapatnam
+ORD049,P00307,TechPro Charger,Processing,2025-09-26,2025-08-20,Ashish,Jaipur
+ORD1979,P00800,PlayTime Nail Polish,Cancelled,,2025-08-26,Naina,Amritsar
+ORD215,P00765,BeautyBliss Phone Mount,Processing,2025-09-24,2025-09-16,Arya,Kolkata
+ORD1770,P00548,PetLove Running Shoes,Delivered,,2025-08-22,Sanya,Hyderabad
+ORD622,P00329,TechPro Dumbbells,Out for Delivery,2025-09-26,2025-08-30,Krishna,Aurangabad
+ORD1012,P00014,BeautyBliss Jeans,Delivered,,2025-08-28,Arjun,Ahmedabad
+ORD1079,P00864,StyleMax Cushions,Delivered,,2025-08-27,Ruchi,Ranchi
+ORD207,P00066,StyleMax Rice,Processing,2025-09-25,2025-09-14,Samar,Kolkata
+ORD1008,P00852,BeautyBliss Pet Toy,Delivered,,2025-09-02,Krishna,Nashik
+ORD1858,P00034,ReadWell Toaster,Delivered,,2025-09-09,Vivek,Patna
+ORD409,P00397,FreshChoice Musical Toy,Shipped,2025-09-25,2025-08-20,Ayush,Pimpri-Chinchwad
+ORD355,P00377,StyleMax Comic Book,Shipped,2025-09-25,2025-08-28,Zara,Srinagar
+ORD1245,P00821,PetLove Blender,Delivered,,2025-09-01,Akshay,Kanpur
+ORD989,P00537,SportsFit Nail Polish,Delivered,,2025-09-08,Yash,Jaipur
+ORD1804,P00909,BeautyBliss Board Game,Delivered,,2025-09-09,Vikram,Aurangabad
+ORD579,P00018,SportsFit Musical Toy,Out for Delivery,2025-09-26,2025-09-02,Rahul,Allahabad
+ORD425,P00444,ReadWell Poetry,Shipped,2025-09-21,2025-09-02,Ayush,Navi Mumbai
+ORD332,P00462,FreshChoice Tire Pump,Shipped,2025-09-23,2025-09-15,Anushka,Amritsar
+ORD968,P00911,PlayTime Honey,Delivered,,2025-09-12,Neha,Ahmedabad
+ORD738,P00157,HomeEssentials Jacket,Delivered,,2025-09-10,Anushka,Ghaziabad
+ORD854,P00012,ReadWell Cage,Delivered,,2025-09-10,Lakshmi,Visakhapatnam
+ORD1785,P00038,StyleMax Cat Litter,Delivered,,2025-08-26,Diya,Dhanbad
+ORD601,P00443,TechPro Dash Cam,Out for Delivery,2025-09-25,2025-09-07,Suresh,Vasai-Virar
+ORD1974,P00773,AutoCare Sunscreen,Cancelled,,2025-09-15,Ayush,Jabalpur
+ORD960,P00132,FreshChoice Football,Delivered,,2025-08-26,Prachi,Ranchi
+ORD1344,P00993,SportsFit Chocolate,Delivered,,2025-08-27,Uday,Nagpur
+ORD450,P00136,HomeEssentials Action Figure,Shipped,2025-09-24,2025-09-09,Isha,Vadodara
+ORD1040,P00860,PetLove Perfume,Delivered,,2025-08-23,Akshay,Mumbai
+ORD476,P00935,TechPro Sneakers,Shipped,2025-09-23,2025-09-01,Uday,Nashik
+ORD898,P00933,ReadWell Laptop,Delivered,,2025-08-26,Ananya,Hyderabad
+ORD705,P00685,HomeEssentials Art Book,Out for Delivery,2025-09-23,2025-08-29,Meera,Vasai-Virar
+ORD1791,P00117,FreshChoice Eye Shadow,Delivered,,2025-09-03,Maya,Chennai
+ORD1651,P00791,SportsFit Musical Toy,Delivered,,2025-08-22,Jiya,Vadodara
+ORD1882,P00427,TechPro Seat Covers,Delivered,,2025-08-28,Uday,Jaipur
+ORD331,P00620,FreshChoice Wireless Earbuds,Shipped,2025-09-25,2025-09-03,Gaurav,Pune
+ORD1228,P00138,BeautyBliss Headphones,Delivered,,2025-09-10,Kartik,Bhopal
+ORD1907,P00918,PlayTime Football,Cancelled,,2025-09-09,Diya,Howrah
+ORD919,P00662,PlayTime Toaster,Delivered,,2025-09-16,Kiran,Varanasi
+ORD711,P00393,AutoCare Sunscreen,Out for Delivery,2025-09-26,2025-09-16,Ashish,Kolkata
+ORD1300,P00270,TechPro Tool Kit,Delivered,,2025-09-11,Priya,Aurangabad
+ORD1725,P00658,TechPro Jeans,Delivered,,2025-09-10,Avani,Pune
+ORD970,P00306,TechPro Treats,Delivered,,2025-09-05,Akshay,Lucknow
+ORD855,P00710,ReadWell Blender,Delivered,,2025-09-16,Shreya,Pimpri-Chinchwad
+ORD1692,P00364,SportsFit Seat Covers,Delivered,,2025-09-11,Kavya,Vasai-Virar
+ORD1971,P00813,SportsFit Blender,Cancelled,,2025-08-28,Pooja,Coimbatore
+ORD1969,P00020,PlayTime Textbook,Cancelled,,2025-08-25,Kartik,Vasai-Virar
+ORD1755,P00625,FreshChoice Cereals,Delivered,,2025-09-06,Kabir,Dhanbad
+ORD1704,P00798,HomeEssentials Board Game,Delivered,,2025-09-18,Isha,Srinagar
+ORD125,P00590,FreshChoice Keyboard,Processing,2025-09-24,2025-08-28,Varun,Indore
+ORD475,P00539,HomeEssentials Headphones,Shipped,2025-09-23,2025-09-06,Kabir,Srinagar
+ORD1000,P00390,HomeEssentials Cage,Delivered,,2025-09-15,Nisha,Aurangabad
+ORD1168,P00368,PlayTime Nuts,Delivered,,2025-08-25,Rohit,Dhanbad
+ORD1625,P00479,SportsFit Art Kit,Delivered,,2025-08-21,Akash,Kolkata
+ORD819,P00935,TechPro Sneakers,Delivered,,2025-08-31,Neha,Ludhiana
+ORD1873,P00813,SportsFit Blender,Delivered,,2025-08-27,Tanya,Allahabad
+ORD1640,P00402,HomeEssentials Cereals,Delivered,,2025-09-13,Aryan,Gwalior
+ORD1186,P00271,StyleMax Knife Set,Delivered,,2025-09-07,Meera,Bangalore
+ORD1016,P00660,TechPro Doll,Delivered,,2025-09-11,Divya,Vadodara
+ORD852,P00356,FreshChoice Jeans,Delivered,,2025-09-08,Jiya,Hyderabad
+ORD885,P00685,HomeEssentials Art Book,Delivered,,2025-09-07,Uday,Kalyan-Dombivli
+ORD211,P00639,SportsFit Belt,Processing,2025-09-24,2025-08-27,Anushka,Agra
+ORD1674,P00597,FreshChoice Rice,Delivered,,2025-09-18,Pooja,Rajkot
+ORD684,P00631,AutoCare Educational Toy,Out for Delivery,2025-09-22,2025-09-14,Lakshmi,Pune
+ORD105,P00969,HomeEssentials Air Freshener,Processing,2025-09-21,2025-08-27,Suresh,Aurangabad
+ORD803,P00703,PetLove Jeans,Delivered,,2025-08-29,Anushka,Coimbatore
+ORD604,P00085,HomeEssentials Football,Out for Delivery,2025-09-22,2025-09-10,Suresh,Lucknow
+ORD413,P00921,TechPro Video Game,Shipped,2025-09-24,2025-08-27,Arjun,Ludhiana
+ORD497,P00010,AutoCare Mouse,Shipped,2025-09-25,2025-09-09,Ashish,Agra
+ORD921,P00778,PlayTime Mouse,Delivered,,2025-09-02,Sneha,Pune
+ORD1623,P00860,PetLove Perfume,Delivered,,2025-09-15,Aadhya,Ghaziabad
+ORD966,P00872,ReadWell Cage,Delivered,,2025-09-15,Isha,Pune
+ORD1295,P01000,TechPro Bluetooth Speaker,Delivered,,2025-09-15,Riya,Srinagar
+ORD912,P00051,ReadWell Video Game,Delivered,,2025-08-26,Isha,Patna
+ORD1947,P00430,BeautyBliss Phone Case,Cancelled,,2025-08-29,Shubham,Pune
+ORD341,P00610,ReadWell Car Charger,Shipped,2025-09-21,2025-08-27,Rohit,Ranchi
+ORD1130,P00856,ReadWell Food Bowl,Delivered,,2025-09-15,Lakshmi,Allahabad
+ORD045,P00219,FreshChoice Building Blocks,Processing,2025-09-23,2025-09-02,Deepika,Nashik
+ORD1642,P00731,PlayTime Pet Toy,Delivered,,2025-08-25,Tanya,Hyderabad
+ORD971,P00141,FreshChoice Musical Toy,Delivered,,2025-09-12,Sanya,Kalyan-Dombivli
+ORD1981,P00782,HomeEssentials Moisturizer,Cancelled,,2025-09-18,Siddharth,Thane
+ORD1193,P00670,HomeEssentials Pet Bed,Delivered,,2025-08-21,Ankit,Navi Mumbai
+ORD1526,P00363,HomeEssentials History Book,Delivered,,2025-08-22,Tanvi,Dhanbad
+ORD177,P00753,SportsFit Cookbook,Processing,2025-09-25,2025-09-08,Nisha,Delhi
+ORD1115,P00340,AutoCare Treats,Delivered,,2025-09-07,Ravi,Thane
+ORD1104,P00929,FreshChoice Smartwatch,Delivered,,2025-09-10,Deepika,Kanpur
+ORD1321,P00690,FreshChoice Pet Toy,Delivered,,2025-09-02,Kiara,Varanasi
+ORD496,P00807,PetLove History Book,Shipped,2025-09-22,2025-09-03,Ravi,Bangalore
+ORD298,P00279,ReadWell Seat Covers,Shipped,2025-09-26,2025-09-04,Vivek,Dhanbad
+ORD986,P00603,ReadWell Face Mask,Delivered,,2025-09-09,Jiya,Chennai
+ORD429,P00651,PlayTime Cat Litter,Shipped,2025-09-23,2025-09-01,Deepika,Ghaziabad
+ORD1937,P00670,HomeEssentials Pet Bed,Cancelled,,2025-08-28,Raj,Kalyan-Dombivli
+ORD386,P00065,FreshChoice GPS,Shipped,2025-09-24,2025-08-27,Aditya,Vadodara
+ORD033,P00195,FreshChoice Shorts,Processing,2025-09-22,2025-09-09,Amit,Coimbatore
+ORD1607,P00993,SportsFit Chocolate,Delivered,,2025-09-14,Rahul,Delhi
+ORD1412,P00158,SportsFit Keyboard,Delivered,,2025-08-30,Raj,Ludhiana
+ORD1421,P00951,BeautyBliss Dumbbells,Delivered,,2025-08-21,Anushka,Srinagar
+ORD277,P00910,ReadWell Water Bottle,Shipped,2025-09-24,2025-09-11,Sanya,Srinagar
+ORD257,P00806,SportsFit Cage,Shipped,2025-09-22,2025-09-08,Deepika,Howrah
+ORD180,P00668,ReadWell Educational Toy,Processing,2025-09-23,2025-09-04,Kavya,Coimbatore
+ORD1915,P00024,PlayTime Cage,Cancelled,,2025-09-16,Tanya,Varanasi
+ORD1131,P00759,HomeEssentials Art Kit,Delivered,,2025-08-29,Ankit,Lucknow
+ORD1329,P00909,BeautyBliss Board Game,Delivered,,2025-09-04,Simran,Coimbatore
+ORD1883,P00486,PlayTime Gym Bag,Delivered,,2025-09-07,Vikram,Varanasi
+ORD997,P00639,SportsFit Belt,Delivered,,2025-09-17,Akshay,Kolkata
+ORD830,P00971,ReadWell Coffee Maker,Delivered,,2025-08-31,Diya,Howrah
+ORD1733,P00980,StyleMax Coffee Maker,Delivered,,2025-08-22,Yash,Gwalior
+ORD978,P00133,AutoCare Water Bottle,Delivered,,2025-08-30,Yash,Vasai-Virar
+ORD352,P00374,FreshChoice Chocolate,Shipped,2025-09-26,2025-08-28,Naina,Varanasi
+ORD028,P00993,SportsFit Chocolate,Processing,2025-09-22,2025-09-16,Jiya,Kalyan-Dombivli
+ORD239,P00824,AutoCare Face Mask,Processing,2025-09-24,2025-09-15,Ankit,Lucknow
+ORD1820,P00107,FreshChoice Mouse,Delivered,,2025-08-26,Akshay,Allahabad
+ORD1251,P00629,BeautyBliss Sunscreen,Delivered,,2025-08-29,Riya,Vadodara
+ORD1904,P00951,BeautyBliss Dumbbells,Cancelled,,2025-09-08,Gaurav,Mumbai
+ORD1095,P00399,TechPro Football,Delivered,,2025-09-11,Pooja,Vadodara
+ORD1686,P00739,SportsFit Grooming Kit,Delivered,,2025-08-21,Kiara,Vasai-Virar
+ORD1261,P00942,AutoCare Smartwatch,Delivered,,2025-09-16,Raj,Ranchi
+ORD532,P00551,ReadWell Car Charger,Shipped,2025-09-25,2025-09-06,Deepika,Bhopal
+ORD161,P00611,TechPro Educational Toy,Processing,2025-09-25,2025-08-24,Maya,Navi Mumbai
+ORD380,P00895,StyleMax Football,Shipped,2025-09-21,2025-09-03,Tanvi,Faridabad
+ORD1244,P00220,SportsFit Comic Book,Delivered,,2025-09-02,Vedika,Agra
+ORD384,P00361,PetLove Collar,Shipped,2025-09-23,2025-09-01,Kabir,Srinagar
+ORD1401,P00302,SportsFit Coffee Maker,Delivered,,2025-09-01,Kiara,Indore
+ORD543,P00570,BeautyBliss Keyboard,Shipped,2025-09-26,2025-09-11,Ruchi,Howrah
+ORD1896,P00328,PetLove Treats,Cancelled,,2025-09-11,Avani,Bangalore
+ORD1955,P00382,SportsFit Belt,Cancelled,,2025-08-25,Kiara,Kalyan-Dombivli
+ORD1477,P00975,PlayTime Car Mats,Delivered,,2025-08-29,Aditi,Ghaziabad
+ORD1523,P00238,ReadWell Air Freshener,Delivered,,2025-09-11,Aditi,Nashik
+ORD1273,P00120,SportsFit Perfume,Delivered,,2025-09-10,Ananya,Meerut
+ORD171,P00558,AutoCare Toaster,Processing,2025-09-26,2025-09-11,Gaurav,Patna
+ORD1275,P00820,BeautyBliss Water Bottle,Delivered,,2025-09-08,Vikas,Nashik
+ORD1528,P00232,AutoCare Moisturizer,Delivered,,2025-09-17,Vikas,Mumbai
+ORD374,P00549,PlayTime Musical Toy,Shipped,2025-09-26,2025-09-18,Pooja,Howrah
+ORD1631,P00162,FreshChoice Poetry,Delivered,,2025-09-10,Avani,Mumbai
+ORD1437,P00583,StyleMax Cap,Delivered,,2025-09-01,Sachin,Faridabad
+ORD234,P00808,FreshChoice Perfume,Processing,2025-09-21,2025-09-04,Simran,Jaipur
+ORD034,P00754,TechPro Candles,Processing,2025-09-21,2025-09-01,Ruchi,Pune
+ORD1346,P00446,ReadWell History Book,Delivered,,2025-09-02,Tanya,Ghaziabad
+ORD168,P00034,ReadWell Toaster,Processing,2025-09-23,2025-09-11,Raj,Srinagar
+ORD522,P00921,TechPro Video Game,Shipped,2025-09-24,2025-09-02,Amit,Srinagar
+ORD728,P00975,PlayTime Car Mats,Delivered,,2025-09-16,Siddharth,Mumbai
+ORD1542,P00793,TechPro History Book,Delivered,,2025-08-23,Raj,Srinagar
+ORD952,P00698,ReadWell Cushions,Delivered,,2025-09-14,Aditi,Dhanbad
+ORD1269,P00898,PlayTime Comic Book,Delivered,,2025-09-01,Nisha,Varanasi
+ORD1509,P00458,BeautyBliss Lamp,Delivered,,2025-08-31,Gaurav,Vasai-Virar
+ORD871,P00099,ReadWell Doll,Delivered,,2025-09-17,Varun,Howrah
+ORD1046,P00837,StyleMax Novel,Delivered,,2025-09-11,Anushka,Srinagar
+ORD221,P00700,PlayTime Candles,Processing,2025-09-24,2025-09-11,Diya,Bhopal
+ORD1195,P00416,PlayTime Yoga Mat,Delivered,,2025-09-07,Shreya,Dhanbad
+ORD1841,P00286,FreshChoice Poetry,Delivered,,2025-09-18,Vivek,Visakhapatnam
+ORD1925,P00826,PetLove Yoga Mat,Cancelled,,2025-08-26,Vivek,Kalyan-Dombivli
+ORD1129,P00687,SportsFit Sneakers,Delivered,,2025-08-29,Manish,Vasai-Virar
+ORD1751,P00264,PetLove Remote Car,Delivered,,2025-09-13,Ankit,Patna
+ORD1165,P00805,TechPro Air Freshener,Delivered,,2025-09-11,Yash,Patna
+ORD606,P00094,HomeEssentials Tablet,Out for Delivery,2025-09-23,2025-09-18,Zara,Faridabad
+ORD876,P00654,ReadWell Cookbook,Delivered,,2025-09-09,Anushka,Aurangabad
+ORD1072,P00709,PetLove Gym Bag,Delivered,,2025-08-31,Kabir,Jaipur
+ORD510,P00684,StyleMax Sneakers,Shipped,2025-09-24,2025-09-15,Rohit,Kanpur
+ORD1181,P00679,BeautyBliss Tennis Racket,Delivered,,2025-09-11,Jiya,Amritsar
+ORD1332,P00746,ReadWell Cricket Bat,Delivered,,2025-09-11,Nisha,Hyderabad
+ORD1311,P00493,SportsFit GPS,Delivered,,2025-09-01,Akshay,Rajkot
+ORD616,P00432,PlayTime Poetry,Out for Delivery,2025-09-24,2025-09-09,Ankit,Faridabad
+ORD979,P00414,PetLove GPS,Delivered,,2025-09-05,Kartik,Meerut
+ORD163,P00440,PetLove Poetry,Processing,2025-09-25,2025-09-09,Amit,Gwalior
+ORD896,P00700,PlayTime Candles,Delivered,,2025-09-05,Krishna,Lucknow
+ORD1343,P00533,BeautyBliss Oil,Delivered,,2025-09-01,Zara,Jaipur
+ORD596,P00394,BeautyBliss GPS,Out for Delivery,2025-09-26,2025-08-25,Dev,Hyderabad
+ORD1621,P00842,TechPro Curtains,Delivered,,2025-09-02,Deepika,Thane
+ORD1075,P00938,SportsFit Blender,Delivered,,2025-08-27,Nikhil,Patna
+ORD1080,P00648,PlayTime Food Bowl,Delivered,,2025-09-12,Krishna,Thane
+ORD1015,P00741,ReadWell Football,Delivered,,2025-08-26,Arya,Pimpri-Chinchwad
+ORD318,P00928,AutoCare Musical Toy,Shipped,2025-09-23,2025-08-25,Shreya,Lucknow
+ORD1414,P00099,ReadWell Doll,Delivered,,2025-09-02,Ananya,Bangalore
+ORD950,P00154,AutoCare Blender,Delivered,,2025-09-02,Naina,Pune
+ORD700,P00102,HomeEssentials Gym Bag,Out for Delivery,2025-09-24,2025-08-29,Abhinav,Ahmedabad
+ORD1052,P00987,PlayTime Phone Case,Delivered,,2025-08-30,Rohan,Amritsar
+ORD083,P00453,AutoCare Hoodie,Processing,2025-09-26,2025-09-04,Manish,Amritsar
+ORD191,P00125,PlayTime Sneakers,Processing,2025-09-26,2025-09-18,Naina,Kanpur
+ORD873,P00056,AutoCare Belt,Delivered,,2025-09-07,Aadhya,Vasai-Virar
+ORD890,P00081,BeautyBliss Food Bowl,Delivered,,2025-09-06,Aditya,Amritsar
+ORD382,P00354,StyleMax Cereals,Shipped,2025-09-26,2025-09-11,Ashish,Coimbatore
+ORD755,P00691,AutoCare Bluetooth Speaker,Delivered,,2025-08-26,Avani,Bhopal
+ORD1506,P00350,PlayTime Doll,Delivered,,2025-08-21,Varun,Jaipur
+ORD1525,P00515,TechPro Sunscreen,Delivered,,2025-08-22,Isha,Faridabad
+ORD1544,P00942,AutoCare Smartwatch,Delivered,,2025-09-17,Riya,Lucknow
+ORD1830,P00951,BeautyBliss Dumbbells,Delivered,,2025-08-30,Divya,Nagpur
+ORD550,P00153,TechPro Sunscreen,Out for Delivery,2025-09-24,2025-09-09,Kavya,Allahabad
+ORD976,P00281,FreshChoice Food Bowl,Delivered,,2025-09-12,Jiya,Howrah
+ORD795,P00094,HomeEssentials Tablet,Delivered,,2025-08-27,Nikhil,Nashik
+ORD913,P00919,TechPro Dash Cam,Delivered,,2025-09-07,Abhinav,Agra
+ORD1951,P00331,PetLove Candles,Cancelled,,2025-08-22,Ruchi,Ghaziabad
+ORD1626,P00534,ReadWell Art Kit,Delivered,,2025-08-25,Rohit,Delhi
+ORD1050,P00414,PetLove GPS,Delivered,,2025-09-05,Aditya,Ranchi
+ORD1451,P00095,BeautyBliss Doll,Delivered,,2025-08-31,Vedika,Howrah
+ORD197,P00196,BeautyBliss Treats,Processing,2025-09-25,2025-08-20,Pooja,Jaipur
+ORD736,P00756,BeautyBliss Charger,Delivered,,2025-08-27,Vedika,Hyderabad
+ORD269,P00470,SportsFit Sneakers,Shipped,2025-09-21,2025-08-29,Amit,Aurangabad
+ORD1721,P00957,ReadWell GPS,Delivered,,2025-08-23,Gaurav,Dhanbad
+ORD886,P00995,StyleMax Pet Bed,Delivered,,2025-08-25,Meera,Ranchi
+ORD1006,P00117,FreshChoice Eye Shadow,Delivered,,2025-08-24,Ashish,Dhanbad
+ORD612,P00743,AutoCare Dress,Out for Delivery,2025-09-25,2025-08-21,Nikhil,Howrah
+ORD247,P00120,SportsFit Perfume,Shipped,2025-09-21,2025-09-14,Aditya,Ghaziabad
+ORD316,P00342,TechPro Laptop,Shipped,2025-09-22,2025-08-25,Ankit,Amritsar
+ORD584,P00383,HomeEssentials Science Book,Out for Delivery,2025-09-24,2025-09-06,Nikhil,Bhopal
+ORD825,P00547,HomeEssentials Yoga Mat,Delivered,,2025-08-23,Amit,Bhopal
+ORD1530,P00407,HomeEssentials Self-Help Book,Delivered,,2025-08-25,Lakshmi,Chennai
+ORD334,P00773,AutoCare Sunscreen,Shipped,2025-09-25,2025-09-02,Ishaan,Faridabad
+ORD427,P00958,FreshChoice Toaster,Shipped,2025-09-22,2025-08-27,Shreya,Navi Mumbai
+ORD1445,P00228,FreshChoice Headphones,Delivered,,2025-09-12,Ruchi,Delhi
+ORD1792,P00824,AutoCare Face Mask,Delivered,,2025-09-12,Vivek,Agra
+ORD1237,P00638,AutoCare Pet Bed,Delivered,,2025-08-30,Rahul,Rajkot
+ORD492,P00667,StyleMax Dash Cam,Shipped,2025-09-23,2025-09-12,Sachin,Vadodara
+ORD365,P00384,FreshChoice Remote Car,Shipped,2025-09-21,2025-09-11,Ruchi,Kolkata
+ORD523,P00136,HomeEssentials Action Figure,Shipped,2025-09-24,2025-09-02,Divya,Howrah
+ORD817,P00392,AutoCare Coffee Maker,Delivered,,2025-08-24,Shubham,Aurangabad
+ORD190,P00256,HomeEssentials Toaster,Processing,2025-09-23,2025-08-20,Zara,Dhanbad
+ORD782,P00198,PetLove Gym Bag,Delivered,,2025-08-31,Amit,Vasai-Virar
+ORD1497,P00545,FreshChoice Lamp,Delivered,,2025-09-16,Kavya,Indore
+ORD1121,P00938,SportsFit Blender,Delivered,,2025-08-24,Avani,Meerut
+ORD145,P00567,AutoCare Smartwatch,Processing,2025-09-23,2025-09-02,Vivek,Ranchi
+ORD1622,P00742,PetLove Novel,Delivered,,2025-09-17,Divya,Meerut
+ORD662,P00177,AutoCare Car Mats,Out for Delivery,2025-09-26,2025-08-23,Rohan,Gwalior
+ORD1327,P00322,ReadWell Video Game,Delivered,,2025-09-08,Ravi,Patna
+ORD100,P00279,ReadWell Seat Covers,Processing,2025-09-23,2025-09-08,Uday,Hyderabad
+ORD433,P00108,ReadWell Foundation,Shipped,2025-09-21,2025-08-23,Anushka,Bangalore
+ORD265,P00539,HomeEssentials Headphones,Shipped,2025-09-26,2025-09-15,Ananya,Aurangabad
+ORD1870,P00697,BeautyBliss Cushions,Delivered,,2025-09-05,Rahul,Pune
+ORD666,P00429,PlayTime Honey,Out for Delivery,2025-09-22,2025-08-30,Tanvi,Vasai-Virar
+ORD928,P00281,FreshChoice Food Bowl,Delivered,,2025-09-07,Harsh,Amritsar
+ORD090,P00507,SportsFit Cage,Processing,2025-09-22,2025-09-06,Diya,Mumbai
+ORD1589,P00199,BeautyBliss Sneakers,Delivered,,2025-09-18,Ayush,Delhi
+ORD012,P00409,StyleMax Wireless Earbuds,Processing,2025-09-26,2025-08-28,Sneha,Varanasi
+ORD1467,P00813,SportsFit Blender,Delivered,,2025-08-31,Akshay,Ranchi
+ORD552,P00826,PetLove Yoga Mat,Out for Delivery,2025-09-21,2025-09-04,Vikas,Kalyan-Dombivli
+ORD1418,P00539,HomeEssentials Headphones,Delivered,,2025-08-30,Nisha,Pune
+ORD983,P00019,TechPro Biography,Delivered,,2025-08-28,Aadhya,Visakhapatnam
+ORD943,P00259,AutoCare Tennis Racket,Delivered,,2025-09-12,Harsh,Ghaziabad
+ORD167,P00462,FreshChoice Tire Pump,Processing,2025-09-25,2025-08-27,Isha,Vadodara
+ORD1635,P00588,BeautyBliss Textbook,Delivered,,2025-09-11,Jiya,Chennai
+ORD315,P00892,TechPro Plates Set,Shipped,2025-09-26,2025-09-09,Sanya,Bhopal
+ORD1417,P00102,HomeEssentials Gym Bag,Delivered,,2025-09-17,Tanvi,Dhanbad
+ORD218,P00384,FreshChoice Remote Car,Processing,2025-09-22,2025-09-05,Nikhil,Navi Mumbai
+ORD1842,P00254,ReadWell Backpack,Delivered,,2025-09-08,Yash,Coimbatore
+ORD766,P00887,PetLove Candles,Delivered,,2025-09-09,Rohit,Ludhiana
+ORD808,P00947,TechPro Belt,Delivered,,2025-08-31,Yash,Rajkot
+ORD1534,P00795,PetLove Jeans,Delivered,,2025-09-17,Suresh,Ludhiana
+ORD1846,P00436,FreshChoice Knife Set,Delivered,,2025-09-02,Varun,Aurangabad
+ORD054,P00004,FreshChoice Sunscreen,Processing,2025-09-22,2025-09-08,Prachi,Kanpur
+ORD674,P00300,StyleMax Coffee Maker,Out for Delivery,2025-09-23,2025-09-17,Maya,Allahabad
+ORD194,P00664,PlayTime Knife Set,Processing,2025-09-22,2025-08-23,Mohit,Vadodara
+ORD1939,P00123,BeautyBliss Grooming Kit,Cancelled,,2025-08-25,Rahul,Dhanbad
+ORD1560,P00296,BeautyBliss Chocolate,Delivered,,2025-08-29,Kavya,Ahmedabad
+ORD1726,P00172,AutoCare Pan Set,Delivered,,2025-09-04,Vedika,Aurangabad
+ORD853,P00842,TechPro Curtains,Delivered,,2025-08-27,Samar,Varanasi
+ORD1285,P00365,FreshChoice Cookbook,Delivered,,2025-09-14,Ashish,Ahmedabad
+ORD1881,P00975,PlayTime Car Mats,Delivered,,2025-08-29,Abhinav,Vadodara
+ORD1078,P00617,AutoCare Dash Cam,Delivered,,2025-08-27,Pooja,Ghaziabad
+ORD009,P00132,FreshChoice Football,Processing,2025-09-24,2025-08-28,Jiya,Pimpri-Chinchwad
+ORD1834,P00709,PetLove Gym Bag,Delivered,,2025-08-31,Amit,Patna
+ORD1378,P00849,SportsFit Board Game,Delivered,,2025-09-18,Ayush,Visakhapatnam
+ORD1200,P00371,AutoCare Bluetooth Speaker,Delivered,,2025-08-30,Ayush,Bhopal
+ORD1154,P00855,ReadWell Board Game,Delivered,,2025-09-10,Kiran,Ahmedabad
+ORD1637,P00455,FreshChoice Belt,Delivered,,2025-09-17,Deepika,Delhi
+ORD1042,P00870,HomeEssentials Dumbbells,Delivered,,2025-09-03,Mohit,Kanpur
+ORD345,P00974,PlayTime Video Game,Shipped,2025-09-23,2025-09-12,Kiara,Indore
+ORD1398,P00751,BeautyBliss Board Game,Delivered,,2025-09-12,Abhinav,Meerut
+ORD582,P00247,ReadWell Gym Bag,Out for Delivery,2025-09-25,2025-09-12,Siddharth,Pimpri-Chinchwad
+ORD418,P00027,PetLove Puzzle,Shipped,2025-09-25,2025-09-07,Sneha,Srinagar
+ORD192,P00581,BeautyBliss Water Bottle,Processing,2025-09-21,2025-09-01,Vikas,Hyderabad
+ORD716,P00740,StyleMax Shorts,Delivered,,2025-09-12,Gaurav,Kalyan-Dombivli
+ORD254,P00558,AutoCare Toaster,Shipped,2025-09-26,2025-08-21,Shubham,Pune
+ORD304,P00969,HomeEssentials Air Freshener,Shipped,2025-09-22,2025-09-12,Nisha,Vadodara
+ORD231,P00822,AutoCare Lamp,Processing,2025-09-22,2025-09-07,Kiran,Gwalior
+ORD1345,P00606,PlayTime Perfume,Delivered,,2025-08-30,Divya,Howrah
+ORD938,P00886,TechPro Tire Pump,Delivered,,2025-08-25,Aarav,Aurangabad
+ORD994,P00517,HomeEssentials Video Game,Delivered,,2025-09-13,Ayush,Faridabad
+ORD1149,P00043,AutoCare Science Book,Delivered,,2025-09-18,Varun,Allahabad
+ORD731,P00560,FreshChoice Car Charger,Delivered,,2025-08-28,Kabir,Aurangabad
+ORD905,P00577,PlayTime Honey,Delivered,,2025-08-25,Arya,Vadodara
+ORD084,P00485,BeautyBliss Dash Cam,Processing,2025-09-26,2025-08-24,Jiya,Hyderabad
+ORD1853,P00879,PlayTime Lamp,Delivered,,2025-08-31,Aditi,Srinagar
+ORD238,P00936,AutoCare Pet Toy,Processing,2025-09-24,2025-08-23,Ravi,Agra
+ORD1643,P00998,SportsFit Board Game,Delivered,,2025-08-20,Harsh,Howrah
+ORD957,P00654,ReadWell Cookbook,Delivered,,2025-08-24,Isha,Nashik
+ORD335,P00640,HomeEssentials Tablet,Shipped,2025-09-23,2025-08-20,Tanvi,Kalyan-Dombivli
+ORD1428,P00743,AutoCare Dress,Delivered,,2025-09-11,Tanya,Meerut
+ORD964,P00808,FreshChoice Perfume,Delivered,,2025-08-21,Samar,Faridabad
+ORD1890,P00136,HomeEssentials Action Figure,Delivered,,2025-08-21,Rohit,Kanpur
+ORD376,P00002,StyleMax Cushions,Shipped,2025-09-23,2025-08-30,Naina,Howrah
+ORD471,P00020,PlayTime Textbook,Shipped,2025-09-23,2025-09-04,Vikram,Lucknow
+ORD1546,P00740,StyleMax Shorts,Delivered,,2025-09-02,Avani,Nagpur
+ORD305,P00336,StyleMax Phone Case,Shipped,2025-09-21,2025-09-15,Mohit,Vasai-Virar
+ORD387,P00207,SportsFit Curtains,Shipped,2025-09-22,2025-09-17,Akash,Ludhiana
+ORD1942,P00644,ReadWell Cereals,Cancelled,,2025-08-28,Isha,Ahmedabad
+ORD902,P00602,PetLove Moisturizer,Delivered,,2025-09-02,Vikram,Ahmedabad
+ORD1304,P00462,FreshChoice Tire Pump,Delivered,,2025-09-13,Deepika,Howrah
+ORD1139,P00047,ReadWell Bluetooth Speaker,Delivered,,2025-08-27,Ankit,Nashik
+ORD310,P00440,PetLove Poetry,Shipped,2025-09-24,2025-08-31,Vikram,Vadodara
+ORD1943,P00383,HomeEssentials Science Book,Cancelled,,2025-09-02,Abhinav,Pimpri-Chinchwad
+ORD647,P00773,AutoCare Sunscreen,Out for Delivery,2025-09-26,2025-08-26,Aryan,Ludhiana
+ORD338,P00259,AutoCare Tennis Racket,Shipped,2025-09-26,2025-08-26,Gaurav,Agra
+ORD1764,P00004,FreshChoice Sunscreen,Delivered,,2025-09-02,Kiara,Aurangabad
+ORD1334,P00098,BeautyBliss Face Cream,Delivered,,2025-09-16,Isha,Ranchi
+ORD1059,P00350,PlayTime Doll,Delivered,,2025-09-07,Ravi,Ranchi
+ORD541,P00759,HomeEssentials Art Kit,Shipped,2025-09-24,2025-09-17,Zara,Bhopal
+ORD1256,P00716,PetLove Car Mats,Delivered,,2025-09-11,Jiya,Bangalore
+ORD1854,P00475,TechPro Dog Food,Delivered,,2025-08-25,Dev,Rajkot
+ORD1402,P00581,BeautyBliss Water Bottle,Delivered,,2025-09-13,Uday,Nashik
+ORD881,P00192,StyleMax Phone Mount,Delivered,,2025-09-04,Akash,Pimpri-Chinchwad
+ORD739,P00081,BeautyBliss Food Bowl,Delivered,,2025-09-02,Lakshmi,Lucknow
+ORD576,P00725,ReadWell Honey,Out for Delivery,2025-09-21,2025-09-14,Manish,Amritsar
+ORD1698,P00146,PetLove Dog Food,Delivered,,2025-08-26,Siddharth,Patna
+ORD262,P00818,BeautyBliss Knife Set,Shipped,2025-09-21,2025-09-13,Aditi,Jaipur
+ORD091,P00915,PetLove Cage,Processing,2025-09-21,2025-08-25,Vivek,Bhopal
+ORD1590,P00791,SportsFit Musical Toy,Delivered,,2025-08-29,Ayush,Thane
+ORD240,P00773,AutoCare Sunscreen,Processing,2025-09-26,2025-09-11,Varun,Ranchi
+ORD1800,P00042,SportsFit Foundation,Delivered,,2025-09-14,Arya,Gwalior
+ORD291,P00185,PetLove Spices,Shipped,2025-09-26,2025-09-10,Rohit,Agra
+ORD1719,P00186,SportsFit Perfume,Delivered,,2025-08-24,Siddharth,Bangalore
+ORD1087,P00536,PlayTime Lamp,Delivered,,2025-09-15,Aditi,Meerut
+ORD1518,P00784,TechPro Perfume,Delivered,,2025-09-08,Vikas,Kalyan-Dombivli
+ORD184,P00296,BeautyBliss Chocolate,Processing,2025-09-24,2025-08-28,Aditya,Srinagar
+ORD1353,P00705,StyleMax Seat Covers,Delivered,,2025-08-20,Kiara,Aurangabad
+ORD959,P00363,HomeEssentials History Book,Delivered,,2025-09-09,Arya,Aurangabad
+ORD695,P00749,TechPro Phone Mount,Out for Delivery,2025-09-26,2025-09-04,Shubham,Chennai
+ORD1010,P00041,PlayTime Leash,Delivered,,2025-09-01,Mohit,Thane
+ORD1032,P00030,SportsFit Pasta,Delivered,,2025-08-22,Deepika,Aurangabad
+ORD1806,P00656,HomeEssentials Jeans,Delivered,,2025-09-10,Riya,Varanasi
+ORD1460,P00056,AutoCare Belt,Delivered,,2025-09-09,Siddharth,Bangalore
+ORD368,P00778,PlayTime Mouse,Shipped,2025-09-24,2025-08-27,Aryan,Gwalior
+ORD1600,P00939,TechPro Board Game,Delivered,,2025-09-03,Aditya,Jaipur
+ORD085,P00291,FreshChoice Comic Book,Processing,2025-09-26,2025-09-02,Samar,Hyderabad
+ORD1146,P00984,TechPro Action Figure,Delivered,,2025-08-29,Diya,Ghaziabad
+ORD271,P00730,BeautyBliss Sunscreen,Shipped,2025-09-24,2025-08-20,Ankit,Hyderabad
+ORD760,P00823,FreshChoice Dress,Delivered,,2025-08-20,Vikram,Bhopal
+ORD809,P00509,AutoCare Yoga Mat,Delivered,,2025-09-18,Suresh,Vasai-Virar
+ORD620,P00390,HomeEssentials Cage,Out for Delivery,2025-09-23,2025-08-24,Zara,Agra
+ORD781,P00098,BeautyBliss Face Cream,Delivered,,2025-09-02,Dev,Rajkot
+ORD1270,P00990,AutoCare Video Game,Delivered,,2025-09-06,Kartik,Visakhapatnam
+ORD1757,P00224,TechPro Car Charger,Delivered,,2025-08-30,Ashish,Varanasi
+ORD520,P00169,SportsFit Socks,Shipped,2025-09-25,2025-09-08,Zara,Ahmedabad
+ORD011,P00952,TechPro Sunscreen,Processing,2025-09-26,2025-09-01,Krishna,Ghaziabad
+ORD094,P00288,PlayTime Pet Bed,Processing,2025-09-24,2025-08-24,Siddharth,Ranchi
+ORD1226,P00440,PetLove Poetry,Delivered,,2025-09-11,Kartik,Meerut
+ORD1242,P00754,TechPro Candles,Delivered,,2025-09-14,Ayush,Bhopal
+ORD726,P00803,PlayTime Bluetooth Speaker,Delivered,,2025-08-21,Naina,Dhanbad
+ORD1511,P00556,FreshChoice Doll,Delivered,,2025-09-14,Lakshmi,Jaipur
+ORD1817,P00661,FreshChoice Sneakers,Delivered,,2025-09-07,Raj,Thane
+ORD1508,P00984,TechPro Action Figure,Delivered,,2025-08-28,Meera,Kalyan-Dombivli
+ORD1490,P00262,SportsFit Art Kit,Delivered,,2025-09-13,Amit,Vadodara
+ORD121,P00686,ReadWell Video Game,Processing,2025-09-25,2025-09-15,Manish,Srinagar
+ORD1887,P00593,PlayTime Board Game,Delivered,,2025-09-08,Sachin,Dhanbad
+ORD196,P00484,BeautyBliss History Book,Processing,2025-09-24,2025-09-11,Diya,Meerut
+ORD150,P00742,PetLove Novel,Processing,2025-09-25,2025-08-31,Raj,Kolkata
+ORD525,P00406,ReadWell Bluetooth Speaker,Shipped,2025-09-21,2025-09-10,Manish,Coimbatore
+ORD1224,P00919,TechPro Dash Cam,Delivered,,2025-08-25,Yash,Navi Mumbai
+ORD1582,P00060,PlayTime Phone Case,Delivered,,2025-09-15,Siddharth,Hyderabad
+ORD1897,P00325,BeautyBliss Phone Mount,Cancelled,,2025-08-31,Deepika,Varanasi
+ORD435,P00786,SportsFit Smartwatch,Shipped,2025-09-24,2025-08-31,Aditi,Dhanbad
+ORD815,P00430,BeautyBliss Phone Case,Delivered,,2025-09-12,Siddharth,Visakhapatnam
+ORD663,P00605,AutoCare Sneakers,Out for Delivery,2025-09-26,2025-09-16,Dev,Ludhiana
+ORD273,P00282,StyleMax Eye Shadow,Shipped,2025-09-26,2025-08-30,Sachin,Meerut
+ORD961,P00782,HomeEssentials Moisturizer,Delivered,,2025-08-20,Kavya,Agra
+ORD022,P00421,TechPro Tire Pump,Processing,2025-09-26,2025-09-04,Akshay,Kolkata
+ORD176,P00449,HomeEssentials Charger,Processing,2025-09-25,2025-09-16,Akash,Vasai-Virar
+ORD939,P00934,FreshChoice Tire Pump,Delivered,,2025-09-14,Kabir,Jabalpur
+ORD1442,P00001,TechPro Jacket,Delivered,,2025-08-26,Aditya,Vadodara
+ORD1194,P00258,HomeEssentials Leash,Delivered,,2025-09-06,Maya,Navi Mumbai
+ORD758,P00048,AutoCare Running Shoes,Delivered,,2025-09-03,Simran,Meerut
+ORD509,P00670,HomeEssentials Pet Bed,Shipped,2025-09-26,2025-09-07,Naina,Pune
+ORD924,P00139,TechPro Cage,Delivered,,2025-08-25,Siddharth,Howrah
+ORD1503,P00283,PlayTime Water Bottle,Delivered,,2025-08-24,Amit,Pimpri-Chinchwad
+ORD1591,P00819,PlayTime Comic Book,Delivered,,2025-08-30,Vikram,Kalyan-Dombivli
+ORD1537,P00112,HomeEssentials Oil,Delivered,,2025-09-04,Divya,Bangalore
+ORD595,P00247,ReadWell Gym Bag,Out for Delivery,2025-09-24,2025-08-31,Uday,Agra
+ORD059,P00921,TechPro Video Game,Processing,2025-09-22,2025-09-07,Nikhil,Kolkata
+ORD299,P00622,StyleMax Lipstick,Shipped,2025-09-24,2025-09-04,Priya,Thane
+ORD1574,P00975,PlayTime Car Mats,Delivered,,2025-08-31,Kabir,Srinagar
+ORD1705,P00525,ReadWell Car Vacuum,Delivered,,2025-08-21,Isha,Howrah
+ORD857,P00396,AutoCare Collar,Delivered,,2025-09-04,Vikram,Kanpur
+ORD388,P00956,BeautyBliss Science Book,Shipped,2025-09-25,2025-09-09,Varun,Allahabad
+ORD1387,P00885,ReadWell Cap,Delivered,,2025-08-28,Manish,Ahmedabad
+ORD580,P00294,TechPro Dog Food,Out for Delivery,2025-09-25,2025-09-18,Yash,Nagpur
+ORD442,P00576,HomeEssentials Pasta,Shipped,2025-09-23,2025-09-15,Naina,Srinagar
+ORD1593,P00826,PetLove Yoga Mat,Delivered,,2025-08-29,Manish,Mumbai
+ORD424,P00900,SportsFit Sunscreen,Shipped,2025-09-25,2025-08-23,Kavya,Jaipur
+ORD884,P00771,BeautyBliss Cereals,Delivered,,2025-08-27,Arya,Hyderabad
+ORD1468,P00409,StyleMax Wireless Earbuds,Delivered,,2025-09-10,Anushka,Rajkot
+ORD783,P00679,BeautyBliss Tennis Racket,Delivered,,2025-09-14,Naina,Vadodara
+ORD1416,P00207,SportsFit Curtains,Delivered,,2025-09-15,Kiara,Indore
+ORD590,P00217,ReadWell Cookbook,Out for Delivery,2025-09-26,2025-08-21,Isha,Patna
+ORD546,P00424,HomeEssentials Novel,Shipped,2025-09-23,2025-09-09,Amit,Ranchi
+ORD391,P00128,FreshChoice Chocolate,Shipped,2025-09-23,2025-08-24,Yash,Rajkot
+ORD1665,P00112,HomeEssentials Oil,Delivered,,2025-08-28,Suresh,Ludhiana
+ORD1446,P00791,SportsFit Musical Toy,Delivered,,2025-08-23,Rahul,Ranchi
+ORD243,P00599,ReadWell Phone Mount,Processing,2025-09-26,2025-09-06,Sneha,Kolkata
+ORD1013,P00856,ReadWell Food Bowl,Delivered,,2025-08-31,Mohit,Lucknow
+ORD1380,P00756,BeautyBliss Charger,Delivered,,2025-09-17,Krishna,Srinagar
+ORD930,P00458,BeautyBliss Lamp,Delivered,,2025-09-07,Kiara,Jabalpur
+ORD1670,P00299,HomeEssentials Cushions,Delivered,,2025-09-06,Aryan,Indore
+ORD1077,P00825,StyleMax Hoodie,Delivered,,2025-09-14,Dev,Kalyan-Dombivli
+ORD029,P00498,FreshChoice Seat Covers,Processing,2025-09-22,2025-09-03,Vedika,Pune
+ORD241,P00375,SportsFit Poetry,Processing,2025-09-24,2025-09-16,Aarav,Pimpri-Chinchwad
+ORD1162,P00581,BeautyBliss Water Bottle,Delivered,,2025-08-27,Gaurav,Howrah
+ORD349,P00898,PlayTime Comic Book,Shipped,2025-09-25,2025-08-25,Deepika,Jabalpur
+ORD1554,P00088,FreshChoice Pet Toy,Delivered,,2025-09-02,Tanvi,Amritsar
+ORD1438,P00721,BeautyBliss Phone Case,Delivered,,2025-08-25,Yash,Ludhiana
+ORD306,P00180,PlayTime Science Book,Shipped,2025-09-24,2025-09-14,Tanya,Bhopal
+ORD533,P00855,ReadWell Board Game,Shipped,2025-09-21,2025-09-18,Rohan,Srinagar
+ORD1230,P00613,PetLove Grooming Kit,Delivered,,2025-08-21,Uday,Kalyan-Dombivli
+ORD879,P00658,TechPro Jeans,Delivered,,2025-09-01,Tanvi,Nagpur
+ORD1266,P00417,PetLove Foundation,Delivered,,2025-09-02,Ashish,Ranchi
+ORD822,P00541,SportsFit Coffee Maker,Delivered,,2025-09-17,Isha,Navi Mumbai
+ORD102,P00724,PetLove Jeans,Processing,2025-09-21,2025-09-12,Vikram,Kalyan-Dombivli
+ORD1994,P00291,FreshChoice Comic Book,Cancelled,,2025-09-04,Rohit,Varanasi
+ORD537,P00033,SportsFit Belt,Shipped,2025-09-26,2025-08-24,Vikram,Gwalior
+ORD1454,P00846,BeautyBliss Honey,Delivered,,2025-08-21,Arya,Jabalpur
+ORD1678,P00882,TechPro Jacket,Delivered,,2025-09-09,Aditi,Visakhapatnam
+ORD183,P00879,PlayTime Lamp,Processing,2025-09-23,2025-09-13,Vikas,Dhanbad
+ORD469,P00794,ReadWell Toaster,Shipped,2025-09-24,2025-08-23,Diya,Visakhapatnam
+ORD1683,P00394,BeautyBliss GPS,Delivered,,2025-08-23,Simran,Kalyan-Dombivli
+ORD1254,P00207,SportsFit Curtains,Delivered,,2025-08-22,Riya,Vadodara
+ORD1326,P00082,FreshChoice Football,Delivered,,2025-09-13,Sanya,Bhopal
+ORD1144,P00161,StyleMax Cage,Delivered,,2025-09-01,Maya,Jaipur
+ORD048,P00827,HomeEssentials Cookbook,Processing,2025-09-25,2025-08-29,Aarav,Ranchi
+ORD043,P00324,PetLove Belt,Processing,2025-09-21,2025-08-20,Aarav,Srinagar
+ORD460,P00824,AutoCare Face Mask,Shipped,2025-09-25,2025-09-03,Divya,Lucknow
+ORD1786,P00670,HomeEssentials Pet Bed,Delivered,,2025-09-18,Isha,Gwalior
+ORD773,P00239,PlayTime Nuts,Delivered,,2025-09-01,Shreya,Mumbai
+ORD806,P00095,BeautyBliss Doll,Delivered,,2025-08-21,Samar,Ahmedabad
+ORD373,P00469,ReadWell Moisturizer,Shipped,2025-09-21,2025-09-16,Mohit,Jabalpur
+ORD753,P00512,PetLove Leash,Delivered,,2025-08-22,Jiya,Faridabad
+ORD1714,P00136,HomeEssentials Action Figure,Delivered,,2025-08-30,Rahul,Patna
+ORD173,P00812,PlayTime Eye Shadow,Processing,2025-09-25,2025-09-09,Raj,Varanasi
+ORD407,P00322,ReadWell Video Game,Shipped,2025-09-23,2025-08-29,Nikhil,Ahmedabad
+ORD578,P00017,FreshChoice Pan Set,Out for Delivery,2025-09-25,2025-09-18,Vikas,Mumbai
+ORD671,P00835,TechPro Jeans,Out for Delivery,2025-09-25,2025-09-06,Neha,Dhanbad
+ORD1215,P00742,PetLove Novel,Delivered,,2025-08-28,Sanya,Srinagar
+ORD1408,P00752,HomeEssentials Tennis Racket,Delivered,,2025-09-13,Abhinav,Gwalior
+ORD356,P00788,FreshChoice Science Book,Shipped,2025-09-24,2025-09-09,Neha,Navi Mumbai
+ORD534,P00690,FreshChoice Pet Toy,Shipped,2025-09-25,2025-08-26,Vivek,Allahabad
+ORD274,P00612,TechPro Knife Set,Shipped,2025-09-23,2025-09-02,Divya,Amritsar
+ORD980,P00005,FreshChoice Foundation,Delivered,,2025-09-17,Tanya,Indore
+ORD925,P00030,SportsFit Pasta,Delivered,,2025-09-13,Kiran,Indore
+ORD655,P00440,PetLove Poetry,Out for Delivery,2025-09-21,2025-09-06,Manish,Thane
+ORD1669,P00677,BeautyBliss Car Vacuum,Delivered,,2025-09-14,Aryan,Allahabad
+ORD1405,P00544,FreshChoice Nuts,Delivered,,2025-09-14,Aryan,Vadodara
+ORD1217,P00388,FreshChoice Belt,Delivered,,2025-09-06,Deepika,Kolkata
+ORD267,P00112,HomeEssentials Oil,Shipped,2025-09-25,2025-09-04,Maya,Gwalior
+ORD1330,P00534,ReadWell Art Kit,Delivered,,2025-09-04,Vikas,Kanpur
+ORD1977,P00150,SportsFit Puzzle,Cancelled,,2025-08-22,Rahul,Coimbatore
+ORD1941,P00493,SportsFit GPS,Cancelled,,2025-08-31,Yash,Pimpri-Chinchwad
+ORD512,P00655,AutoCare Backpack,Shipped,2025-09-23,2025-08-20,Sneha,Gwalior
+ORD324,P00320,HomeEssentials Science Book,Shipped,2025-09-21,2025-09-04,Isha,Varanasi
+ORD227,P00110,SportsFit Belt,Processing,2025-09-24,2025-09-11,Shubham,Howrah
+ORD169,P00073,TechPro Socks,Processing,2025-09-22,2025-08-28,Prachi,Coimbatore
+ORD1180,P00407,HomeEssentials Self-Help Book,Delivered,,2025-09-07,Neha,Mumbai
+ORD1620,P00795,PetLove Jeans,Delivered,,2025-09-08,Diya,Kolkata
+ORD626,P00837,StyleMax Novel,Out for Delivery,2025-09-24,2025-08-24,Simran,Ahmedabad
+ORD1948,P00297,ReadWell Lipstick,Cancelled,,2025-09-09,Siddharth,Chennai
+ORD1839,P00721,BeautyBliss Phone Case,Delivered,,2025-08-22,Riya,Dhanbad
+ORD821,P00327,BeautyBliss Grooming Kit,Delivered,,2025-08-30,Maya,Delhi
+ORD007,P00458,BeautyBliss Lamp,Processing,2025-09-25,2025-08-21,Anushka,Hyderabad
+ORD279,P00438,PlayTime Pet Toy,Shipped,2025-09-26,2025-09-08,Nisha,Faridabad
+ORD1313,P00418,FreshChoice Dress,Delivered,,2025-08-23,Nisha,Aurangabad
+ORD909,P00283,PlayTime Water Bottle,Delivered,,2025-09-06,Diya,Gwalior
+ORD1291,P00408,HomeEssentials Car Vacuum,Delivered,,2025-09-11,Deepika,Pune
+ORD377,P00427,TechPro Seat Covers,Shipped,2025-09-26,2025-09-13,Anushka,Navi Mumbai
+ORD1684,P00320,HomeEssentials Science Book,Delivered,,2025-09-09,Deepika,Jaipur
+ORD1314,P00860,PetLove Perfume,Delivered,,2025-08-29,Arya,Varanasi
+ORD107,P00552,BeautyBliss Art Kit,Processing,2025-09-26,2025-08-26,Uday,Jabalpur
+ORD1650,P00487,ReadWell Curtains,Delivered,,2025-09-15,Shreya,Aurangabad
+ORD2000,P00123,BeautyBliss Grooming Kit,Cancelled,,2025-09-14,Varun,Rajkot
+ORD1709,P00495,PlayTime Comic Book,Delivered,,2025-09-17,Isha,Coimbatore
+ORD1968,P00081,BeautyBliss Food Bowl,Cancelled,,2025-09-05,Avani,Chennai
+ORD1706,P00752,HomeEssentials Tennis Racket,Delivered,,2025-09-08,Vikram,Nashik
+ORD1494,P00213,SportsFit Keyboard,Delivered,,2025-09-18,Ravi,Meerut
+ORD1234,P00419,FreshChoice Honey,Delivered,,2025-09-07,Ashish,Lucknow
+ORD862,P00021,ReadWell Leash,Delivered,,2025-09-08,Prachi,Kolkata
+ORD721,P00254,ReadWell Backpack,Delivered,,2025-09-10,Anushka,Visakhapatnam
+ORD136,P00479,SportsFit Art Kit,Processing,2025-09-24,2025-08-25,Suresh,Agra
+ORD1037,P00532,PetLove Leash,Delivered,,2025-09-02,Arya,Vasai-Virar
+ORD535,P00389,TechPro Pasta,Shipped,2025-09-22,2025-08-23,Nikhil,Srinagar
+ORD1431,P00768,SportsFit Shampoo,Delivered,,2025-09-01,Vikram,Kolkata
+ORD1694,P00730,BeautyBliss Sunscreen,Delivered,,2025-09-02,Priya,Kalyan-Dombivli
+ORD206,P00680,PlayTime Puzzle,Processing,2025-09-26,2025-08-24,Gaurav,Dhanbad
+ORD1798,P00173,ReadWell Tennis Racket,Delivered,,2025-08-27,Sneha,Ranchi
+ORD1756,P00112,HomeEssentials Oil,Delivered,,2025-09-14,Uday,Vasai-Virar
+ORD682,P00795,PetLove Jeans,Out for Delivery,2025-09-22,2025-08-24,Lakshmi,Coimbatore
+ORD846,P00315,PlayTime Nail Polish,Delivered,,2025-08-26,Ravi,Jaipur
+ORD1587,P00747,AutoCare Food Bowl,Delivered,,2025-08-29,Mohit,Dhanbad
+ORD965,P00267,BeautyBliss Gym Bag,Delivered,,2025-08-31,Ravi,Srinagar
+ORD1879,P00283,PlayTime Water Bottle,Delivered,,2025-09-15,Diya,Dhanbad
+ORD165,P00677,BeautyBliss Car Vacuum,Processing,2025-09-22,2025-09-16,Naina,Nagpur
+ORD562,P00390,HomeEssentials Cage,Out for Delivery,2025-09-25,2025-09-04,Shubham,Ghaziabad
+ORD070,P00962,PlayTime Backpack,Processing,2025-09-21,2025-09-18,Prachi,Nagpur
+ORD833,P00093,HomeEssentials Lipstick,Delivered,,2025-09-17,Meera,Jabalpur
+ORD1628,P00329,TechPro Dumbbells,Delivered,,2025-09-12,Kiran,Vadodara
+ORD650,P00953,HomeEssentials Novel,Out for Delivery,2025-09-22,2025-08-26,Riya,Nagpur
+ORD1294,P00356,FreshChoice Jeans,Delivered,,2025-09-06,Kabir,Srinagar
+ORD899,P00398,BeautyBliss Curtains,Delivered,,2025-09-01,Varun,Ranchi
+ORD1660,P00711,HomeEssentials Dress,Delivered,,2025-09-11,Kabir,Chennai
+ORD431,P00965,StyleMax Collar,Shipped,2025-09-22,2025-08-31,Jiya,Gwalior
+ORD610,P00096,PlayTime T-Shirt,Out for Delivery,2025-09-25,2025-08-30,Sachin,Meerut
+ORD483,P00044,BeautyBliss Shampoo,Shipped,2025-09-26,2025-09-09,Anushka,Nashik
+ORD1595,P00810,ReadWell Wireless Earbuds,Delivered,,2025-09-16,Rohit,Ghaziabad
+ORD617,P00258,HomeEssentials Leash,Out for Delivery,2025-09-26,2025-09-11,Mohit,Jabalpur
+ORD524,P00060,PlayTime Phone Case,Shipped,2025-09-24,2025-09-01,Rohit,Delhi
+ORD805,P00067,BeautyBliss Shorts,Delivered,,2025-09-12,Zara,Jaipur
+ORD017,P00070,FreshChoice Food Bowl,Processing,2025-09-21,2025-08-21,Samar,Chennai
+ORD796,P00406,ReadWell Bluetooth Speaker,Delivered,,2025-09-02,Akshay,Ghaziabad
+ORD1892,P00381,HomeEssentials Educational Toy,Delivered,,2025-09-09,Akshay,Lucknow
+ORD485,P00220,SportsFit Comic Book,Shipped,2025-09-25,2025-09-12,Priya,Ranchi
+ORD1096,P00710,ReadWell Blender,Delivered,,2025-08-28,Akshay,Meerut
+ORD250,P00430,BeautyBliss Phone Case,Shipped,2025-09-26,2025-08-31,Gaurav,Kalyan-Dombivli
+ORD1673,P00736,TechPro Doll,Delivered,,2025-08-20,Shreya,Hyderabad
+ORD1926,P00143,TechPro Tire Pump,Cancelled,,2025-08-23,Arjun,Lucknow
+ORD1435,P00412,BeautyBliss Headphones,Delivered,,2025-09-02,Sanya,Kanpur
+ORD1309,P00512,PetLove Leash,Delivered,,2025-09-14,Riya,Allahabad
+ORD634,P00411,SportsFit Sneakers,Out for Delivery,2025-09-25,2025-09-01,Vikram,Allahabad
+ORD788,P00112,HomeEssentials Oil,Delivered,,2025-09-14,Ashish,Kanpur
+ORD1132,P00025,HomeEssentials Moisturizer,Delivered,,2025-09-04,Samar,Bangalore
+ORD519,P00925,BeautyBliss Hoodie,Shipped,2025-09-22,2025-09-02,Tanya,Lucknow
+ORD491,P00952,TechPro Sunscreen,Shipped,2025-09-24,2025-09-13,Isha,Aurangabad
+ORD1614,P00538,StyleMax Keyboard,Delivered,,2025-09-09,Kabir,Ahmedabad
+ORD1778,P00399,TechPro Football,Delivered,,2025-09-16,Uday,Ghaziabad
+ORD112,P00929,FreshChoice Smartwatch,Processing,2025-09-25,2025-09-06,Aditi,Hyderabad
+ORD1357,P00448,SportsFit Biography,Delivered,,2025-09-06,Nikhil,Kanpur
+ORD1515,P00940,BeautyBliss Perfume,Delivered,,2025-09-13,Ruchi,Chennai
+ORD072,P00445,PetLove Smartwatch,Processing,2025-09-26,2025-09-07,Ruchi,Vasai-Virar
+ORD1241,P00315,PlayTime Nail Polish,Delivered,,2025-08-31,Shreya,Rajkot
+ORD1322,P00911,PlayTime Honey,Delivered,,2025-09-16,Suresh,Gwalior
+ORD044,P00637,BeautyBliss Laptop,Processing,2025-09-21,2025-08-31,Ankit,Allahabad
+ORD632,P00675,BeautyBliss Cage,Out for Delivery,2025-09-26,2025-09-14,Vivek,Meerut
+ORD754,P00162,FreshChoice Poetry,Delivered,,2025-09-10,Ashish,Howrah
+ORD1875,P00377,StyleMax Comic Book,Delivered,,2025-08-24,Ananya,Indore
+ORD1731,P00695,ReadWell Phone Mount,Delivered,,2025-09-08,Siddharth,Bangalore
+ORD744,P00683,FreshChoice Art Book,Delivered,,2025-08-26,Kabir,Ahmedabad
+ORD297,P00160,StyleMax Face Mask,Shipped,2025-09-25,2025-09-13,Akshay,Hyderabad
+ORD1632,P00982,PlayTime Self-Help Book,Delivered,,2025-08-30,Pooja,Kolkata
+ORD505,P00336,StyleMax Phone Case,Shipped,2025-09-24,2025-09-16,Arya,Nagpur
+ORD1399,P00367,StyleMax Water Bottle,Delivered,,2025-08-26,Dev,Pimpri-Chinchwad
+ORD973,P00324,PetLove Belt,Delivered,,2025-08-22,Kavya,Hyderabad
+ORD868,P00104,ReadWell Poetry,Delivered,,2025-09-08,Lakshmi,Indore
+ORD1118,P00685,HomeEssentials Art Book,Delivered,,2025-09-07,Aryan,Visakhapatnam
+ORD1788,P00177,AutoCare Car Mats,Delivered,,2025-08-29,Akshay,Ghaziabad
+ORD232,P00257,PetLove Action Figure,Processing,2025-09-26,2025-08-28,Dev,Kolkata
+ORD1433,P00720,AutoCare Dash Cam,Delivered,,2025-08-28,Vivek,Kolkata
+ORD768,P00378,SportsFit Doll,Delivered,,2025-09-12,Ravi,Howrah
+ORD1093,P00834,StyleMax Art Book,Delivered,,2025-09-04,Ashish,Gwalior
+ORD1868,P00665,StyleMax Air Freshener,Delivered,,2025-09-03,Lakshmi,Bhopal
+ORD1856,P00721,BeautyBliss Phone Case,Delivered,,2025-08-29,Aadhya,Chennai
+ORD1208,P00945,AutoCare Textbook,Delivered,,2025-09-13,Riya,Rajkot
+ORD521,P00697,BeautyBliss Cushions,Shipped,2025-09-26,2025-09-12,Kiara,Hyderabad
+ORD837,P00061,SportsFit Tire Pump,Delivered,,2025-09-18,Diya,Coimbatore
+ORD901,P00470,SportsFit Sneakers,Delivered,,2025-08-20,Aarav,Gwalior
+ORD563,P00268,BeautyBliss Sunscreen,Out for Delivery,2025-09-25,2025-09-07,Mohit,Srinagar
+ORD1754,P00452,BeautyBliss Phone Mount,Delivered,,2025-09-16,Kiara,Indore
+ORD359,P00957,ReadWell GPS,Shipped,2025-09-26,2025-09-15,Riya,Ahmedabad
+ORD219,P00422,TechPro Backpack,Processing,2025-09-26,2025-08-31,Kavya,Kanpur
+ORD296,P00739,SportsFit Grooming Kit,Shipped,2025-09-25,2025-09-08,Anushka,Pune
+ORD447,P00528,SportsFit Coffee Maker,Shipped,2025-09-24,2025-09-04,Rohit,Dhanbad
+ORD867,P00912,FreshChoice Football,Delivered,,2025-09-05,Ishaan,Pune
+ORD1608,P00348,PlayTime Wireless Earbuds,Delivered,,2025-09-06,Tanya,Kanpur
+ORD1524,P00082,FreshChoice Football,Delivered,,2025-08-27,Kartik,Jaipur
+ORD1533,P00909,BeautyBliss Board Game,Delivered,,2025-09-11,Vivek,Rajkot
+ORD799,P00767,PlayTime Comic Book,Delivered,,2025-09-01,Nikhil,Kolkata
+ORD1510,P00994,PlayTime Blender,Delivered,,2025-09-09,Samar,Varanasi
+ORD1197,P00904,PetLove Car Charger,Delivered,,2025-09-14,Zara,Kanpur
+ORD675,P00296,BeautyBliss Chocolate,Out for Delivery,2025-09-24,2025-09-13,Mohit,Ranchi
+ORD1716,P00619,HomeEssentials GPS,Delivered,,2025-09-13,Gaurav,Varanasi
+ORD1584,P00998,SportsFit Board Game,Delivered,,2025-08-22,Ruchi,Pimpri-Chinchwad
+ORD1953,P00548,PetLove Running Shoes,Cancelled,,2025-08-31,Shubham,Lucknow
+ORD1229,P00932,TechPro Perfume,Delivered,,2025-08-22,Anushka,Vadodara
+ORD488,P00686,ReadWell Video Game,Shipped,2025-09-25,2025-08-21,Maya,Bhopal
+ORD1612,P00089,SportsFit Tablet,Delivered,,2025-09-03,Naina,Faridabad
+ORD1017,P00271,StyleMax Knife Set,Delivered,,2025-09-04,Akshay,Kolkata
+ORD516,P00781,StyleMax Tennis Racket,Shipped,2025-09-26,2025-09-11,Anushka,Navi Mumbai
+ORD1076,P00408,HomeEssentials Car Vacuum,Delivered,,2025-09-08,Ravi,Varanasi
+ORD1588,P00828,PlayTime Science Book,Delivered,,2025-09-13,Meera,Vadodara
+ORD1189,P00041,PlayTime Leash,Delivered,,2025-08-29,Sachin,Kolkata
+ORD1361,P00827,HomeEssentials Cookbook,Delivered,,2025-08-27,Priya,Vadodara
+ORD1069,P00987,PlayTime Phone Case,Delivered,,2025-09-03,Aadhya,Navi Mumbai
+ORD248,P00505,FreshChoice Pet Toy,Shipped,2025-09-21,2025-09-15,Naina,Allahabad
+ORD1025,P00411,SportsFit Sneakers,Delivered,,2025-09-06,Divya,Patna
+ORD1505,P00972,BeautyBliss Dumbbells,Delivered,,2025-09-10,Maya,Lucknow
+ORD1170,P00084,TechPro Tablet,Delivered,,2025-08-23,Rahul,Jaipur
+ORD230,P00764,HomeEssentials Foundation,Processing,2025-09-23,2025-09-03,Meera,Jabalpur
+ORD1781,P00108,ReadWell Foundation,Delivered,,2025-09-06,Ayush,Thane
+ORD288,P00866,SportsFit Comic Book,Shipped,2025-09-23,2025-09-01,Avani,Patna
+ORD1484,P00352,AutoCare Food Bowl,Delivered,,2025-08-27,Avani,Ghaziabad
+ORD813,P00511,PetLove Charger,Delivered,,2025-09-05,Kartik,Pune
+ORD185,P00091,ReadWell Belt,Processing,2025-09-23,2025-09-08,Sachin,Ahmedabad
+ORD1347,P00931,PetLove Coffee,Delivered,,2025-09-07,Kartik,Allahabad
+ORD1708,P00172,AutoCare Pan Set,Delivered,,2025-09-17,Rohan,Howrah
+ORD1765,P00759,HomeEssentials Art Kit,Delivered,,2025-09-06,Ananya,Allahabad
+ORD834,P00225,SportsFit Lamp,Delivered,,2025-09-18,Siddharth,Aurangabad
+ORD131,P00759,HomeEssentials Art Kit,Processing,2025-09-26,2025-09-07,Divya,Lucknow
+ORD611,P00013,TechPro Sneakers,Out for Delivery,2025-09-24,2025-09-09,Tanvi,Hyderabad
+ORD1233,P00004,FreshChoice Sunscreen,Delivered,,2025-09-06,Lakshmi,Ludhiana
+ORD643,P00354,StyleMax Cereals,Out for Delivery,2025-09-24,2025-09-18,Ashish,Vadodara
+ORD172,P00847,ReadWell Art Kit,Processing,2025-09-21,2025-09-14,Amit,Kanpur
+ORD114,P00052,StyleMax Wireless Earbuds,Processing,2025-09-24,2025-09-10,Sachin,Thane
+ORD1805,P00709,PetLove Gym Bag,Delivered,,2025-09-14,Lakshmi,Lucknow
+ORD1603,P00951,BeautyBliss Dumbbells,Delivered,,2025-08-26,Amit,Navi Mumbai
+ORD996,P00898,PlayTime Comic Book,Delivered,,2025-08-29,Nisha,Allahabad
+ORD1480,P00205,PlayTime Shampoo,Delivered,,2025-08-28,Sneha,Lucknow
+ORD087,P00826,PetLove Yoga Mat,Processing,2025-09-22,2025-09-12,Aditi,Bangalore
+ORD1320,P00800,PlayTime Nail Polish,Delivered,,2025-09-09,Shubham,Ludhiana
+ORD361,P00928,AutoCare Musical Toy,Shipped,2025-09-22,2025-09-02,Yash,Hyderabad
+ORD1128,P00008,ReadWell Shampoo,Delivered,,2025-08-29,Ananya,Thane
+ORD1349,P00316,PlayTime Puzzle,Delivered,,2025-09-07,Vikas,Pimpri-Chinchwad
+ORD569,P00584,TechPro Leash,Out for Delivery,2025-09-22,2025-08-23,Mohit,Ranchi
+ORD1618,P00158,SportsFit Keyboard,Delivered,,2025-09-12,Sanya,Aurangabad
+ORD530,P00385,HomeEssentials Running Shoes,Shipped,2025-09-26,2025-09-16,Uday,Jaipur
+ORD060,P00363,HomeEssentials History Book,Processing,2025-09-25,2025-08-25,Vikas,Gwalior
+ORD280,P00977,BeautyBliss Coffee,Shipped,2025-09-26,2025-09-14,Isha,Chennai
+ORD559,P00217,ReadWell Cookbook,Out for Delivery,2025-09-22,2025-08-20,Ayush,Aurangabad
+ORD327,P00066,StyleMax Rice,Shipped,2025-09-23,2025-09-17,Raj,Chennai
+ORD1885,P00194,SportsFit Cat Litter,Delivered,,2025-09-16,Abhinav,Bhopal
+ORD076,P00442,TechPro Toaster,Processing,2025-09-26,2025-09-16,Samar,Gwalior
+ORD1325,P00647,ReadWell Cap,Delivered,,2025-08-30,Vedika,Chennai
+ORD865,P00203,SportsFit Football,Delivered,,2025-09-08,Kartik,Delhi
+ORD894,P00972,BeautyBliss Dumbbells,Delivered,,2025-09-13,Manish,Indore
+ORD1147,P00694,AutoCare Cookbook,Delivered,,2025-08-21,Sneha,Mumbai
+ORD995,P00729,AutoCare Jeans,Delivered,,2025-08-29,Aditya,Meerut
+ORD951,P00825,StyleMax Hoodie,Delivered,,2025-08-22,Vedika,Ludhiana
+ORD636,P00654,ReadWell Cookbook,Out for Delivery,2025-09-21,2025-08-20,Ashish,Visakhapatnam
+ORD1633,P00212,BeautyBliss Cap,Delivered,,2025-09-01,Shreya,Ranchi
+ORD503,P00691,AutoCare Bluetooth Speaker,Shipped,2025-09-22,2025-08-25,Kabir,Gwalior
+ORD057,P00037,BeautyBliss Yoga Mat,Processing,2025-09-23,2025-08-23,Diya,Vasai-Virar
+ORD394,P00533,BeautyBliss Oil,Shipped,2025-09-21,2025-08-24,Vivek,Hyderabad
+ORD308,P00407,HomeEssentials Self-Help Book,Shipped,2025-09-26,2025-08-22,Akash,Vasai-Virar
+ORD233,P00926,ReadWell Seat Covers,Processing,2025-09-26,2025-08-29,Akash,Ghaziabad
+ORD489,P00054,AutoCare Rice,Shipped,2025-09-24,2025-09-15,Samar,Aurangabad
+ORD832,P00317,SportsFit Comic Book,Delivered,,2025-09-13,Kiara,Bangalore
+ORD484,P00947,TechPro Belt,Shipped,2025-09-26,2025-09-04,Nisha,Aurangabad
+ORD1232,P00592,PlayTime Science Book,Delivered,,2025-09-02,Ayush,Navi Mumbai
+ORD1407,P00465,HomeEssentials Science Book,Delivered,,2025-09-18,Neha,Meerut
+ORD526,P00075,SportsFit Rice,Shipped,2025-09-24,2025-09-17,Shreya,Chennai
+ORD329,P00474,PetLove Food Bowl,Shipped,2025-09-25,2025-08-31,Akash,Varanasi
+ORD1324,P00656,HomeEssentials Jeans,Delivered,,2025-08-24,Sanya,Kalyan-Dombivli
+ORD588,P00512,PetLove Leash,Out for Delivery,2025-09-24,2025-08-22,Samar,Howrah
+ORD1794,P00249,AutoCare Science Book,Delivered,,2025-08-28,Uday,Jaipur
+ORD845,P00682,PlayTime Honey,Delivered,,2025-08-31,Kabir,Meerut
+ORD417,P00206,SportsFit Toaster,Shipped,2025-09-22,2025-08-24,Naina,Dhanbad
+ORD1299,P00883,StyleMax Water Bottle,Delivered,,2025-09-10,Kavya,Ranchi
+ORD132,P00446,ReadWell History Book,Processing,2025-09-26,2025-09-13,Riya,Patna
+ORD653,P00656,HomeEssentials Jeans,Out for Delivery,2025-09-24,2025-08-28,Varun,Delhi
+ORD841,P00104,ReadWell Poetry,Delivered,,2025-09-08,Rohan,Ludhiana
+ORD892,P00694,AutoCare Cookbook,Delivered,,2025-08-30,Diya,Ahmedabad
+ORD1720,P00352,AutoCare Food Bowl,Delivered,,2025-09-16,Diya,Jabalpur
+ORD1832,P00738,BeautyBliss Poetry,Delivered,,2025-09-12,Shubham,Patna
+ORD1865,P00180,PlayTime Science Book,Delivered,,2025-08-29,Ananya,Ranchi
+ORD1529,P00948,FreshChoice Art Book,Delivered,,2025-09-10,Vikas,Bhopal
+ORD309,P00020,PlayTime Textbook,Shipped,2025-09-21,2025-09-04,Ruchi,Howrah
+ORD493,P00662,PlayTime Toaster,Shipped,2025-09-21,2025-09-17,Meera,Allahabad
+ORD303,P00614,ReadWell Perfume,Shipped,2025-09-21,2025-09-17,Lakshmi,Ghaziabad
+ORD948,P00284,SportsFit Charger,Delivered,,2025-08-29,Sachin,Patna
+ORD747,P00530,BeautyBliss Car Charger,Delivered,,2025-08-24,Prachi,Kanpur
+ORD1989,P00443,TechPro Dash Cam,Cancelled,,2025-09-05,Avani,Ludhiana
+ORD1070,P00754,TechPro Candles,Delivered,,2025-09-17,Yash,Coimbatore
+ORD123,P00622,StyleMax Lipstick,Processing,2025-09-26,2025-08-26,Avani,Kanpur
+ORD1284,P00208,SportsFit Collar,Delivered,,2025-08-23,Nikhil,Gwalior
+ORD1489,P00386,BeautyBliss Car Charger,Delivered,,2025-08-31,Siddharth,Bangalore
+ORD1160,P00292,BeautyBliss Water Bottle,Delivered,,2025-08-30,Ananya,Indore
+ORD889,P00903,FreshChoice Video Game,Delivered,,2025-09-11,Isha,Ghaziabad
+ORD1576,P00787,TechPro Toaster,Delivered,,2025-09-09,Sachin,Faridabad
+ORD1259,P00686,ReadWell Video Game,Delivered,,2025-09-06,Vedika,Coimbatore
+ORD1657,P00163,FreshChoice Dress,Delivered,,2025-09-03,Tanvi,Chennai
+ORD1092,P00772,BeautyBliss Charger,Delivered,,2025-09-01,Aditya,Nashik
+ORD1307,P00201,HomeEssentials T-Shirt,Delivered,,2025-09-14,Gaurav,Aurangabad
+ORD549,P00871,PlayTime Cage,Out for Delivery,2025-09-26,2025-09-08,Vikram,Kalyan-Dombivli
+ORD958,P00520,AutoCare Science Book,Delivered,,2025-09-09,Jiya,Ranchi
+ORD1521,P00190,SportsFit Collar,Delivered,,2025-09-18,Priya,Jabalpur
+ORD1724,P00592,PlayTime Science Book,Delivered,,2025-08-26,Shreya,Pune
+ORD1924,P00823,FreshChoice Dress,Cancelled,,2025-09-04,Raj,Kanpur
+ORD437,P00251,PlayTime Jeans,Shipped,2025-09-26,2025-08-24,Vedika,Ghaziabad
+ORD1980,P00584,TechPro Leash,Cancelled,,2025-09-16,Arya,Coimbatore
+ORD1182,P00144,HomeEssentials Art Kit,Delivered,,2025-09-04,Ishaan,Nagpur
+ORD383,P00753,SportsFit Cookbook,Shipped,2025-09-23,2025-08-25,Dev,Bangalore
+ORD1058,P00778,PlayTime Mouse,Delivered,,2025-08-28,Maya,Mumbai
+ORD1441,P00985,BeautyBliss Coffee Maker,Delivered,,2025-09-04,Aryan,Rajkot
+ORD1286,P00202,AutoCare Pet Bed,Delivered,,2025-08-28,Mohit,Gwalior
+ORD039,P00609,AutoCare Phone Mount,Processing,2025-09-25,2025-09-17,Anushka,Kalyan-Dombivli
+ORD370,P00221,FreshChoice Building Blocks,Shipped,2025-09-22,2025-08-23,Siddharth,Vasai-Virar
+ORD1122,P00263,PlayTime Eye Shadow,Delivered,,2025-09-01,Raj,Delhi
+ORD1564,P00004,FreshChoice Sunscreen,Delivered,,2025-08-30,Mohit,Visakhapatnam
+ORD1376,P00557,ReadWell Gym Bag,Delivered,,2025-09-03,Kavya,Indore
+ORD929,P00685,HomeEssentials Art Book,Delivered,,2025-08-29,Ayush,Delhi
+ORD1056,P00786,SportsFit Smartwatch,Delivered,,2025-08-30,Isha,Faridabad
+ORD1745,P00654,ReadWell Cookbook,Delivered,,2025-09-15,Ayush,Hyderabad
+ORD515,P00900,SportsFit Sunscreen,Shipped,2025-09-24,2025-08-20,Tanya,Thane
+ORD1748,P00713,PlayTime Grooming Kit,Delivered,,2025-09-13,Nisha,Vadodara
+ORD849,P00617,AutoCare Dash Cam,Delivered,,2025-09-08,Maya,Howrah
+ORD410,P00794,ReadWell Toaster,Shipped,2025-09-26,2025-09-10,Aryan,Thane
+ORD642,P00384,FreshChoice Remote Car,Out for Delivery,2025-09-24,2025-09-06,Neha,Lucknow
+ORD1106,P00339,StyleMax Doll,Delivered,,2025-09-04,Gaurav,Bangalore
+ORD1359,P00226,StyleMax Car Mats,Delivered,,2025-09-10,Anushka,Vasai-Virar
+ORD887,P00063,TechPro Sunscreen,Delivered,,2025-08-23,Tanvi,Navi Mumbai
+ORD615,P00150,SportsFit Puzzle,Out for Delivery,2025-09-22,2025-09-16,Yash,Patna
+ORD1647,P00265,TechPro Bicycle,Delivered,,2025-08-20,Simran,Rajkot
+ORD1912,P00366,TechPro Car Mats,Cancelled,,2025-09-16,Sachin,Pune
+ORD619,P00312,FreshChoice Pet Bed,Out for Delivery,2025-09-24,2025-09-18,Samar,Gwalior
+ORD1688,P00658,TechPro Jeans,Delivered,,2025-08-24,Vikram,Srinagar
+ORD1335,P00056,AutoCare Belt,Delivered,,2025-09-18,Varun,Navi Mumbai
+ORD158,P00076,BeautyBliss Dress,Processing,2025-09-26,2025-08-31,Akshay,Lucknow
+ORD1630,P00688,FreshChoice Chocolate,Delivered,,2025-09-15,Priya,Lucknow
+ORD712,P00321,FreshChoice Pasta,Out for Delivery,2025-09-23,2025-09-07,Dev,Meerut
+ORD430,P00882,TechPro Jacket,Shipped,2025-09-25,2025-09-16,Jiya,Coimbatore
+ORD875,P00100,ReadWell Cricket Bat,Delivered,,2025-09-18,Lakshmi,Kanpur
+ORD974,P00500,PlayTime Dress,Delivered,,2025-09-08,Kabir,Ludhiana
+ORD1088,P00149,ReadWell Poetry,Delivered,,2025-09-17,Amit,Indore
+ORD1970,P00044,BeautyBliss Shampoo,Cancelled,,2025-09-12,Ashish,Bangalore
+ORD1161,P00326,ReadWell Tea,Delivered,,2025-09-03,Aryan,Agra
+ORD138,P00218,PlayTime History Book,Processing,2025-09-23,2025-09-07,Sanya,Patna
+ORD1973,P00045,FreshChoice Leash,Cancelled,,2025-09-16,Rohan,Mumbai
+ORD690,P00291,FreshChoice Comic Book,Out for Delivery,2025-09-23,2025-08-27,Nikhil,Rajkot
+ORD1213,P00147,HomeEssentials Art Kit,Delivered,,2025-08-24,Kavya,Gwalior
+ORD195,P00522,SportsFit Art Book,Processing,2025-09-23,2025-08-27,Vikram,Aurangabad
+ORD1185,P00780,FreshChoice Belt,Delivered,,2025-09-03,Meera,Chennai
+ORD1987,P00690,FreshChoice Pet Toy,Cancelled,,2025-09-15,Kavya,Nashik
+ORD1470,P00493,SportsFit GPS,Delivered,,2025-09-01,Krishna,Dhanbad
+ORD189,P00779,PlayTime Cereals,Processing,2025-09-22,2025-09-17,Priya,Ranchi
+ORD1522,P00581,BeautyBliss Water Bottle,Delivered,,2025-08-30,Meera,Jabalpur
+ORD1280,P00322,ReadWell Video Game,Delivered,,2025-09-07,Manish,Howrah
+ORD463,P00632,SportsFit Shampoo,Shipped,2025-09-23,2025-08-26,Sanya,Amritsar
+ORD1648,P00188,TechPro Mouse,Delivered,,2025-08-27,Samar,Ludhiana
+ORD824,P00103,TechPro Water Bottle,Delivered,,2025-09-11,Naina,Patna
+ORD1175,P00218,PlayTime History Book,Delivered,,2025-08-20,Aditya,Ranchi
+ORD609,P00106,SportsFit Face Cream,Out for Delivery,2025-09-21,2025-09-18,Shubham,Ranchi
+ORD098,P00785,StyleMax Art Kit,Processing,2025-09-25,2025-08-25,Kiara,Visakhapatnam
+ORD544,P00613,PetLove Grooming Kit,Shipped,2025-09-26,2025-08-25,Sachin,Visakhapatnam
+ORD589,P00879,PlayTime Lamp,Out for Delivery,2025-09-25,2025-09-15,Akash,Bhopal
+ORD439,P00451,BeautyBliss Tool Kit,Shipped,2025-09-24,2025-09-05,Harsh,Thane
+ORD1098,P00056,AutoCare Belt,Delivered,,2025-09-18,Nisha,Indore
+ORD1742,P00225,SportsFit Lamp,Delivered,,2025-08-26,Raj,Pimpri-Chinchwad
+ORD1722,P00771,BeautyBliss Cereals,Delivered,,2025-09-05,Tanvi,Visakhapatnam
+ORD155,P00588,BeautyBliss Textbook,Processing,2025-09-24,2025-09-09,Kartik,Varanasi
+ORD1613,P00463,StyleMax Pet Toy,Delivered,,2025-08-23,Rohan,Thane
+ORD1736,P00949,StyleMax Football,Delivered,,2025-09-06,Harsh,Visakhapatnam
+ORD1302,P00756,BeautyBliss Charger,Delivered,,2025-09-12,Vikram,Faridabad
+ORD1774,P00918,PlayTime Football,Delivered,,2025-09-15,Shubham,Dhanbad
+ORD1917,P00404,TechPro Video Game,Cancelled,,2025-09-12,Kiara,Ludhiana
+ORD893,P00973,AutoCare Blender,Delivered,,2025-08-25,Aryan,Nagpur
+ORD1992,P00571,ReadWell Puzzle,Cancelled,,2025-08-26,Akash,Hyderabad
+ORD614,P00143,TechPro Tire Pump,Out for Delivery,2025-09-23,2025-09-10,Priya,Dhanbad
+ORD1260,P00206,SportsFit Toaster,Delivered,,2025-09-02,Aarav,Chennai
+ORD342,P00386,BeautyBliss Car Charger,Shipped,2025-09-23,2025-08-29,Deepika,Navi Mumbai
+ORD696,P00815,AutoCare Cookbook,Out for Delivery,2025-09-24,2025-09-01,Manish,Vasai-Virar
+ORD1367,P00156,PetLove Curtains,Delivered,,2025-09-17,Tanya,Delhi
+ORD1978,P00357,ReadWell Nail Polish,Cancelled,,2025-09-07,Ishaan,Amritsar
+ORD1662,P00607,PlayTime Football,Delivered,,2025-08-30,Harsh,Ludhiana
+ORD1030,P00695,ReadWell Phone Mount,Delivered,,2025-09-04,Kavya,Gwalior
+ORD1018,P00833,HomeEssentials Perfume,Delivered,,2025-09-13,Akash,Vadodara
+ORD689,P00888,ReadWell Sneakers,Out for Delivery,2025-09-22,2025-08-29,Deepika,Visakhapatnam
+ORD422,P00996,AutoCare Sneakers,Shipped,2025-09-26,2025-09-08,Ankit,Varanasi
+ORD1869,P00329,TechPro Dumbbells,Delivered,,2025-09-07,Priya,Amritsar
+ORD1415,P00856,ReadWell Food Bowl,Delivered,,2025-09-14,Kabir,Bangalore
+ORD205,P00763,PetLove Smartwatch,Processing,2025-09-26,2025-09-03,Suresh,Meerut
+ORD1001,P00719,AutoCare Video Game,Delivered,,2025-09-14,Lakshmi,Mumbai
+ORD1656,P00424,HomeEssentials Novel,Delivered,,2025-09-11,Nikhil,Ranchi
+ORD201,P00458,BeautyBliss Lamp,Processing,2025-09-24,2025-09-01,Shreya,Agra
+ORD1173,P00914,StyleMax Video Game,Delivered,,2025-09-18,Neha,Delhi
+ORD661,P00117,FreshChoice Eye Shadow,Out for Delivery,2025-09-23,2025-09-07,Divya,Gwalior
+ORD800,P00474,PetLove Food Bowl,Delivered,,2025-09-15,Dev,Ahmedabad
+ORD1169,P00565,StyleMax Car Charger,Delivered,,2025-09-15,Kabir,Jabalpur
+ORD1851,P00664,PlayTime Knife Set,Delivered,,2025-09-16,Abhinav,Aurangabad
+ORD649,P00870,HomeEssentials Dumbbells,Out for Delivery,2025-09-26,2025-09-08,Ashish,Kanpur
+ORD046,P00903,FreshChoice Video Game,Processing,2025-09-22,2025-09-16,Sneha,Vadodara
+ORD1205,P00588,BeautyBliss Textbook,Delivered,,2025-08-31,Ishaan,Jaipur
+ORD962,P00671,AutoCare Nail Polish,Delivered,,2025-09-16,Maya,Nashik
+ORD1426,P00855,ReadWell Board Game,Delivered,,2025-09-09,Ankit,Thane
+ORD042,P00272,HomeEssentials Action Figure,Processing,2025-09-22,2025-09-06,Rohan,Srinagar
+ORD547,P00971,ReadWell Coffee Maker,Out for Delivery,2025-09-26,2025-08-21,Kabir,Vasai-Virar
+ORD863,P00076,BeautyBliss Dress,Delivered,,2025-09-08,Jiya,Meerut
+ORD1055,P00865,ReadWell Shorts,Delivered,,2025-09-04,Samar,Ranchi
+ORD1164,P00173,ReadWell Tennis Racket,Delivered,,2025-09-18,Ruchi,Visakhapatnam
+ORD866,P00759,HomeEssentials Art Kit,Delivered,,2025-08-29,Jiya,Jabalpur
+ORD1769,P00057,TechPro Tea,Delivered,,2025-08-29,Arjun,Faridabad
+ORD1348,P00233,PetLove Moisturizer,Delivered,,2025-08-24,Arjun,Varanasi
+ORD944,P00694,AutoCare Cookbook,Delivered,,2025-09-02,Varun,Coimbatore
+ORD077,P00322,ReadWell Video Game,Processing,2025-09-21,2025-08-28,Rohan,Amritsar
+ORD668,P00569,TechPro Bicycle,Out for Delivery,2025-09-24,2025-09-13,Raj,Jaipur
+ORD1103,P00387,StyleMax Knife Set,Delivered,,2025-09-17,Vivek,Patna
+ORD041,P00958,FreshChoice Toaster,Processing,2025-09-22,2025-09-10,Ruchi,Visakhapatnam
+ORD348,P00856,ReadWell Food Bowl,Shipped,2025-09-25,2025-08-26,Aditya,Agra
+ORD692,P00385,HomeEssentials Running Shoes,Out for Delivery,2025-09-21,2025-09-04,Arjun,Rajkot
+ORD235,P00203,SportsFit Football,Processing,2025-09-23,2025-08-20,Sachin,Kalyan-Dombivli
+ORD625,P00801,PetLove Dress,Out for Delivery,2025-09-23,2025-09-11,Suresh,Patna
+ORD1780,P00038,StyleMax Cat Litter,Delivered,,2025-09-08,Amit,Agra
+ORD135,P00873,StyleMax Collar,Processing,2025-09-21,2025-09-11,Rahul,Varanasi
+ORD1410,P00163,FreshChoice Dress,Delivered,,2025-08-28,Tanya,Meerut
+ORD174,P00128,FreshChoice Chocolate,Processing,2025-09-26,2025-09-04,Rohan,Rajkot
+ORD1214,P00676,FreshChoice Coffee Maker,Delivered,,2025-09-02,Prachi,Kanpur
+ORD1876,P00914,StyleMax Video Game,Delivered,,2025-08-21,Divya,Hyderabad
+ORD1328,P00998,SportsFit Board Game,Delivered,,2025-08-29,Varun,Patna
+ORD481,P00125,PlayTime Sneakers,Shipped,2025-09-26,2025-08-31,Uday,Meerut
+ORD508,P00977,BeautyBliss Coffee,Shipped,2025-09-23,2025-09-08,Aarav,Pimpri-Chinchwad
+ORD501,P00749,TechPro Phone Mount,Shipped,2025-09-26,2025-09-04,Nisha,Nagpur
+ORD1355,P00975,PlayTime Car Mats,Delivered,,2025-09-11,Aadhya,Ranchi
+ORD116,P00771,BeautyBliss Cereals,Processing,2025-09-24,2025-08-23,Nisha,Hyderabad
+ORD720,P00987,PlayTime Phone Case,Delivered,,2025-09-05,Ruchi,Jaipur
+ORD844,P00711,HomeEssentials Dress,Delivered,,2025-08-21,Shubham,Bhopal
+ORD732,P00978,BeautyBliss Nail Polish,Delivered,,2025-08-25,Ankit,Delhi
+ORD707,P00219,FreshChoice Building Blocks,Out for Delivery,2025-09-21,2025-09-03,Deepika,Coimbatore
+ORD877,P00865,ReadWell Shorts,Delivered,,2025-09-15,Rohit,Rajkot
+ORD200,P00858,BeautyBliss Collar,Processing,2025-09-25,2025-08-31,Kiara,Lucknow
+ORD780,P00998,SportsFit Board Game,Delivered,,2025-08-26,Anushka,Coimbatore
+ORD699,P00873,StyleMax Collar,Out for Delivery,2025-09-23,2025-09-03,Akshay,Bangalore
+ORD1281,P00276,StyleMax Dash Cam,Delivered,,2025-09-13,Kiran,Dhanbad
+ORD1826,P00101,ReadWell Coffee,Delivered,,2025-09-11,Vikas,Indore
+ORD1568,P00285,FreshChoice Lipstick,Delivered,,2025-08-30,Lakshmi,Pune
+ORD056,P00010,AutoCare Mouse,Processing,2025-09-21,2025-09-15,Gaurav,Allahabad
+ORD1196,P00816,HomeEssentials Cereals,Delivered,,2025-08-21,Aadhya,Amritsar
+ORD1520,P00798,HomeEssentials Board Game,Delivered,,2025-09-12,Ashish,Jaipur
+ORD1908,P00747,AutoCare Food Bowl,Cancelled,,2025-08-20,Zara,Agra
+ORD715,P00666,AutoCare Sunscreen,Delivered,,2025-09-13,Zara,Nashik
+ORD751,P00066,StyleMax Rice,Delivered,,2025-09-10,Ankit,Dhanbad
+ORD1715,P00879,PlayTime Lamp,Delivered,,2025-09-10,Aarav,Ahmedabad
+ORD263,P00016,SportsFit Shampoo,Shipped,2025-09-22,2025-09-07,Sachin,Delhi
+ORD093,P00052,StyleMax Wireless Earbuds,Processing,2025-09-22,2025-09-01,Ayush,Srinagar
+ORD1999,P00406,ReadWell Bluetooth Speaker,Cancelled,,2025-09-04,Riya,Hyderabad
+ORD058,P00131,AutoCare Seat Covers,Processing,2025-09-23,2025-09-17,Simran,Bangalore
+ORD126,P00078,TechPro Honey,Processing,2025-09-26,2025-08-31,Nikhil,Kolkata
+ORD657,P00105,StyleMax Cereals,Out for Delivery,2025-09-25,2025-08-24,Kavya,Faridabad
+ORD583,P00835,TechPro Jeans,Out for Delivery,2025-09-23,2025-09-07,Varun,Hyderabad
+ORD1570,P00038,StyleMax Cat Litter,Delivered,,2025-09-14,Aditya,Howrah
+ORD723,P00869,PetLove Lipstick,Delivered,,2025-08-22,Rohan,Thane
+ORD1386,P00572,StyleMax Charger,Delivered,,2025-09-12,Simran,Pune
+ORD1264,P00621,TechPro T-Shirt,Delivered,,2025-09-12,Divya,Rajkot
+ORD774,P00974,PlayTime Video Game,Delivered,,2025-09-08,Aadhya,Meerut
+ORD1211,P00483,ReadWell Cushions,Delivered,,2025-08-22,Kartik,Kanpur
+ORD1014,P00973,AutoCare Blender,Delivered,,2025-09-16,Pooja,Chennai
+ORD540,P00613,PetLove Grooming Kit,Shipped,2025-09-26,2025-08-28,Akshay,Visakhapatnam
+ORD802,P00203,SportsFit Football,Delivered,,2025-08-23,Vedika,Faridabad
+ORD115,P00781,StyleMax Tennis Racket,Processing,2025-09-23,2025-09-08,Suresh,Patna
+ORD1038,P00678,PlayTime Socks,Delivered,,2025-08-26,Nikhil,Aurangabad
+ORD321,P00975,PlayTime Car Mats,Shipped,2025-09-26,2025-08-25,Mohit,Srinagar
+ORD1750,P00945,AutoCare Textbook,Delivered,,2025-09-10,Vivek,Ludhiana
+ORD1152,P00423,BeautyBliss Cookbook,Delivered,,2025-08-21,Pooja,Lucknow
+ORD1965,P00763,PetLove Smartwatch,Cancelled,,2025-08-23,Ayush,Bhopal
+ORD963,P00229,AutoCare Jeans,Delivered,,2025-08-26,Rohit,Kalyan-Dombivli
+ORD1172,P00752,HomeEssentials Tennis Racket,Delivered,,2025-08-21,Ankit,Chennai
+ORD1105,P00599,ReadWell Phone Mount,Delivered,,2025-08-22,Nisha,Mumbai
+ORD1404,P00889,FreshChoice Musical Toy,Delivered,,2025-08-23,Ishaan,Chennai
+ORD1135,P00842,TechPro Curtains,Delivered,,2025-09-11,Prachi,Kalyan-Dombivli
+ORD1352,P00294,TechPro Dog Food,Delivered,,2025-09-03,Tanya,Mumbai
+ORD1913,P00623,AutoCare Pasta,Cancelled,,2025-08-29,Kiran,Coimbatore
+ORD1383,P00698,ReadWell Cushions,Delivered,,2025-09-09,Sachin,Kanpur
+ORD1166,P00861,TechPro Air Freshener,Delivered,,2025-09-07,Dev,Agra
+ORD225,P00572,StyleMax Charger,Processing,2025-09-24,2025-08-29,Nisha,Srinagar
+ORD1903,P00954,SportsFit Bicycle,Cancelled,,2025-09-03,Diya,Srinagar
+ORD999,P00707,PlayTime Cage,Delivered,,2025-09-15,Vikram,Varanasi
+ORD797,P00267,BeautyBliss Gym Bag,Delivered,,2025-08-23,Kabir,Delhi
+ORD1466,P00152,TechPro T-Shirt,Delivered,,2025-09-14,Sanya,Hyderabad
+ORD640,P00101,ReadWell Coffee,Out for Delivery,2025-09-22,2025-09-10,Pooja,Navi Mumbai
+ORD1962,P00357,ReadWell Nail Polish,Cancelled,,2025-09-09,Simran,Jaipur
+ORD883,P00858,BeautyBliss Collar,Delivered,,2025-09-10,Amit,Lucknow
+ORD1007,P00204,SportsFit Sunscreen,Delivered,,2025-08-30,Krishna,Pimpri-Chinchwad
+ORD337,P00068,BeautyBliss Cage,Shipped,2025-09-21,2025-09-08,Tanvi,Vadodara
+ORD1447,P00524,SportsFit Running Shoes,Delivered,,2025-09-01,Gaurav,Kolkata
+ORD1812,P00638,AutoCare Pet Bed,Delivered,,2025-08-22,Uday,Amritsar
+ORD1930,P00180,PlayTime Science Book,Cancelled,,2025-09-01,Harsh,Howrah
+ORD1597,P00117,FreshChoice Eye Shadow,Delivered,,2025-08-28,Samar,Agra
+ORD1763,P00623,AutoCare Pasta,Delivered,,2025-08-21,Varun,Howrah
+ORD1351,P00536,PlayTime Lamp,Delivered,,2025-08-23,Dev,Nashik
+ORD1141,P00572,StyleMax Charger,Delivered,,2025-08-30,Arjun,Vadodara
+ORD363,P00953,HomeEssentials Novel,Shipped,2025-09-24,2025-09-18,Akshay,Rajkot
+ORD068,P00286,FreshChoice Poetry,Processing,2025-09-21,2025-08-22,Rahul,Nashik
+ORD074,P00195,FreshChoice Shorts,Processing,2025-09-21,2025-09-10,Yash,Mumbai
+ORD942,P00917,FreshChoice Backpack,Delivered,,2025-09-06,Shreya,Srinagar
+ORD907,P00271,StyleMax Knife Set,Delivered,,2025-09-06,Kiara,Howrah
+ORD771,P00751,BeautyBliss Board Game,Delivered,,2025-08-21,Uday,Visakhapatnam
+ORD1747,P00673,PetLove Car Charger,Delivered,,2025-08-25,Kavya,Ahmedabad
+ORD645,P00625,FreshChoice Cereals,Out for Delivery,2025-09-23,2025-09-09,Divya,Thane
+ORD922,P00528,SportsFit Coffee Maker,Delivered,,2025-08-24,Ishaan,Chennai
+ORD786,P00464,AutoCare Socks,Delivered,,2025-09-10,Meera,Chennai
+ORD244,P00692,StyleMax Hoodie,Processing,2025-09-24,2025-09-11,Aditi,Gwalior
+ORD1874,P00922,BeautyBliss Novel,Delivered,,2025-09-09,Aryan,Gwalior
+ORD1803,P00008,ReadWell Shampoo,Delivered,,2025-09-13,Arjun,Coimbatore
+ORD882,P00451,BeautyBliss Tool Kit,Delivered,,2025-09-04,Prachi,Bhopal
+ORD065,P00894,TechPro Sneakers,Processing,2025-09-24,2025-09-17,Maya,Indore
+ORD1565,P00223,ReadWell Chocolate,Delivered,,2025-08-31,Isha,Srinagar
+ORD037,P00071,ReadWell Perfume,Processing,2025-09-21,2025-08-30,Naina,Rajkot
+ORD1120,P00699,BeautyBliss Tire Pump,Delivered,,2025-08-21,Sachin,Meerut
+ORD1108,P00053,StyleMax Biography,Delivered,,2025-08-25,Rohan,Dhanbad
+ORD1761,P00669,AutoCare Comic Book,Delivered,,2025-08-29,Aadhya,Bangalore
+ORD1658,P00624,AutoCare Collar,Delivered,,2025-09-12,Yash,Vasai-Virar
+ORD704,P00257,PetLove Action Figure,Out for Delivery,2025-09-23,2025-09-16,Jiya,Pune
+ORD1111,P00226,StyleMax Car Mats,Delivered,,2025-09-13,Riya,Chennai
+ORD536,P00355,BeautyBliss Comic Book,Shipped,2025-09-23,2025-09-14,Kiran,Ahmedabad
+ORD1034,P00452,BeautyBliss Phone Mount,Delivered,,2025-09-17,Ananya,Pimpri-Chinchwad
+ORD1005,P00737,HomeEssentials Pan Set,Delivered,,2025-08-30,Ayush,Vadodara
+ORD1020,P00757,BeautyBliss Treats,Delivered,,2025-09-15,Arya,Bangalore
+ORD1356,P00383,HomeEssentials Science Book,Delivered,,2025-09-12,Vikas,Ranchi
+ORD602,P00363,HomeEssentials History Book,Out for Delivery,2025-09-25,2025-08-28,Suresh,Hyderabad
+ORD414,P00684,StyleMax Sneakers,Shipped,2025-09-26,2025-09-07,Ananya,Ranchi
+ORD955,P00726,AutoCare Mouse,Delivered,,2025-08-31,Kiran,Agra
+ORD1624,P00955,PetLove Keyboard,Delivered,,2025-09-17,Arjun,Agra
+ORD1009,P00721,BeautyBliss Phone Case,Delivered,,2025-09-05,Ravi,Kanpur
+ORD1572,P00943,TechPro Leash,Delivered,,2025-09-16,Akshay,Kolkata
+ORD1065,P00469,ReadWell Moisturizer,Delivered,,2025-08-23,Kiran,Agra
+ORD1540,P00784,TechPro Perfume,Delivered,,2025-08-29,Akshay,Indore
+ORD1354,P00307,TechPro Charger,Delivered,,2025-09-18,Yash,Vadodara
+ORD157,P00117,FreshChoice Eye Shadow,Processing,2025-09-21,2025-08-23,Vedika,Dhanbad
+ORD1557,P00893,SportsFit Cap,Delivered,,2025-08-28,Gaurav,Kanpur
+ORD198,P00885,ReadWell Cap,Processing,2025-09-23,2025-09-16,Vikram,Agra
+ORD1277,P00255,FreshChoice Foundation,Delivered,,2025-09-09,Arjun,Rajkot
+ORD1274,P00649,AutoCare Football,Delivered,,2025-08-24,Maya,Bhopal
+ORD621,P00441,StyleMax Headphones,Out for Delivery,2025-09-26,2025-08-23,Dev,Ghaziabad
+ORD313,P00448,SportsFit Biography,Shipped,2025-09-21,2025-08-22,Nikhil,Vasai-Virar
+ORD670,P00975,PlayTime Car Mats,Out for Delivery,2025-09-24,2025-09-18,Dev,Indore
+ORD1392,P00159,PlayTime Action Figure,Delivered,,2025-09-07,Arjun,Visakhapatnam
+ORD1239,P00803,PlayTime Bluetooth Speaker,Delivered,,2025-09-01,Kartik,Nagpur
+ORD784,P00268,BeautyBliss Sunscreen,Delivered,,2025-08-22,Ruchi,Rajkot
+ORD367,P00141,FreshChoice Musical Toy,Shipped,2025-09-23,2025-09-17,Isha,Jaipur
+ORD055,P00773,AutoCare Sunscreen,Processing,2025-09-26,2025-09-01,Vivek,Ranchi
+ORD1389,P00016,SportsFit Shampoo,Delivered,,2025-09-13,Rahul,Coimbatore
+ORD1021,P00010,AutoCare Mouse,Delivered,,2025-08-22,Dev,Kanpur
+ORD140,P00011,StyleMax Musical Toy,Processing,2025-09-22,2025-09-02,Anushka,Visakhapatnam
+ORD1701,P00484,BeautyBliss History Book,Delivered,,2025-08-29,Ankit,Allahabad
+ORD109,P00447,HomeEssentials Treats,Processing,2025-09-21,2025-09-03,Tanvi,Agra
+ORD1512,P00595,SportsFit Lipstick,Delivered,,2025-09-01,Krishna,Jaipur
+ORD204,P00393,AutoCare Sunscreen,Processing,2025-09-24,2025-09-11,Akash,Ludhiana
+ORD061,P00768,SportsFit Shampoo,Processing,2025-09-22,2025-09-14,Ishaan,Nagpur
+ORD276,P00739,SportsFit Grooming Kit,Shipped,2025-09-22,2025-08-22,Yash,Varanasi
+ORD1931,P00288,PlayTime Pet Bed,Cancelled,,2025-09-12,Kavya,Meerut
+ORD1287,P00007,PlayTime Plates Set,Delivered,,2025-08-25,Uday,Bangalore
+ORD473,P00794,ReadWell Toaster,Shipped,2025-09-24,2025-08-30,Amit,Jaipur
+ORD1019,P00369,AutoCare Keyboard,Delivered,,2025-08-24,Ruchi,Vasai-Virar
+ORD1003,P00277,PlayTime Moisturizer,Delivered,,2025-08-30,Dev,Kalyan-Dombivli
+ORD514,P00466,HomeEssentials Candles,Shipped,2025-09-25,2025-08-26,Sneha,Kalyan-Dombivli
+ORD251,P00671,AutoCare Nail Polish,Shipped,2025-09-24,2025-09-15,Vikas,Patna
+ORD222,P00473,PetLove Curtains,Processing,2025-09-23,2025-08-29,Divya,Pimpri-Chinchwad
+ORD932,P00565,StyleMax Car Charger,Delivered,,2025-09-07,Shreya,Kanpur
+ORD1573,P00427,TechPro Seat Covers,Delivered,,2025-09-13,Ishaan,Vadodara
+ORD302,P00684,StyleMax Sneakers,Shipped,2025-09-21,2025-09-09,Maya,Rajkot
+ORD572,P00738,BeautyBliss Poetry,Out for Delivery,2025-09-24,2025-09-01,Kavya,Allahabad
+ORD1048,P00878,PlayTime Charger,Delivered,,2025-09-03,Aryan,Ludhiana
+ORD993,P00217,ReadWell Cookbook,Delivered,,2025-08-26,Abhinav,Coimbatore
+ORD829,P00936,AutoCare Pet Toy,Delivered,,2025-08-31,Aditi,Nashik
+ORD1946,P00168,SportsFit Food Bowl,Cancelled,,2025-09-17,Priya,Faridabad
+ORD1236,P00876,BeautyBliss Running Shoes,Delivered,,2025-09-01,Vivek,Howrah
+ORD1366,P00504,AutoCare Science Book,Delivered,,2025-09-12,Sachin,Delhi
+ORD975,P00650,PlayTime Cereals,Delivered,,2025-09-17,Aadhya,Varanasi
+ORD730,P00397,FreshChoice Musical Toy,Delivered,,2025-08-22,Vikram,Faridabad
+ORD820,P00398,BeautyBliss Curtains,Delivered,,2025-09-10,Kavya,Delhi
+ORD1932,P00570,BeautyBliss Keyboard,Cancelled,,2025-09-01,Kiara,Bangalore
+ORD1319,P00590,FreshChoice Keyboard,Delivered,,2025-08-29,Tanya,Nagpur
+ORD1641,P00365,FreshChoice Cookbook,Delivered,,2025-09-09,Samar,Indore
+ORD1617,P00026,StyleMax Smartwatch,Delivered,,2025-08-24,Kartik,Amritsar
+ORD1549,P00026,StyleMax Smartwatch,Delivered,,2025-09-13,Divya,Coimbatore
+ORD560,P00937,PetLove GPS,Out for Delivery,2025-09-26,2025-09-11,Lakshmi,Rajkot
+ORD1216,P00611,TechPro Educational Toy,Delivered,,2025-08-31,Ananya,Bhopal
+ORD1192,P00670,HomeEssentials Pet Bed,Delivered,,2025-09-06,Simran,Coimbatore
+ORD1569,P00190,SportsFit Collar,Delivered,,2025-09-14,Amit,Nashik
+ORD1462,P00515,TechPro Sunscreen,Delivered,,2025-08-27,Maya,Lucknow
+ORD1567,P00615,AutoCare Moisturizer,Delivered,,2025-09-18,Nikhil,Ranchi
+ORD571,P00173,ReadWell Tennis Racket,Out for Delivery,2025-09-23,2025-08-26,Jiya,Jaipur
+ORD1023,P00533,BeautyBliss Oil,Delivered,,2025-08-21,Arjun,Faridabad
+ORD1486,P00215,HomeEssentials Gym Bag,Delivered,,2025-08-26,Tanya,Thane
+ORD870,P00677,BeautyBliss Car Vacuum,Delivered,,2025-09-09,Rohan,Visakhapatnam
+ORD1717,P00379,HomeEssentials Food Bowl,Delivered,,2025-08-24,Kabir,Pimpri-Chinchwad
+ORD477,P00495,PlayTime Comic Book,Shipped,2025-09-24,2025-08-30,Kiran,Visakhapatnam
+ORD252,P00034,ReadWell Toaster,Shipped,2025-09-23,2025-08-27,Manish,Varanasi
+ORD828,P00243,HomeEssentials Mouse,Delivered,,2025-08-31,Ruchi,Nashik
+ORD1729,P00269,StyleMax Coffee Maker,Delivered,,2025-09-14,Siddharth,Vasai-Virar
+ORD1219,P00701,BeautyBliss Collar,Delivered,,2025-09-05,Gaurav,Jabalpur
+ORD411,P00627,FreshChoice Headphones,Shipped,2025-09-26,2025-09-09,Kiara,Indore
+ORD694,P00974,PlayTime Video Game,Out for Delivery,2025-09-23,2025-09-03,Aadhya,Hyderabad
+ORD408,P00064,ReadWell Wireless Earbuds,Shipped,2025-09-22,2025-08-26,Mohit,Navi Mumbai
+ORD745,P00013,TechPro Sneakers,Delivered,,2025-08-27,Dev,Mumbai
+ORD133,P00631,AutoCare Educational Toy,Processing,2025-09-25,2025-08-24,Kartik,Srinagar
+ORD346,P00232,AutoCare Moisturizer,Shipped,2025-09-22,2025-09-14,Ankit,Vadodara
+ORD1828,P00813,SportsFit Blender,Delivered,,2025-08-31,Kiara,Pune
+ORD1895,P00293,StyleMax Car Charger,Cancelled,,2025-09-13,Kabir,Lucknow
+ORD1519,P00572,StyleMax Charger,Delivered,,2025-09-04,Rahul,Lucknow
+ORD209,P00933,ReadWell Laptop,Processing,2025-09-21,2025-09-04,Diya,Kalyan-Dombivli
+ORD1210,P00202,AutoCare Pet Bed,Delivered,,2025-09-12,Aryan,Jabalpur
+ORD1424,P00814,FreshChoice Foundation,Delivered,,2025-08-27,Amit,Gwalior

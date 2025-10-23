@@ -1,0 +1,755 @@
+{
+    "users": {
+        "me": {
+            "password": "phones",
+            "cart": []
+        }
+    },
+    "Sachin1001": "Sachin@123",
+    "Sachin1": {
+        "password": "Sachin@123",
+        "cart": [],
+        "orders": [
+            {
+                "order_id": "ORD001",
+                "items": [
+                    {
+                        "name": "*Atlas Dictionary*",
+                        "price": 25.42
+                    },
+                    {
+                        "name": "*Frozen Vegetables*",
+                        "price": 44.37
+                    }
+                ],
+                "total": 69.78999999999999
+            },
+            {
+                "order_id": "ORD002",
+                "items": [
+                    {
+                        "name": "*Bluetooth FM Transmitter*",
+                        "price": 264.68
+                    }
+                ],
+                "total": 264.68
+            },
+            {
+                "order_id": "ORD003",
+                "items": [
+                    {
+                        "name": "*Lumina Changing Pad*",
+                        "price": 89.87
+                    },
+                    {
+                        "name": "*Atlas Baby Monitor*",
+                        "price": 98.72
+                    },
+                    {
+                        "name": "*Astra Smart TV 55 inch*",
+                        "price": 1964.4
+                    },
+                    {
+                        "name": "*Granola 750 g*",
+                        "price": 1.89
+                    },
+                    {
+                        "name": "*Lumina Spice Set*",
+                        "price": 3.63
+                    },
+                    {
+                        "name": "*Zenvo High Chair*",
+                        "price": 278.64
+                    },
+                    {
+                        "name": "*Lumen Gaming Controller*",
+                        "price": 1778.65
+                    },
+                    {
+                        "name": "*Quantum Portable Charger*",
+                        "price": 1512.43
+                    },
+                    {
+                        "name": "*Webcam*",
+                        "price": 1087.77
+                    },
+                    {
+                        "name": "*Mira Children Picture Book*",
+                        "price": 39.73
+                    },
+                    {
+                        "name": "Zephyr Self Help Book",
+                        "price": 5.11
+                    },
+                    {
+                        "name": "Stellar Productivity Guide",
+                        "price": 11.62
+                    },
+                    {
+                        "name": "Nexus Children Picture Book",
+                        "price": 16.63
+                    },
+                    {
+                        "name": "Language Learning Book",
+                        "price": 45.77
+                    },
+                    {
+                        "name": "Infinity Science Primer",
+                        "price": 42.5
+                    },
+                    {
+                        "name": "Solaris Router",
+                        "price": 94.25
+                    },
+                    {
+                        "name": "Oats 1 kg",
+                        "price": 1.78
+                    },
+                    {
+                        "name": "Phone Case",
+                        "price": 1595.66
+                    }
+                ],
+                "total": 8669.05
+            },
+            {
+                "order_id": "ORD004",
+                "items": [
+                    {
+                        "name": "Solaris Phone Case",
+                        "price": 580.31
+                    },
+                    {
+                        "name": "Nordic Tablet 10 inch",
+                        "price": 939.67
+                    },
+                    {
+                        "name": "Zephyr Organic Dark Roast Coffee 1 lb",
+                        "price": 12.2
+                    },
+                    {
+                        "name": "Mira Rice 5 kg",
+                        "price": 27.62
+                    },
+                    {
+                        "name": "Zephyr Organic Dark Roast Coffee 1 lb",
+                        "price": 12.2
+                    },
+                    {
+                        "name": "Sierra Gaming Controller",
+                        "price": 1564.43
+                    },
+                    {
+                        "name": "VR Headset",
+                        "price": 377.03
+                    },
+                    {
+                        "name": "Sierra Green Tea 100 Bags",
+                        "price": 22.33
+                    },
+                    {
+                        "name": "Biography",
+                        "price": 48.51
+                    },
+                    {
+                        "name": "Quantum Comic Book",
+                        "price": 57.78
+                    },
+                    {
+                        "name": "Arctic Self Help Book",
+                        "price": 13.29
+                    },
+                    {
+                        "name": "Vista Hardcover Novel",
+                        "price": 51.14
+                    }
+                ],
+                "total": 3706.51
+            },
+            {
+                "order_id": "ORD005",
+                "items": [
+                    {
+                        "name": "Fantasy Trilogy Book 1",
+                        "price": 48.39
+                    },
+                    {
+                        "name": "Cooking Spray",
+                        "price": 22.91
+                    },
+                    {
+                        "name": "Travel Guide",
+                        "price": 38.43
+                    },
+                    {
+                        "name": "Orion Productivity Guide",
+                        "price": 26.46
+                    },
+                    {
+                        "name": "Vertex Tablet 10 inch",
+                        "price": 120.07
+                    },
+                    {
+                        "name": "Cookbook",
+                        "price": 49.15
+                    },
+                    {
+                        "name": "Fantasy Trilogy Book 1",
+                        "price": 47.61
+                    },
+                    {
+                        "name": "Harmony Historical Fiction",
+                        "price": 14.62
+                    },
+                    {
+                        "name": "Solaris Hardcover Novel",
+                        "price": 21.78
+                    },
+                    {
+                        "name": "Nova Photography Basics",
+                        "price": 12.08
+                    },
+                    {
+                        "name": "Infinity Monitor 24 inch",
+                        "price": 715.83
+                    },
+                    {
+                        "name": "Echo Webcam",
+                        "price": 1647.84
+                    },
+                    {
+                        "name": "Nordic Smart TV 55 inch",
+                        "price": 647.11
+                    },
+                    {
+                        "name": "Wireless Mouse",
+                        "price": 1198.62
+                    }
+                ],
+                "total": 4610.9
+            },
+            {
+                "order_id": "ORD006",
+                "items": [
+                    {
+                        "name": "Nordic Smart TV 55 inch",
+                        "price": 647.11
+                    },
+                    {
+                        "name": "Quantum Smart TV 55 inch",
+                        "price": 401.23
+                    },
+                    {
+                        "name": "Echo Webcam",
+                        "price": 1647.84
+                    },
+                    {
+                        "name": "Language Learning Book",
+                        "price": 40.14
+                    },
+                    {
+                        "name": "Reference Manual",
+                        "price": 38.68
+                    },
+                    {
+                        "name": "Infinity Canned Beans",
+                        "price": 20.41
+                    },
+                    {
+                        "name": "Zephyr Granola 750 g",
+                        "price": 13.36
+                    },
+                    {
+                        "name": "Vista Granola 750 g",
+                        "price": 5.66
+                    },
+                    {
+                        "name": "Nexus Peanut Butter 1 kg",
+                        "price": 27.58
+                    },
+                    {
+                        "name": "Mouse",
+                        "price": 1500.0
+                    },
+                    {
+                        "name": "Laptop",
+                        "price": 50000.0
+                    },
+                    {
+                        "name": "Children Picture Book",
+                        "price": 50.05
+                    },
+                    {
+                        "name": "Velo Peanut Butter 1 kg",
+                        "price": 43.62
+                    },
+                    {
+                        "name": "Sierra Programming Handbook",
+                        "price": 12.42
+                    },
+                    {
+                        "name": "Reference Manual",
+                        "price": 27.18
+                    }
+                ],
+                "total": 54475.280000000006
+            },
+            {
+                "order_id": "ORD007",
+                "items": [
+                    {
+                        "name": "Zephyr Dictionary",
+                        "price": 26.12
+                    }
+                ],
+                "total": 26.12
+            },
+            {
+                "order_id": "ORD008",
+                "items": [
+                    {
+                        "name": "Echo Bluetooth Speaker",
+                        "price": 1320.27
+                    },
+                    {
+                        "name": "Phone Case",
+                        "price": 1117.64
+                    },
+                    {
+                        "name": "Peanut Butter 1 kg",
+                        "price": 31.05
+                    },
+                    {
+                        "name": "Pasta 1 kg",
+                        "price": 16.76
+                    },
+                    {
+                        "name": "Arctic USB Cable",
+                        "price": 1436.3
+                    },
+                    {
+                        "name": "Sierra Router",
+                        "price": 182.69
+                    },
+                    {
+                        "name": "Energy Bars",
+                        "price": 7.07
+                    },
+                    {
+                        "name": "Nordic Dark Chocolate 70 percent",
+                        "price": 38.42
+                    },
+                    {
+                        "name": "Pulse Canned Beans",
+                        "price": 2.03
+                    },
+                    {
+                        "name": "Solaris Rice 5 kg",
+                        "price": 7.81
+                    },
+                    {
+                        "name": "Auris Action Camera 4K",
+                        "price": 723.31
+                    },
+                    {
+                        "name": "Harmony Router",
+                        "price": 1075.6
+                    },
+                    {
+                        "name": "Orion Gaming Headset",
+                        "price": 1999.1
+                    },
+                    {
+                        "name": "Arctic Wireless Earbuds",
+                        "price": 286.37
+                    },
+                    {
+                        "name": "Cereal",
+                        "price": 40.21
+                    }
+                ],
+                "total": 8284.630000000001
+            },
+            {
+                "order_id": "ORD009",
+                "items": [
+                    {
+                        "name": "Bluetooth Speaker",
+                        "price": 551.76
+                    }
+                ],
+                "total": 551.76
+            },
+            {
+                "order_id": "ORD010",
+                "items": [
+                    {
+                        "name": "Orion Peanut Butter 1 kg",
+                        "price": 36.3
+                    },
+                    {
+                        "name": "Cooking Spray",
+                        "price": 5.62
+                    }
+                ],
+                "total": 41.92,
+                "count": 2
+            },
+            {
+                "order_id": "ORD011",
+                "items": [
+                    {
+                        "name": "Infinity USB Cable",
+                        "price": 481.65
+                    },
+                    {
+                        "name": "Nova Granola 750 g",
+                        "price": 22.35
+                    },
+                    {
+                        "name": "Green Tea 100 Bags",
+                        "price": 26.14
+                    }
+                ],
+                "total": 530.14,
+                "count": 3
+            },
+            {
+                "order_id": "ORD012",
+                "items": [
+                    {
+                        "name": "Harmony Paper Clips",
+                        "price": 198.17
+                    },
+                    {
+                        "name": "Vertex Pencil Case",
+                        "price": 199.75
+                    }
+                ],
+                "total": 397.92
+            },
+            {
+                "order_id": "ORD013",
+                "items": [
+                    {
+                        "name": "Nova Photography Basics",
+                        "price": 58.3
+                    },
+                    {
+                        "name": "Paperback Mystery",
+                        "price": 48.25
+                    }
+                ],
+                "subtotal": 106.55,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 19.18,
+                "total": 174.73,
+                "coupon": null,
+                "status": "Processing"
+            },
+            {
+                "order_id": "ORD014",
+                "items": [
+                    {
+                        "name": "Solaris Organic Milk",
+                        "price": 33.64
+                    }
+                ],
+                "subtotal": 33.64,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 6.06,
+                "total": 88.7,
+                "coupon": null,
+                "status": "Processing"
+            },
+            {
+                "order_id": "ORD015",
+                "items": [
+                    {
+                        "name": "Prime Coconut Oil",
+                        "price": 27.66
+                    }
+                ],
+                "subtotal": 27.66,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 4.98,
+                "total": 81.64,
+                "coupon": null,
+                "status": "Processing"
+            },
+            {
+                "order_id": "ORD016",
+                "items": [
+                    {
+                        "name": "Green Tea 100 Bags",
+                        "price": 26.14
+                    }
+                ],
+                "subtotal": 26.14,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 4.71,
+                "total": 79.85,
+                "coupon": null,
+                "status": "Processing"
+            },
+            {
+                "order_id": "ORD017",
+                "items": [
+                    {
+                        "name": "Prime Coconut Oil",
+                        "price": 27.66
+                    },
+                    {
+                        "name": "Phoenix Oats 1 kg",
+                        "price": 14.11
+                    },
+                    {
+                        "name": "Apex Laptop 15 inch",
+                        "price": 519.74
+                    }
+                ],
+                "subtotal": 561.51,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 101.07,
+                "total": 711.58,
+                "coupon": null,
+                "status": "Processing"
+            },
+            {
+                "order_id": "ORD018",
+                "items": [
+                    {
+                        "name": "Mira Biography",
+                        "price": 38.32
+                    },
+                    {
+                        "name": "Vista Biography",
+                        "price": 39.97
+                    }
+                ],
+                "subtotal": 78.29,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 14.09,
+                "total": 141.38,
+                "coupon": null,
+                "status": "Processing",
+                "ship_to": {
+                    "id": "ADDR001",
+                    "label": "Home",
+                    "name": "Sachin1001",
+                    "line1": "xydf",
+                    "line2": "vgg",
+                    "city": "pp",
+                    "state": "uo",
+                    "postcode": "211011",
+                    "country": "India",
+                    "phone": "22558875",
+                    "is_default": true
+                }
+            },
+            {
+                "order_id": "ORD019",
+                "items": [
+                    {
+                        "name": "Astra Travel Guide",
+                        "price": 37.75
+                    },
+                    {
+                        "name": "Astra Fantasy Trilogy Book 1",
+                        "price": 48.11
+                    },
+                    {
+                        "name": "Nordic Paper Clips",
+                        "price": 292.86
+                    },
+                    {
+                        "name": "Calculator",
+                        "price": 170.14
+                    },
+                    {
+                        "name": "Calculator",
+                        "price": 170.14
+                    }
+                ],
+                "subtotal": 719.0,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 129.42,
+                "total": 897.42,
+                "coupon": null,
+                "status": "Processing"
+            },
+            {
+                "order_id": "ORD020",
+                "items": [
+                    {
+                        "name": "Lumen Paper Clips",
+                        "price": 124.12
+                    }
+                ],
+                "subtotal": 124.12,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 22.34,
+                "total": 195.46,
+                "coupon": null,
+                "status": "Processing"
+            },
+            {
+                "order_id": "ORD021",
+                "items": [
+                    {
+                        "name": "Apex Winter Coat",
+                        "price": 193.11
+                    },
+                    {
+                        "name": "Orion Underwear 3 Pack",
+                        "price": 62.76
+                    }
+                ],
+                "subtotal": 255.87,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 46.06,
+                "total": 350.93,
+                "coupon": null,
+                "status": "Processing"
+            },
+            {
+                "order_id": "ORD022",
+                "items": [
+                    {
+                        "name": "Atlas Paper Clips",
+                        "price": 169.92
+                    },
+                    {
+                        "name": "Stapler Set",
+                        "price": 228.96
+                    }
+                ],
+                "subtotal": 398.88,
+                "discount": 0.0,
+                "shipping": 49.0,
+                "tax": 71.8,
+                "total": 519.68,
+                "coupon": null,
+                "status": "Processing"
+            },
+            {
+                "order_id": "ORD023",
+                "items": [
+                    {
+                        "name": "Titan Watercolor Paint Set",
+                        "price": 155.56
+                    }
+                ],
+                "subtotal": 155.56,
+                "discount": 100.0,
+                "shipping": 49.0,
+                "tax": 10.0,
+                "total": 114.56,
+                "coupon": {
+                    "code": "FREE",
+                    "type": "flat",
+                    "value": 100
+                },
+                "status": "Processing"
+            }
+        ],
+        "last_search": "show me books above 40",
+        "addresses": [
+            {
+                "id": "ADDR001",
+                "label": "Home",
+                "name": "Sachin1001",
+                "line1": "xydf",
+                "line2": "vgg",
+                "city": "pp",
+                "state": "uo",
+                "postcode": "211011",
+                "country": "India",
+                "phone": "22558875",
+                "is_default": false
+            },
+            {
+                "id": "ADDR002",
+                "label": "office",
+                "name": "ad",
+                "line1": "adfe",
+                "line2": "fd",
+                "city": "dfewa",
+                "state": "cff",
+                "postcode": "afe",
+                "country": "India",
+                "phone": "fdecdafccd",
+                "is_default": true
+            }
+        ]
+    },
+    "": "",
+    "Sk007": {
+        "password": "Sachin@00",
+        "cart": [],
+        "orders": [
+            {
+                "order_id": "ORD001",
+                "items": [
+                    {
+                        "name": "Zephyr Historical Fiction",
+                        "price": 33.9
+                    },
+                    {
+                        "name": "Atlas Comic Book",
+                        "price": 38.59
+                    }
+                ],
+                "subtotal": 72.49,
+                "discount": 72.49,
+                "shipping": 49.0,
+                "tax": 0.0,
+                "total": 49.0,
+                "coupon": {
+                    "code": "FREE",
+                    "type": "flat",
+                    "value": 100
+                },
+                "status": "Processing",
+                "ship_to": {
+                    "id": "ADDR001",
+                    "label": "Home",
+                    "name": "ad",
+                    "line1": "adfe",
+                    "line2": "fd",
+                    "city": "dfewa",
+                    "state": "cff",
+                    "postcode": "afe",
+                    "country": "India",
+                    "phone": "fdecdafccd",
+                    "is_default": true
+                }
+            }
+        ],
+        "last_search": "show me books",
+        "addresses": [
+            {
+                "id": "ADDR001",
+                "label": "Home",
+                "name": "ad",
+                "line1": "adfe",
+                "line2": "fd",
+                "city": "dfewa",
+                "state": "cff",
+                "postcode": "afe",
+                "country": "India",
+                "phone": "fdecdafccd",
+                "is_default": true
+            }
+        ]
+    }
+}
