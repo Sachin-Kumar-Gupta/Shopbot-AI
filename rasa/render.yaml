@@ -7,10 +7,3 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: rasa run --enable-api --cors "*" --port $PORT
 
-  - type: worker
-    name: rasa-actions
-    env: python
-    plan: free
-    rootDir: rasa
-    buildCommand: pip install -r requirements.txt
-    startCommand: rasa run actions
